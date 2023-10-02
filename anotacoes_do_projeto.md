@@ -1,1 +1,1 @@
-#Anotaçãoes gerais
+#Anotações gerais
