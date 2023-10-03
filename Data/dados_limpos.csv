@@ -1,0 +1,1103 @@
+key,parent,summary,devs,issue_type,status,created,resolved,creator
+SA-4464,SA-3,Produção | Expedição | Lotes | Classificação de corridas,Carlos Pasquali;Jorge Andrade,Task,Done,13/09/2023 05:41:49,18/09/2023 12:24:42,Donavan Marques
+SA-4353,SA-117,Dashboard | Linha do tempo - Manutenções | Alterar para gráfico de barras,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2023 06:27:08,05/09/2023 06:10:21,Yan Fagundes
+SA-4323,SA-2,Dashboard | Pessoal | Números | Atendimentos,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2023 11:16:31,22/09/2023 13:04:28,Yan Fagundes
+SA-4322,SA-2,Dashboard | Gestor(a) | Números | Atendimentos,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2023 11:16:18,22/09/2023 13:04:30,Yan Fagundes
+SA-4307,SA-2,Dashboard | Pessoal | Números | Pacientes atendidos,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2023 04:37:43,22/09/2023 13:03:34,Yan Fagundes
+SA-4271,SA-117,Client | Visualizar anexos/pastas,Carlos Pasquali;Jorge Andrade,Task,Done,15/08/2023 07:36:42,18/08/2023 05:45:06,Yan Fagundes
+SA-4211,SA-2859,Backoffice | Ajuste | Cadastro/edição de ponto de ronda,Luiz Gustavo,Task,Done,04/08/2023 05:50:47,14/08/2023 06:58:32,Donavan Marques
+SA-4197,SA-1,App | Alexa | Editar código de segurança de dispositivo,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,31/07/2023 09:30:37,11/09/2023 05:52:34,Yan Fagundes
+SA-4196,SA-1,App | Alexa | Habilitar/desabilitar abertura de dispositivo via Alexa,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,31/07/2023 09:30:22,11/09/2023 05:52:35,Yan Fagundes
+SA-4195,SA-1,App | Alexa | Vincular conta com Alexa,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,Done,31/07/2023 09:30:12,11/09/2023 05:52:31,Yan Fagundes
+SA-4186,SA-2,App | Notificações | Marcar notificação como lida,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,27/07/2023 11:49:18,31/07/2023 12:41:44,Yan Fagundes
+SA-4185,SA-2,App | Notificações | Visualizar notificações,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,27/07/2023 11:48:50,31/07/2023 12:41:41,Yan Fagundes
+SA-4166,SA-3,Backoffice | Cadastro de cliente | Vínculo de especificações,Carlos Pasquali;Jorge Andrade,Task,Done,25/07/2023 10:04:43,22/08/2023 13:30:34,Donavan Marques
+SA-4165,SA-3,Produção | Pedidos | Botão criar lote na listagem dos itens dos pedidos,Carlos Pasquali;Jorge Andrade,Task,Done,25/07/2023 09:55:56,15/09/2023 11:49:29,Donavan Marques
+SA-4146,SA-2,Dashboard | Gestor(a) | Números| Novos pacientes,Jean Carlos;Luiz Gustavo,Task,Done,24/07/2023 10:42:04,22/09/2023 13:08:46,Yan Fagundes
+SA-4145,SA-2,Dashboard | Gestor(a) | Números | Pacientes atendidos,Jean Carlos;Luiz Gustavo,Task,Done,24/07/2023 10:40:50,22/09/2023 13:03:32,Yan Fagundes
+SA-4139,SA-2,App | Notificações | Notificação para completar endereço,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,20/07/2023 10:10:36,31/07/2023 12:41:38,Yan Fagundes
+SA-4127,SA-2,Financeiro | Movimentações | Filtros | Agrupar,Jean Carlos;Luiz Gustavo,Task,Done,17/07/2023 12:32:31,29/07/2023 11:34:23,Yan Fagundes
+SA-4105,SA-117,Company | Tutorial,Carlos Pasquali,Task,Done,06/07/2023 06:49:16,07/07/2023 13:01:33,Yan Fagundes
+SA-4100,SA-117,"Modal ""Detalhes da manutenção"" | Exibir periodicidade de manutenção",Carlos Pasquali,Task,Done,05/07/2023 09:49:12,07/07/2023 06:59:30,Yan Fagundes
+SA-4098,SA-117,Company | Relatório | Exibir data de notificação,Carlos Pasquali,Task,Done,05/07/2023 09:48:06,07/07/2023 06:59:26,Yan Fagundes
+SA-4097,SA-117,Company | Relatório | Ajustes,Carlos Pasquali,Task,Done,05/07/2023 09:47:21,07/07/2023 06:59:29,Yan Fagundes
+SA-4096,SA-117,Company | Calendário | Excluir relato de avulsa,Carlos Pasquali,Task,Done,05/07/2023 09:46:45,07/07/2023 06:59:25,Yan Fagundes
+SA-4095,SA-117,Company | Calendário | Editar relato,Carlos Pasquali,Task,Done,05/07/2023 09:46:27,07/07/2023 06:59:24,Yan Fagundes
+SA-4094,SA-2,App | Cadastro | Formulário trazendo opções vazias,Luiz Gustavo,Bug,Done,05/07/2023 06:03:23,17/07/2023 06:03:56,Yan Fagundes
+SA-4093,SA-2,App | Cadastro | Perdendo a referência de data de nascimento,Jean Carlos,Bug,Done,05/07/2023 06:01:15,28/08/2023 04:55:52,Yan Fagundes
+SA-4089,SA-4047,Logout,Kauã Librelato da Costa,Task,Done,05/07/2023 05:21:37,15/09/2023 12:07:43,Augusto Mandelli
+SA-4088,SA-4047,"Termos de uso, politicas de privacidade e trocas e devoluções",Kauã Librelato da Costa,Task,Done,05/07/2023 05:21:31,15/09/2023 12:07:36,Augusto Mandelli
+SA-4087,SA-4047,Editar dados cadastrais,Kauã Librelato da Costa,Task,Done,05/07/2023 05:21:03,15/09/2023 12:07:44,Augusto Mandelli
+SA-4084,SA-4047,Cadastro de usuário,Kauã Librelato da Costa,Task,Done,05/07/2023 05:14:55,15/09/2023 12:07:46,Augusto Mandelli
+SA-4083,SA-4047,Login de usuário,Kauã Librelato da Costa,Task,Done,05/07/2023 05:14:52,15/09/2023 12:07:47,Augusto Mandelli
+SA-4081,SA-4047,Checkout de compra,Kauã Librelato da Costa,Task,Done,05/07/2023 05:11:23,15/09/2023 12:07:37,Augusto Mandelli
+SA-4080,SA-4047,Remover produto de carrinho,Kauã Librelato da Costa,Task,Done,05/07/2023 05:11:19,15/09/2023 12:07:39,Augusto Mandelli
+SA-4079,SA-4047,Visualizar carrinho,Kauã Librelato da Costa,Task,Done,05/07/2023 05:11:14,15/09/2023 12:07:40,Augusto Mandelli
+SA-4076,SA-4047,Adicionar produto ao carrinho,Kauã Librelato da Costa,Task,Done,05/07/2023 05:10:50,15/09/2023 12:07:34,Augusto Mandelli
+SA-4075,SA-4047,Visualizar detalhes de produto,Kauã Librelato da Costa,Task,Done,05/07/2023 05:10:18,15/09/2023 12:07:42,Augusto Mandelli
+SA-4072,SA-4047,Visualizar tela de listagem de produtos,Kauã Librelato da Costa,Task,Done,05/07/2023 05:08:20,22/09/2023 13:14:53,Augusto Mandelli
+SA-4071,SA-4047,Visualizar tela de categorias ,Kauã Librelato da Costa,Task,Done,05/07/2023 05:08:06,22/09/2023 13:14:47,Augusto Mandelli
+SA-4069,SA-4047,Barra de pesquisa por palavras,Kauã Librelato da Costa,Task,Done,05/07/2023 05:05:46,15/09/2023 12:07:49,Augusto Mandelli
+SA-4068,SA-4047,Home do app,Kauã Librelato da Costa,Task,Done,05/07/2023 05:05:09,22/09/2023 13:14:59,Augusto Mandelli
+SA-4055,SA-2,Resultados de exames | Erro ao cadastrar resultados de exames,Jean Carlos;Luiz Gustavo,Bug,Done,03/07/2023 11:47:20,29/07/2023 11:34:26,Yan Fagundes
+SA-4052,SA-117,Company | Edificações | Anexos | Excluir pasta,,Task,Done,03/07/2023 04:54:19,18/08/2023 05:45:10,Yan Fagundes
+SA-4051,SA-117,Company | Edificações | Anexos | Editar pasta,,Task,Done,03/07/2023 04:54:14,18/08/2023 05:45:11,Yan Fagundes
+SA-4050,SA-117,Company | Edificações | Anexos | Cadastrar pasta,Carlos Pasquali;Jorge Andrade,Task,Done,03/07/2023 04:54:01,18/08/2023 05:45:12,Yan Fagundes
+SA-4045,SA-2,Backoffice | Adicionar campos no exportar usuários,,Task,Done,30/06/2023 05:02:58,29/07/2023 11:34:13,Augusto Mandelli
+SA-4044,SA-2,Financeiro | Movimentações | Editar status de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,29/06/2023 11:25:56,29/07/2023 11:34:04,Yan Fagundes
+SA-4039,SA-2,App | Revisar layout de agendamentos,Kauã Librelato da Costa,Task,Done,29/06/2023 10:23:19,30/06/2023 12:41:33,Yan Fagundes
+SA-4038,SA-2,Financeiro | Configurações | Locais | Equipe | Permissões de transações,Jean Carlos;Luiz Gustavo,Task,Done,29/06/2023 07:09:38,30/06/2023 12:47:02,Yan Fagundes
+SA-4036,SA-1,Bugs 26/06,Kauã Librelato da Costa,Bug,Done,28/06/2023 06:13:07,17/07/2023 04:14:24,Donavan Marques
+SA-4035,SA-2,Financeiro | Configurações | Locais | Clientes/Fornecedores | Visualizar clientes/fornecedores aquivados,Jean Carlos;Luiz Gustavo,Task,Done,28/06/2023 05:23:25,30/06/2023 12:42:18,Yan Fagundes
+SA-4031,SA-2,Financeiro | Agenda | Agendamento | Cancelar recebimento,Jean Carlos;Luiz Gustavo,Task,Done,27/06/2023 09:28:24,30/06/2023 12:47:23,Yan Fagundes
+SA-4030,SA-2,Financeiro | Agenda | Agendamento | Visualizar detalhes de recebimento,Jean Carlos;Luiz Gustavo,Task,Done,27/06/2023 09:28:10,30/06/2023 12:47:21,Yan Fagundes
+SA-4029,SA-2,Backoffice | Locais | Não é possível remover um gestor de um local,Jean Carlos;Luiz Gustavo,Bug,Done,27/06/2023 05:27:29,17/07/2023 06:03:23,Augusto Mandelli
+SA-4028,SA-2,Backoffice | Usuário | Não está listando todos os usuários,Jean Carlos;Luiz Gustavo,Bug,Done,27/06/2023 05:25:03,17/07/2023 06:03:22,Augusto Mandelli
+SA-4027,SA-2,Backoffice | Usuários | Paginação não funciona quando seleciona tipo de usuário,Jean Carlos;Luiz Gustavo,Bug,Done,27/06/2023 05:24:09,17/07/2023 06:03:20,Augusto Mandelli
+SA-4026,SA-2,Backoffice | Não está deslogando,Jean Carlos,Bug,Done,27/06/2023 05:23:54,29/07/2023 11:34:14,Augusto Mandelli
+SA-4024,SA-2,Financeiro | Movimentações | Cadastrar transferência,,Task,Done,23/06/2023 04:45:27,17/07/2023 06:03:54,Yan Fagundes
+SA-4023,SA-2,Financeiro | Movimentações | Cadastrar entrada,,Task,Done,23/06/2023 04:44:53,17/07/2023 06:03:18,Yan Fagundes
+SA-4022,SA-2,Financeiro | Movimentações | Cadastrar saída,,Task,Done,23/06/2023 04:40:02,17/07/2023 06:03:17,Yan Fagundes
+SA-4020,SA-2,Financeiro | Movimentações | Filtros | Filtrar status (recebidos/não recebidos),Jean Carlos;Luiz Gustavo,Task,Done,22/06/2023 12:28:10,29/07/2023 11:34:21,Yan Fagundes
+SA-4019,SA-2,Financeiro | Movimentações | Filtros | Filtrar responsável por transação,Luiz Gustavo,Task,Done,22/06/2023 12:26:55,29/07/2023 11:34:25,Yan Fagundes
+SA-4017,SA-2,Financeiro | Movimentações | Filtros | Filtrar tipo de pagamento,Luiz Gustavo,Task,Done,22/06/2023 12:26:28,29/07/2023 11:34:24,Yan Fagundes
+SA-4016,SA-2,Financeiro | Movimentações | Filtros | Filtrar tipo de lançamento,Jean Carlos;Luiz Gustavo,Task,Done,22/06/2023 12:26:18,29/07/2023 11:34:07,Yan Fagundes
+SA-4015,SA-2,Financeiro | Movimentações | Filtros | Filtrar período,Jean Carlos;Luiz Gustavo,Task,Done,22/06/2023 12:25:52,29/07/2023 11:34:08,Yan Fagundes
+SA-4014,SA-2,Financeiro | Movimentações | Filtros | Filtrar contas,,Task,Done,22/06/2023 12:25:48,30/06/2023 12:42:23,Yan Fagundes
+SA-4013,SA-2,Financeiro | Movimentações | Filtros | Filtrar locais,,Task,Done,22/06/2023 12:25:30,30/06/2023 12:46:47,Yan Fagundes
+SA-4009,SA-2,App | Tirar nome social do cadastro,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/06/2023 13:12:40,30/06/2023 12:42:05,Yan Fagundes
+SA-4008,SA-2,App | Notificações | Notificação para completar dados cadastrais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/06/2023 13:09:09,31/07/2023 12:41:36,Yan Fagundes
+SA-4007,SA-2,App | Notificações | Notificação de lembrete no dia da consulta,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/06/2023 13:05:49,31/07/2023 12:41:40,Yan Fagundes
+SA-4006,SA-2,App | Notificações | Notificação no dia anterior a consulta,Jean Carlos;Luiz Gustavo,Task,Done,21/06/2023 13:05:40,31/07/2023 12:41:35,Yan Fagundes
+SA-4002,SA-3,Ajuste | paginações,Jorge Andrade,Bug,Done,21/06/2023 09:29:12,13/07/2023 04:34:51,Donavan Marques
+SA-4001,SA-3,Ajuste | Visualizar amostras,Jorge Andrade,Bug,Done,20/06/2023 11:51:57,13/07/2023 04:34:50,Donavan Marques
+SA-3999,SA-420,Logout,Kauã Librelato da Costa,Task,Done,20/06/2023 04:54:07,23/06/2023 11:53:03,Augusto Mandelli
+SA-3998,SA-420,Cadastro de usuário,Kauã Librelato da Costa,Task,Done,20/06/2023 04:54:05,23/06/2023 11:49:06,Augusto Mandelli
+SA-3997,SA-420,Login integrado,Kauã Librelato da Costa,Task,Done,20/06/2023 04:35:24,23/06/2023 11:49:07,Augusto Mandelli
+SA-3995,SA-3,Ajuste | Resultados,Jorge Andrade,Bug,Done,19/06/2023 10:39:03,13/07/2023 04:34:52,Donavan Marques
+SA-3994,SA-3,Ajuste | Duplicar amostra,Carlos Pasquali;Jorge Andrade,Bug,Done,19/06/2023 10:38:40,26/06/2023 09:17:05,Donavan Marques
+SA-3993,SA-3,Ajuste | Cadastro de amostra,Carlos Pasquali;Jorge Andrade,Bug,Done,19/06/2023 10:38:25,26/06/2023 09:17:02,Donavan Marques
+SA-3992,SA-3,Ajuste | Cadastro da matriz,Carlos Pasquali;Jorge Andrade,Bug,Done,19/06/2023 10:38:15,21/06/2023 06:50:17,Donavan Marques
+SA-3991,SA-3,Ajuste | Detalhes da matriz,Carlos Pasquali;Jorge Andrade,Bug,Done,19/06/2023 10:38:05,26/06/2023 09:17:10,Donavan Marques
+SA-3990,SA-3,Ajuste | Cadastro de método,Carlos Pasquali;Jorge Andrade,Bug,Done,19/06/2023 10:22:16,26/06/2023 09:17:11,Donavan Marques
+SA-3987,SA-2,Prontuário | Histórico de agendamento,Jean Carlos;Luiz Gustavo,Task,Done,19/06/2023 05:10:17,30/06/2023 12:47:17,Yan Fagundes
+SA-3985,SA-2,Chat | Mostrar somente usuários ativos,,Task,Done,19/06/2023 05:07:28,29/07/2023 11:34:15,Yan Fagundes
+SA-3983,SA-2,Script migração padrão | Inclusão de Diagnósticos,Luiz Gustavo,Task,Done,15/06/2023 09:43:43,15/06/2023 09:44:53,Yan Fagundes
+SA-3982,SA-2,"Script migração padrão | Inclusão de campos de prontuário (anamnese, prescrições, solicitações e textos)",Luiz Gustavo,Task,Done,15/06/2023 09:42:27,15/06/2023 09:44:50,Yan Fagundes
+SA-3975,SA-1,Confirmar telefone celular,Kauã Librelato da Costa;Luiz Gustavo,Bug,Done,15/06/2023 04:57:11,17/07/2023 04:14:25,Yan Fagundes
+SA-3973,SA-1,Tela de criação de conta,Kauã Librelato da Costa;Luiz Gustavo,Bug,Done,15/06/2023 04:57:10,28/08/2023 05:30:10,Yan Fagundes
+SA-3970,SA-3,Produção | Pedidos | Cancelar itens do pedido,Carlos Pasquali;Jorge Andrade,Task,Done,13/06/2023 10:48:06,14/08/2023 08:04:56,Donavan Marques
+SA-3968,SA-3,Produção | Pedidos | Histórico de modificações no pedido,Carlos Pasquali;Jorge Andrade,Task,Done,13/06/2023 10:46:47,22/08/2023 13:30:09,Donavan Marques
+SA-3967,SA-3,Produção | Pedidos | Filtrar pedidos,Carlos Pasquali;Jorge Andrade,Task,Done,13/06/2023 10:42:22,22/08/2023 13:30:10,Donavan Marques
+SA-3966,SA-3,Produção | Expedição | Lotes |  Filtrar lotes,Carlos Pasquali;Jorge Andrade,Task,Done,13/06/2023 10:41:54,15/09/2023 11:49:33,Donavan Marques
+SA-3963,SA-2,"Enviar mensagem automática apenas para agenda com status ""Marcado""",Luiz Gustavo,Task,Done,12/06/2023 12:52:33,19/06/2023 05:04:31,Augusto Mandelli
+SA-3962,SA-2,App | Poder adicionar controles de saúde nas telas de detalhes de controle de saúde,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:44:56,30/06/2023 12:41:54,Augusto Mandelli
+SA-3961,SA-2,Client | Configurações de conta | Preferências | Editar locais exibidos na busca via app,Jean Carlos;Luiz Gustavo,Task,Done,12/06/2023 12:44:13,11/09/2023 04:36:08,Augusto Mandelli
+SA-3960,SA-2,App | Busca de profissionais | Opção de visualizar todas as especialidades,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:43:31,30/06/2023 12:47:33,Augusto Mandelli
+SA-3959,SA-2,App | Busca de profissionais | Visualizar apenas especialidades que possuem cadastro,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:43:22,30/06/2023 12:41:50,Augusto Mandelli
+SA-3958,SA-2,App | Busca de profissionais | Opção de visualizar todos os profissionais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:43:11,30/06/2023 12:47:26,Augusto Mandelli
+SA-3957,SA-2,App | Busca de profissionais | Visualizar tipos de profissionais que apenas possuem cadastrado na Darwin,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:43:03,30/06/2023 12:41:41,Augusto Mandelli
+SA-3956,SA-2,App | Busca de profissionais | Visualizar estado e cidade que apenas possuem profissionais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 12:42:44,30/06/2023 12:41:38,Augusto Mandelli
+SA-3934,SA-2,App | Filtrar data de exibição de prescrições,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,12/06/2023 04:31:16,30/06/2023 12:41:37,Yan Fagundes
+SA-3928,SA-2,App | Redirecionar para a home,Kauã Librelato da Costa,Task,Done,07/06/2023 11:23:11,30/06/2023 12:41:35,Yan Fagundes
+SA-3927,SA-420,Visualizar noticias do blog,Kauã Librelato da Costa,Task,Done,07/06/2023 10:02:07,30/06/2023 12:49:48,Augusto Mandelli
+SA-3926,SA-2,Chat | Exibição de contatos,Jean Carlos;Luiz Gustavo,Task,Done,05/06/2023 12:33:48,06/06/2023 09:14:30,Yan Fagundes
+SA-3893,SA-3887,Opção de incluir/remover imagem de imóveis,Jorge Andrade,Task,Done,30/05/2023 12:51:32,27/07/2023 05:29:17,Augusto Mandelli
+SA-3892,SA-3887,Visualizar detalhes de imóveis,Jorge Andrade,Task,Done,30/05/2023 12:51:20,30/06/2023 11:23:07,Augusto Mandelli
+SA-3891,SA-3887,Visualizar lista de imóveis vinculadas as empresas,Jorge Andrade,Task,Done,30/05/2023 12:51:04,30/06/2023 11:23:01,Augusto Mandelli
+SA-3890,SA-3887,Visualizar lista de empresas com imóveis de terceiros,Jorge Andrade,Task,Done,30/05/2023 12:50:48,30/06/2023 11:23:02,Augusto Mandelli
+SA-3889,SA-3887,Login/Logout,Jorge Andrade,Task,Done,30/05/2023 12:21:02,30/06/2023 11:22:56,Augusto Mandelli
+SA-3883,SA-420,Integração com mktzap,Kauã Librelato da Costa,Task,Done,30/05/2023 06:26:21,17/07/2023 06:18:06,Augusto Mandelli
+SA-3882,SA-420,Visualizar lojas próximas,Kauã Librelato da Costa,Task,Done,30/05/2023 06:26:10,30/06/2023 12:49:46,Augusto Mandelli
+SA-3881,SA-420,Redesign do Menu/Conta do app,Kauã Librelato da Costa,Task,Done,30/05/2023 06:26:01,30/06/2023 12:49:54,Augusto Mandelli
+SA-3880,SA-420,Redesign da Navbar do app,Kauã Librelato da Costa,Task,Done,30/05/2023 06:25:54,26/06/2023 04:43:50,Augusto Mandelli
+SA-3879,SA-420,Redesign da Home do app,Kauã Librelato da Costa,Task,Done,30/05/2023 06:25:47,30/06/2023 12:49:44,Augusto Mandelli
+SA-3862,SA-2,Prontuário | Impressão de prontuário de paciente,Jean Carlos;Luiz Gustavo,Task,Done,26/05/2023 10:42:30,17/07/2023 06:15:40,Yan Fagundes
+SA-3859,SA-2,Ajuste na data de mensagem de confirmação,Luiz Gustavo,Bug,Done,26/05/2023 04:50:05,31/05/2023 12:01:19,Yan Fagundes
+SA-3841,SA-3,Laboratório | Desfazer aprovação,Carlos Pasquali;Jorge Andrade,Bug,Done,23/05/2023 12:45:38,29/05/2023 05:43:42,Donavan Marques
+SA-3840,SA-3,Laboratório | Resultados,Carlos Pasquali;Jorge Andrade,Bug,Done,23/05/2023 12:21:31,29/05/2023 05:43:40,Donavan Marques
+SA-3838,SA-3,Laboratório | Ensaios | Aspecto,Carlos Pasquali;Jorge Andrade,Bug,Done,23/05/2023 12:06:20,29/05/2023 05:43:43,Donavan Marques
+SA-3837,SA-2,Backoffice | Conselhos | Ajustar cadastro de conselho,Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:47:39,31/05/2023 12:01:04,Yan Fagundes
+SA-3835,SA-2,Backoffice | Conselhos | Detalhes de conselhos | Excluir especialização/área de atuação,Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:27:55,31/05/2023 12:01:22,Yan Fagundes
+SA-3834,SA-2,Backoffice | Conselhos | Detalhes de conselhos | Editar especialização/área de atuação,Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:27:44,31/05/2023 12:01:26,Yan Fagundes
+SA-3833,SA-2,Backoffice | Conselhos | Detalhes de conselhos | Cadastrar especialização/área de atuação,Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:27:19,31/05/2023 12:01:29,Yan Fagundes
+SA-3831,SA-2,Backoffice | Conselhos | Ver detalhes de conselhos,Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:26:56,31/05/2023 12:01:32,Yan Fagundes
+SA-3830,SA-3,Produção | Expedição | Lotes | Imprimir OP,Carlos Pasquali;Jorge Andrade,Task,Done,22/05/2023 09:26:45,15/09/2023 11:49:31,Donavan Marques
+SA-3829,SA-2,Dados cadastrais | Dados profissionais | Cadastrar especialidade/RQE (conselho),Jean Carlos;Luiz Gustavo,Task,Done,22/05/2023 09:19:17,31/05/2023 12:00:56,Yan Fagundes
+SA-3806,SA-2,Financeiro | Configurações | Locais | Formas de pagamento | Ajustar formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,11/05/2023 12:17:05,30/06/2023 12:46:51,Yan Fagundes
+SA-3805,SA-2,Financeiro | Configurações | Locais | Equipe | Permissões de formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,11/05/2023 12:04:48,31/07/2023 12:41:59,Yan Fagundes
+SA-3804,SA-2,Financeiro | Configurações | Locais | Equipe | Permissões de clientes/fornecedores,Jean Carlos;Luiz Gustavo,Task,Done,11/05/2023 12:04:37,31/07/2023 11:13:33,Yan Fagundes
+SA-3802,SA-2859,Backoffice | Grade | Excluir grade,Jean Carlos;Luiz Gustavo,Task,Done,10/05/2023 06:35:04,29/07/2023 11:34:43,Donavan Marques
+SA-3801,SA-2859,Backoffice | Grade | Editar grade,Jean Carlos;Luiz Gustavo,Task,Done,10/05/2023 06:33:19,29/07/2023 11:34:42,Donavan Marques
+SA-3800,SA-2859,Backoffice | Grade | Cadastrar grade,Jean Carlos;Luiz Gustavo,Task,Done,10/05/2023 06:23:46,29/07/2023 11:34:47,Donavan Marques
+SA-3799,SA-2859,Backoffice | Grade | Visualizar detalhes de grade,Jean Carlos;Luiz Gustavo,Task,Done,10/05/2023 06:21:35,29/07/2023 11:34:44,Donavan Marques
+SA-3798,SA-2859,Backoffice | Grade | Visualizar grade,Jean Carlos;Luiz Gustavo,Task,Done,10/05/2023 06:15:32,29/07/2023 11:34:46,Donavan Marques
+SA-3794,SA-3012,Plataforma | Dashboard | Relação de custos por cada equipe/produto,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:40:00,19/06/2023 06:37:49,Yan Fagundes
+SA-3793,SA-3012,Plataforma | Dashboard | Nº de conhecimentos por status de processo,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:40:00,19/06/2023 06:37:40,Yan Fagundes
+SA-3792,SA-3012,Plataforma | Dashboard | Contribuições por colaborador,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:39:59,19/06/2023 06:37:51,Yan Fagundes
+SA-3791,SA-3012,Plataforma | Dashboard | Investimento por classificação ,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:39:59,19/06/2023 06:37:46,Yan Fagundes
+SA-3790,SA-3012,Plataforma | Dashboard | Nº de conhecimentos por classificação,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:39:59,19/06/2023 06:37:37,Yan Fagundes
+SA-3789,SA-3012,Plataforma | Dashboard | Visualizar dashboards,Carlos Pasquali;Jorge Andrade,Task,Done,10/05/2023 04:39:58,19/06/2023 06:36:59,Yan Fagundes
+SA-3787,SA-2,App | Filtrar lista de profissionais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,09/05/2023 13:15:50,31/05/2023 16:23:38,Yan Fagundes
+SA-3786,SA-2859,Ajustes | Cadastrar ronda,Jean Carlos;Luiz Gustavo,Bug,Done,09/05/2023 10:39:12,19/06/2023 05:19:41,Donavan Marques
+SA-3785,SA-2,"Financeiro | Configurações | Locais | Convenios | Inclusão da opção ""pagante""",Jean Carlos;Luiz Gustavo,Task,Done,09/05/2023 04:54:19,30/06/2023 12:47:06,Yan Fagundes
+SA-3784,SA-2859,Ajustes | Cadastrar posto de ronda,Jean Carlos;Luiz Gustavo,Bug,Done,08/05/2023 12:24:29,19/06/2023 05:19:45,Donavan Marques
+SA-3783,SA-2859,Ajustes | Detalhes do local | Troca de textos/títulos,Jean Carlos;Luiz Gustavo,Bug,Done,08/05/2023 10:17:35,19/06/2023 05:19:42,Donavan Marques
+SA-3782,SA-2,Migração | Justi Kalo,,Task,Done,08/05/2023 05:57:18,12/06/2023 07:58:35,Yan Fagundes
+SA-3781,SA-2,App | Hábitos de vida | Trocar o botão editar pelo lápis,Kauã Librelato da Costa,Bug,Done,04/05/2023 11:39:17,08/05/2023 05:17:47,Yan Fagundes
+SA-3777,SA-3702,Imprimir PDF de relatório mensal,Carlos Pasquali,Task,Done,03/05/2023 09:26:56,11/07/2023 05:25:24,Augusto Mandelli
+SA-3775,SA-3702,Gerar Relatório Mensal,Carlos Pasquali,Task,Done,03/05/2023 09:26:37,06/07/2023 06:19:58,Augusto Mandelli
+SA-3774,SA-3702,Visualizar Relatórios,Carlos Pasquali,Task,Done,03/05/2023 09:26:28,06/07/2023 06:19:59,Augusto Mandelli
+SA-3753,SA-3012,Site institucional | Contato,Jorge Andrade,Task,Done,26/04/2023 11:30:23,04/05/2023 13:15:40,Yan Fagundes
+SA-3752,SA-3012,Site institucional | Soluções,Jorge Andrade,Task,Done,26/04/2023 11:30:16,04/05/2023 13:15:39,Yan Fagundes
+SA-3751,SA-3012,Site institucional | Quem somos,Jorge Andrade,Task,Done,26/04/2023 11:30:09,04/05/2023 13:15:37,Yan Fagundes
+SA-3746,SA-3,Produção | Pedidos | Visualizar detalhes de pedido,Carlos Pasquali;Jorge Andrade,Task,Done,25/04/2023 09:29:52,14/08/2023 08:03:47,Donavan Marques
+SA-3745,SA-3,Produção | Pedidos | Excluir pedido,Carlos Pasquali;Jorge Andrade,Task,Done,25/04/2023 09:23:37,14/08/2023 08:03:37,Donavan Marques
+SA-3744,SA-3,Produção | Pedidos | Editar pedido,Carlos Pasquali;Jorge Andrade,Task,Done,25/04/2023 09:23:33,14/08/2023 08:03:35,Donavan Marques
+SA-3743,SA-3,Produção | Pedidos | Cadastrar pedido,Carlos Pasquali;Jorge Andrade,Task,Done,25/04/2023 09:23:29,14/08/2023 08:05:08,Donavan Marques
+SA-3741,SA-3,Produção | Pedidos | Visualizar pedidos,Carlos Pasquali;Jorge Andrade,Task,Done,25/04/2023 09:23:20,14/08/2023 08:03:34,Donavan Marques
+SA-3727,SA-3,Produção | Expedição | Lotes |  Visualizar lotes,Carlos Pasquali;Jorge Andrade,Task,Done,24/04/2023 10:59:57,15/09/2023 11:49:33,Donavan Marques
+SA-3726,SA-3,Produção | Expedição | Lotes | Excluir lote,Carlos Pasquali;Jorge Andrade,Task,Done,24/04/2023 10:50:19,15/09/2023 11:49:28,Donavan Marques
+SA-3725,SA-3,Produção | Expedição | Lotes | Editar lote,Carlos Pasquali;Jorge Andrade,Task,Done,24/04/2023 10:50:14,15/09/2023 11:49:27,Donavan Marques
+SA-3724,SA-3,Produção | Expedição | Lotes | Cadastrar lote,Carlos Pasquali;Jorge Andrade,Task,Done,24/04/2023 10:50:09,15/09/2023 11:49:36,Donavan Marques
+SA-3723,SA-3,Produção | Expedição | Lotes | Visualizar detalhes de lote,Carlos Pasquali;Jorge Andrade,Task,Done,24/04/2023 10:50:02,15/09/2023 11:49:30,Donavan Marques
+SA-3701,SA-2,Mensagens | Agenda | Envio de mensagem automática,Jean Carlos;Luiz Gustavo,Task,Done,20/04/2023 12:38:06,31/05/2023 12:00:53,Yan Fagundes
+SA-3700,SA-2,Mensagens | Agenda | Envio de mensagem manual,Jean Carlos;Luiz Gustavo,Task,Done,20/04/2023 12:37:14,20/04/2023 13:08:01,Yan Fagundes
+SA-3692,SA-3,Laboratório | Amostra | Classificar amostra,Carlos Pasquali;Jorge Andrade,Task,Done,12/04/2023 10:47:43,22/05/2023 05:53:49,Donavan Marques
+SA-3691,SA-3,Backoffice | Clientes,Carlos Pasquali;Jorge Andrade,Bug,Done,12/04/2023 07:32:42,08/05/2023 05:21:35,Donavan Marques
+SA-3672,SA-2,Mensagens | Reenviar mensagens não enviadas,,Task,Done,05/04/2023 13:13:54,31/05/2023 12:00:34,Yan Fagundes
+SA-3671,SA-2,Mensagens | Navbar | Visualizar notificações,,Task,Done,05/04/2023 13:11:31,31/05/2023 12:00:51,Yan Fagundes
+SA-3670,SA-2,Mensagens | Configurações | Locais | Conectar/Reconectar com QRCode,,Task,Done,05/04/2023 13:09:00,31/05/2023 12:00:32,Yan Fagundes
+SA-3667,SA-2,Financeiro | Movimentações | Excluir transação,Jean Carlos;Luiz Gustavo,Task,Done,05/04/2023 11:35:28,29/07/2023 11:34:05,Yan Fagundes
+SA-3666,SA-2,Financeiro | Movimentações | Editar transação,Jean Carlos;Luiz Gustavo,Task,Done,05/04/2023 11:35:19,29/07/2023 11:34:19,Yan Fagundes
+SA-3665,SA-2,Financeiro | Movimentações | Visualizar detalhes transação,Jean Carlos;Luiz Gustavo,Task,Done,05/04/2023 11:31:22,29/07/2023 11:34:03,Yan Fagundes
+SA-3664,SA-2,Financeiro | Movimentações | Visualizar movimentações de conta,Jean Carlos;Luiz Gustavo,Task,Done,05/04/2023 11:27:43,30/06/2023 12:42:13,Yan Fagundes
+SA-3662,SA-114,App | Home,Kauã Librelato da Costa;Luiz Gustavo,Bug,Done,05/04/2023 10:25:17,18/04/2023 06:41:14,Donavan Marques
+SA-3658,SA-2,App | Inclusão de fluxos de cadastro com formulários,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,05/04/2023 05:26:21,20/04/2023 13:07:43,Donavan Marques
+SA-3643,SA-2859,App | Ajuste | Incluir campo no cadastro de ronda,Jean Carlos;Luiz Gustavo,Bug,Done,03/04/2023 05:22:02,20/04/2023 13:23:58,Donavan Marques
+SA-3636,SA-117,Edificação | Responsável por notificação | Exibir em QRCode,Jorge Andrade,Task,Done,30/03/2023 10:44:47,31/03/2023 05:03:51,Yan Fagundes
+SA-3631,SA-2,Prontuário | Antecedentes | Hábitos de vida | Visualizar resumo hábitos de vida,Jean Carlos;Luiz Gustavo,Task,Done,30/03/2023 07:01:02,27/04/2023 12:00:30,Yan Fagundes
+SA-3623,SA-2859,Ajuste | App | Iniciar/finalizar ronda,Kauã Librelato da Costa,Bug,Done,29/03/2023 07:39:20,20/04/2023 12:52:26,Donavan Marques
+SA-3622,SA-2859,Ajuste | Cadastro de local,Jean Carlos;Luiz Gustavo,Bug,Done,29/03/2023 07:26:11,20/04/2023 13:24:21,Donavan Marques
+SA-3621,SA-2859,Ajuste | Cadastro de usuário,Jean Carlos;Luiz Gustavo,Bug,Done,29/03/2023 07:13:30,20/04/2023 13:24:12,Donavan Marques
+SA-3615,SA-2,Financeiro | Configurações | Locais | Clientes/Fornecedores | Arquivar/desarquivar clientes/fornecedores,Jean Carlos;Luiz Gustavo,Task,Done,22/03/2023 12:36:51,30/06/2023 12:42:15,Yan Fagundes
+SA-3614,SA-2,Financeiro | Configurações | Locais | Clientes/Fornecedores | Editar clientes/fornecedores,Jean Carlos;Luiz Gustavo,Task,Done,22/03/2023 12:36:45,22/05/2023 05:53:21,Yan Fagundes
+SA-3612,SA-2,Financeiro | Configurações | Locais | Clientes/Fornecedores | Cadastrar clientes/fornecedores,Jean Carlos;Luiz Gustavo,Task,Done,22/03/2023 12:36:32,22/05/2023 05:53:27,Yan Fagundes
+SA-3611,SA-2,Financeiro | Configurações | Locais | Clientes/Fornecedores | Visualizar clientes/fornecedores,Jean Carlos;Luiz Gustavo,Task,Done,22/03/2023 12:36:27,22/05/2023 05:53:31,Yan Fagundes
+SA-3597,SA-2859,Backoffice | Regiões | Excluir região,Jean Carlos;Luiz Gustavo,Task,Done,16/03/2023 07:15:10,20/04/2023 13:25:23,Donavan Marques
+SA-3596,SA-2859,Backoffice | Regiões | Editar região,Jean Carlos;Luiz Gustavo,Task,Done,16/03/2023 07:15:04,20/04/2023 13:25:56,Donavan Marques
+SA-3595,SA-2859,Backoffice | Regiões | Visualizar detalhes de região,Jean Carlos;Luiz Gustavo,Task,Done,16/03/2023 07:14:56,20/04/2023 13:26:41,Donavan Marques
+SA-3594,SA-2859,Backoffice | Regiões | Cadastrar região,Jean Carlos;Luiz Gustavo,Task,Done,16/03/2023 07:14:42,20/04/2023 13:27:58,Donavan Marques
+SA-3593,SA-2859,Backoffice | Regiões | Visualizar regiões,Jean Carlos;Luiz Gustavo,Task,Done,16/03/2023 07:14:36,20/04/2023 13:24:36,Donavan Marques
+SA-3592,SA-2,Financeiro | Navbar | Caixas | Detalhes de caixa | Realizar transação de caixa,Jean Carlos;Luiz Gustavo,Task,Done,15/03/2023 06:13:08,30/06/2023 12:47:10,Yan Fagundes
+SA-3546,SA-3,Laboratório | Clientes | Ajustes,Jorge Andrade,Bug,Done,08/03/2023 05:50:14,28/03/2023 11:46:36,Donavan Marques
+SA-3537,SA-2,Reagendar | Erro ao comunicar-se ao servidor,,Bug,Done,06/03/2023 05:31:27,07/03/2023 09:16:13,Thiago Meller Casagrande
+SA-3535,SA-117,Plataforma | Recuperar senha,Carlos Pasquali;Jorge Andrade,Task,Done,06/03/2023 04:00:05,15/03/2023 13:03:25,Augusto Mandelli
+SA-3531,SA-2,Financeiro | Agenda | Agendamento | Receber,Jean Carlos;Luiz Gustavo,Task,Done,02/03/2023 12:22:39,30/06/2023 12:46:49,Yan Fagundes
+SA-3518,SA-117,Company | Calendário | Modal detalhes de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,01/03/2023 10:44:45,06/03/2023 13:28:49,Yan Fagundes
+SA-3513,SA-117,Ajustes gerais,Carlos Pasquali;Jorge Andrade,Task,Done,01/03/2023 05:39:54,13/03/2023 05:01:46,Yan Fagundes
+SA-3511,SA-2,Financeiro | Navbar | Caixas | Abrir/Fechar caixa,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:25:11,30/06/2023 12:47:25,Yan Fagundes
+SA-3510,SA-2,Financeiro | Navbar | Caixas | Visualizar detalhes de caixa,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:23:32,30/06/2023 12:47:04,Yan Fagundes
+SA-3508,SA-2,Financeiro | Configurações | Locais | Equipe | Permissões de contas,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:07:50,31/07/2023 11:13:37,Yan Fagundes
+SA-3507,SA-2,Financeiro | Configurações | Locais | Contas | Visualizar contas arquivadas,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:07:17,30/06/2023 12:42:30,Yan Fagundes
+SA-3506,SA-2,Financeiro | Configurações | Locais | Contas | Arquivar/desarquivar contas,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:05:18,30/06/2023 12:42:32,Yan Fagundes
+SA-3505,SA-2,Financeiro | Configurações | Locais | Contas | Editar conta,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 06:04:05,22/05/2023 05:53:29,Yan Fagundes
+SA-3504,SA-2,Financeiro | Configurações | Locais | Contas | Cadastrar conta,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 05:44:51,22/05/2023 05:53:25,Yan Fagundes
+SA-3503,SA-2,Financeiro | Configurações | Locais | Contas | Visualizar contas,Jean Carlos;Luiz Gustavo,Task,Done,28/02/2023 05:35:34,22/05/2023 05:53:23,Yan Fagundes
+SA-3439,SA-3,Laboratório | Ordenação de ensaios,Carlos Pasquali;Jorge Andrade,Bug,Done,24/02/2023 05:44:58,27/03/2023 05:06:30,Donavan Marques
+SA-3424,SA-3,Laboratório | Cadastrar especificação,Carlos Pasquali;Jorge Andrade,Bug,Done,23/02/2023 10:12:06,28/03/2023 11:46:31,Donavan Marques
+SA-3423,SA-3,Laboratório | Manter padrão min e max de LQM,Carlos Pasquali;Jorge Andrade,Bug,Done,23/02/2023 10:09:08,27/03/2023 05:37:24,Donavan Marques
+SA-3413,SA-2,App | Prescrições | Download de pdf de prescrição,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,23/02/2023 03:53:24,07/03/2023 05:52:53,Yan Fagundes
+SA-3412,SA-2,App | Prescrições | Detalhes de prescrição,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,23/02/2023 03:53:20,07/03/2023 05:52:58,Yan Fagundes
+SA-3411,SA-2,App | Prescrições | Visualizar prescrições,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,23/02/2023 03:53:11,07/03/2023 05:52:56,Yan Fagundes
+SA-3409,SA-3,Laboratório | Casas decimais na matriz,Carlos Pasquali;Jorge Andrade,Bug,Done,22/02/2023 11:01:03,27/03/2023 05:37:28,Donavan Marques
+SA-3408,SA-3,Laboratório | Especificações técnicas,Carlos Pasquali;Jorge Andrade,Bug,Done,22/02/2023 09:54:12,22/05/2023 05:53:47,Donavan Marques
+SA-3407,SA-3,Laboratório | Cadastrar método,Carlos Pasquali;Jorge Andrade,Bug,Done,22/02/2023 09:51:24,27/03/2023 05:37:26,Donavan Marques
+SA-3369,SA-2859,App | Fiscal | Vigilantes | Chamar vigilante (acorda vigia),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:15,29/07/2023 11:34:50,Donavan Marques
+SA-3368,SA-2859,App | Fiscal | Notificações | Notificação de inconsistência na ronda de vigilantes / mensagem,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:15,14/08/2023 06:58:39,Donavan Marques
+SA-3367,SA-2859,App | Fiscal | Rondas | Realizar check-in de ronda,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:14,14/08/2023 06:58:41,Donavan Marques
+SA-3366,SA-2859,App | Fiscal | Rondas | Visualizar ronda,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:14,31/07/2023 13:18:59,Donavan Marques
+SA-3365,SA-2859,App | Vigilante | Notificações | Notificação de mensagens / acorda vigia,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:13,14/08/2023 06:58:36,Donavan Marques
+SA-3364,SA-2859,App | Vigilante | Rondas | Chamado de pânico,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:13,31/07/2023 13:18:38,Donavan Marques
+SA-3363,SA-2859,App | Vigilante | Rondas | Indicar inconsistência,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:12,18/05/2023 10:30:06,Donavan Marques
+SA-3362,SA-2859,App | Vigilante | Rondas | Realizar check-in de ponto,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:12,20/04/2023 12:52:25,Donavan Marques
+SA-3361,SA-2859,App | Vigilante | Rondas | Iniciar/finalizar ronda,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:11,20/04/2023 12:52:23,Donavan Marques
+SA-3360,SA-2859,App | Vigilante | Rondas | Visualizar ronda,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:11,20/04/2023 12:52:22,Donavan Marques
+SA-3359,SA-2859,App | Login / Logout,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,17/02/2023 05:40:10,20/04/2023 12:52:20,Donavan Marques
+SA-3357,SA-2859,Backoffice | Gestão | Notificação de pânico,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:09,19/06/2023 05:15:48,Donavan Marques
+SA-3356,SA-2859,Backoffice | Gestão | Acompanhar rondas,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:09,14/08/2023 06:58:44,Donavan Marques
+SA-3355,SA-2859,Backoffice | Gestão | Vigilante | Enviar mensagem para vigilante,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:08,19/06/2023 05:15:51,Donavan Marques
+SA-3354,SA-2859,Backoffice | Gestão | Vigilante | Chamar vigilante (acorda vigia),Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:08,29/07/2023 11:34:49,Donavan Marques
+SA-3353,SA-2859,Backoffice | Gestão | Relatórios | Exportar relatório para xls,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:07,31/07/2023 13:22:38,Donavan Marques
+SA-3352,SA-2859,Backoffice | Clientes & Gestão  | Relatórios | Gerar relatório de rondas,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:07,14/08/2023 06:58:34,Donavan Marques
+SA-3351,SA-2859,Backoffice | Rondas | Excluir ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:06,20/04/2023 13:27:56,Donavan Marques
+SA-3350,SA-2859,Backoffice | Rondas | Editar ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:06,20/04/2023 13:25:55,Donavan Marques
+SA-3349,SA-2859,Backoffice | Rondas | Visualizar detalhes da ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:05,20/04/2023 13:26:08,Donavan Marques
+SA-3348,SA-2859,Backoffice | Rondas | Cadastrar ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:05,20/04/2023 13:27:08,Donavan Marques
+SA-3347,SA-2859,Backoffice | Rondas | Visualizar rondas,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:04,20/04/2023 13:27:04,Donavan Marques
+SA-3346,SA-2859,Backoffice | Locais | Detalhes do local | Editar pontos de vigia,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:04,10/04/2023 05:05:50,Donavan Marques
+SA-3345,SA-2859,Backoffice | Locais | Detalhes do local | Cadastrar pontos de vigia,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:03,20/04/2023 13:25:20,Donavan Marques
+SA-3344,SA-2859,Backoffice | Locais | Detalhes do local | Editar postos de ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:03,10/04/2023 05:05:41,Donavan Marques
+SA-3342,SA-2859,Backoffice | Locais | Detalhes do local | Cadastrar postos de ronda,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:02,10/04/2023 05:05:45,Donavan Marques
+SA-3341,SA-2859,Backoffice | Locais | Excluir local,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:01,24/03/2023 13:18:38,Donavan Marques
+SA-3340,SA-2859,Backoffice | Locais | Editar local,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:01,24/03/2023 13:18:40,Donavan Marques
+SA-3339,SA-2859,Backoffice | Locais | Visualizar detalhes do local,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:00,24/03/2023 13:18:42,Donavan Marques
+SA-3338,SA-2859,Backoffice | Locais | Cadastrar local,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:40:00,24/03/2023 13:18:45,Donavan Marques
+SA-3337,SA-2859,Backoffice | Locais | Visualizar local,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:59,24/03/2023 13:18:50,Donavan Marques
+SA-3336,SA-2859,Backoffice | Usuários | Excluir usuário,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:59,24/03/2023 13:17:39,Donavan Marques
+SA-3335,SA-2859,Backoffice | Usuários | Editar usuário,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:58,24/03/2023 13:17:37,Donavan Marques
+SA-3334,SA-2859,Backoffice | Usuários | Visualizar detalhes de usuário,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:58,24/03/2023 13:17:44,Donavan Marques
+SA-3333,SA-2859,Backoffice | Usuários | Cadastrar usuário,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:57,24/03/2023 12:58:16,Donavan Marques
+SA-3332,SA-2859,Backoffice | Usuários | Visualizar usuários,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:57,24/03/2023 12:57:55,Donavan Marques
+SA-3331,SA-2859,Backoffice | Login/Logout,Jean Carlos;Luiz Gustavo,Task,Done,17/02/2023 05:39:56,24/03/2023 13:19:06,Donavan Marques
+SA-3283,SA-2,Backoffice | Usuários | Detalhes de usuário | Alterar status do usuário,Jean Carlos;Luiz Gustavo,Task,Done,16/02/2023 04:29:55,03/03/2023 12:45:52,Donavan Marques
+SA-3282,SA-2,Backoffice | Usuários | Detalhes de usuário | Excluir usuário,Jean Carlos;Luiz Gustavo,Task,Done,16/02/2023 04:29:22,03/03/2023 12:45:49,Donavan Marques
+SA-3275,SA-114,Backoffice | Pontos | Visualizar histórico de pontos,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,Done,14/02/2023 12:13:22,27/03/2023 05:06:16,Donavan Marques
+SA-3274,SA-114,Backoffice | Pontos | Consumir pontos,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,Done,14/02/2023 11:14:26,27/03/2023 05:06:14,Donavan Marques
+SA-3273,SA-114,Backoffice | Pontos | Visualizar detalhes do usuário,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,Done,14/02/2023 11:13:44,27/03/2023 05:06:11,Donavan Marques
+SA-3221,SA-114,Backoffice | Pontos | Visualizar usuários,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/02/2023 05:30:28,27/03/2023 05:06:08,Donavan Marques
+SA-3219,SA-114,Backoffice | Notificações | Cadastrar notificação,Jean Carlos,Bug,Done,10/02/2023 05:28:45,23/02/2023 11:48:32,Donavan Marques
+SA-3218,SA-114,App | Peças | Redirecionar pra fora do app,Kauã Librelato da Costa,Bug,Done,10/02/2023 05:26:37,27/02/2023 04:03:22,Donavan Marques
+SA-3193,SA-3012,Site institucional | Home,Jorge Andrade,Task,Done,09/02/2023 08:53:40,04/05/2023 13:15:41,Augusto Mandelli
+SA-3187,SA-2,App | Ajuste de layout de cards colunas e botões de acordo com novo padrão de fonte,Kauã Librelato da Costa,Task,Done,09/02/2023 06:29:23,16/02/2023 14:08:21,Donavan Marques
+SA-3147,SA-2,App | Alterar padrão de tamanho de fonte ícone e inputs em todo o projeto,Kauã Librelato da Costa,Task,Done,08/02/2023 09:55:05,16/02/2023 14:08:20,Donavan Marques
+SA-3145,SA-2,App | Logout,Kauã Librelato da Costa,Task,Done,08/02/2023 08:26:28,16/02/2023 14:08:25,Donavan Marques
+SA-3140,SA-2,Agenda | Editar bloqueio de horários (avulso),Jean Carlos;Luiz Gustavo,Task,Done,08/02/2023 06:36:38,03/03/2023 12:45:26,Yan Fagundes
+SA-3107,SA-2,App | splash de carregamento,Kauã Librelato da Costa,Task,Done,07/02/2023 12:33:34,16/02/2023 14:08:22,Donavan Marques
+SA-3082,SA-2,App | Controle de saúde,Kauã Librelato da Costa,Task,Done,07/02/2023 12:33:06,16/02/2023 14:08:13,Donavan Marques
+SA-3081,SA-2,App | Modais,Kauã Librelato da Costa,Task,Done,07/02/2023 12:32:42,16/02/2023 14:08:24,Donavan Marques
+SA-3080,SA-2,App | Informativo quando não possui informação cadastrada ,Kauã Librelato da Costa,Task,Done,07/02/2023 12:32:31,10/02/2023 04:51:35,Donavan Marques
+SA-3079,SA-2,App | Navbar,Kauã Librelato da Costa,Task,Done,07/02/2023 12:28:37,16/02/2023 14:08:18,Donavan Marques
+SA-3053,SA-2,Backoffice | Usuários | Visualizar detalhes de usuários,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:54:09,03/03/2023 12:46:00,Augusto Mandelli
+SA-3052,SA-2,Backoffice | Usuários | Filtro de busca por nome,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:53:52,03/03/2023 12:45:47,Augusto Mandelli
+SA-3051,SA-2,Backoffice | Usuários | Visualizar todos os usuários Darwin,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:53:36,03/03/2023 12:46:02,Augusto Mandelli
+SA-3049,SA-2,Backoffice | Local | Detalhes do Local | Profissional de saúde | Editar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:47:22,16/02/2023 14:20:37,Augusto Mandelli
+SA-3048,SA-2,Backoffice | Local | Detalhes do local | Colaborador | Editar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:47:09,16/02/2023 14:20:40,Augusto Mandelli
+SA-3047,SA-2,Backoffice | Local | Detalhes do local | Profissionais | Excluir profissional de saúde,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:46:19,16/02/2023 14:20:39,Augusto Mandelli
+SA-3045,SA-2,Backoffice | Local | Cadastrar profissional de saúde,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:45:40,16/02/2023 14:20:44,Augusto Mandelli
+SA-3040,SA-2,Backoffice | Conselhos | Cadastrar conselhos,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:43:28,27/02/2023 05:29:30,Augusto Mandelli
+SA-3039,SA-2,Backoffice | Conselhos | Visualizar conselhos,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:43:21,16/02/2023 14:20:51,Augusto Mandelli
+SA-3038,SA-2,Backoffice | Locais | Detalhes do local | Profissionais/Colaboradores | Logar nas contas via backoffice,Jean Carlos;Luiz Gustavo,Task,Done,07/02/2023 09:40:59,27/02/2023 05:29:47,Augusto Mandelli
+SA-2997,SA-2859,Mapeamento de processos,Jean Carlos;Luiz Gustavo,Task,Done,31/01/2023 09:40:35,06/03/2023 08:09:54,Augusto Mandelli
+SA-2885,SA-115,Plataforma | Meus cursos | Avaliação de curso,Jean Carlos;Luiz Gustavo,Task,Done,23/01/2023 08:29:50,14/02/2023 12:41:33,Donavan Marques
+SA-2884,SA-115,Plataforma | Meus cursos | Avaliação de módulo,Jean Carlos;Luiz Gustavo,Task,Done,23/01/2023 08:29:44,14/02/2023 12:41:31,Donavan Marques
+SA-2879,SA-115,Backoffice | Cursos | Detalhes de curso | Expandable nos módulos,Jean Carlos;Luiz Gustavo,Task,Done,23/01/2023 06:16:07,14/02/2023 12:41:22,Donavan Marques
+SA-2878,SA-115,Backoffice | Cursos | Detalhes de curso | Cadastrar avaliação por módulo,Jean Carlos;Luiz Gustavo,Task,Done,23/01/2023 06:15:28,14/02/2023 12:41:20,Donavan Marques
+SA-2860,SA-114,Backoffice | Ofertas | Visualizar detalhes de oferta,Jean Carlos;Luiz Gustavo,Task,Done,17/01/2023 10:21:03,06/02/2023 04:59:50,Donavan Marques
+SA-2828,SA-420,Login,Kauã Librelato da Costa,Task,Done,06/12/2021 03:54:07,09/02/2022 03:46:29,Augusto Mandelli
+SA-2827,SA-420,Produtos | Detalhes de produto fora de estoque,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:28,07/12/2021 13:37:21,Augusto Mandelli
+SA-2826,SA-420,Produtos | Detalhes de produto,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:07,16/12/2021 10:06:50,Augusto Mandelli
+SA-2825,SA-420,Conta | Avaliar produtos,Kauã Librelato da Costa,Task,Done,08/10/2021 09:39:56,08/03/2022 06:45:33,Augusto Mandelli
+SA-2824,SA-420,Messages,Kauã Librelato da Costa,Task,Done,04/10/2021 11:03:36,13/10/2021 15:13:14,Augusto Mandelli
+SA-2823,SA-420,Conta | Central de ajuda,Kauã Librelato da Costa,Task,Done,08/10/2021 09:40:11,17/01/2022 04:01:40,Augusto Mandelli
+SA-2822,SA-420,Produtos | Simular frete,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:38,06/12/2021 10:38:26,Augusto Mandelli
+SA-2821,SA-420,Produtos | Listagem,Kauã Librelato da Costa,Task,Done,08/10/2021 09:30:59,22/11/2021 14:39:45,Augusto Mandelli
+SA-2820,SA-420,Sheets,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:24,18/10/2021 05:54:25,Augusto Mandelli
+SA-2819,SA-420,Lists,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:18,18/10/2021 05:54:30,Augusto Mandelli
+SA-2818,SA-420,Home | Início,Kauã Librelato da Costa,Task,Done,18/10/2021 10:51:11,10/11/2021 04:22:37,Augusto Mandelli
+SA-2817,SA-420,Chips,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:34,08/10/2021 04:58:32,Augusto Mandelli
+SA-2816,SA-420,Ativar/desativar recebimento de notificação,Kauã Librelato da Costa,Task,Done,10/06/2022 03:57:56,24/06/2022 04:59:48,Augusto Mandelli
+SA-2815,SA-420,Carrinho e Checkout | Retirar na loja,Kauã Librelato da Costa,Task,Done,08/10/2021 09:38:41,15/02/2022 09:02:10,Augusto Mandelli
+SA-2814,SA-420,Carrinho e Checkout | Trocar CEP para previsão de frete,Kauã Librelato da Costa,Task,Done,08/10/2021 09:38:29,15/02/2022 09:02:06,Augusto Mandelli
+SA-2813,SA-420,Conta | Meus pedidos,Kauã Librelato da Costa,Task,Done,08/10/2021 09:38:55,22/02/2022 11:42:11,Augusto Mandelli
+SA-2812,SA-420,Conta | Listagem,Kauã Librelato da Costa,Task,Done,08/10/2021 09:38:49,07/02/2022 11:59:48,Augusto Mandelli
+SA-2811,SA-420,Home do APP para a Black 2022,Kauã Librelato da Costa,Task,Done,27/10/2022 06:31:01,28/10/2022 13:04:00,Automation for Jira
+SA-2810,SA-420,App | Incluir links nos banners de redirecionamento para fora do APP,Kauã Librelato da Costa,Task,Done,27/10/2022 06:31:02,28/10/2022 13:03:43,Automation for Jira
+SA-2809,SA-420,Carrinho e Checkout | Pagamento por Pix,Kauã Librelato da Costa,Task,Done,08/10/2021 09:38:11,15/02/2022 09:02:03,Augusto Mandelli
+SA-2808,SA-420,Android | Notificação push,Kauã Librelato da Costa,Task,Done,09/03/2022 11:00:08,01/04/2022 11:05:19,Augusto Mandelli
+SA-2807,SA-420,Carrinho e Checkout | Pagamento por boleto,Kauã Librelato da Costa,Task,Done,08/10/2021 09:37:30,15/02/2022 09:01:46,Augusto Mandelli
+SA-2806,SA-420,Conta | Meus endereços,Kauã Librelato da Costa,Task,Done,08/10/2021 09:39:15,09/02/2022 06:24:13,Augusto Mandelli
+SA-2805,SA-420,Conta | Solicitar devolução,Kauã Librelato da Costa,Task,Done,08/10/2021 09:39:06,07/03/2022 08:51:13,Augusto Mandelli
+SA-2804,SA-420,"Adicionar menu de ""Pet Ofertas“ na barra de navegação do app",Kauã Librelato da Costa,Task,Done,07/06/2022 06:27:06,24/06/2022 04:59:50,Yan Fagundes
+SA-2803,SA-420,Adicionar acesso as redes sociais na aba Conta,Kauã Librelato da Costa,Task,Done,07/06/2022 06:27:12,24/06/2022 04:59:52,Yan Fagundes
+SA-2802,SA-420,Adicionar acesso aos serviços de terceiros,Kauã Librelato da Costa,Task,Done,07/06/2022 06:27:17,24/06/2022 04:59:51,Yan Fagundes
+SA-2801,SA-420,Leitor de código de barras na barra de pesquisa,Kauã Librelato da Costa,Task,Done,07/06/2022 06:27:21,08/07/2022 05:05:13,Yan Fagundes
+SA-2800,SA-420,Carrinho e Checkout | Fluxo de assinatura,Kauã Librelato da Costa,Task,Done,08/10/2021 09:34:39,15/02/2022 09:02:26,Augusto Mandelli
+SA-2799,SA-420,Favoritos | Visualizar favoritos,Kauã Librelato da Costa,Task,Done,13/01/2022 05:55:14,13/01/2022 13:10:14,Augusto Mandelli
+SA-2798,SA-420,Favoritos | Remover favorito,Kauã Librelato da Costa,Task,Done,13/01/2022 05:55:22,13/01/2022 13:10:15,Augusto Mandelli
+SA-2797,SA-420,Carrinho e Checkout | Fluxo de compra único,Kauã Librelato da Costa,Task,Done,08/10/2021 09:34:26,15/02/2022 09:02:22,Augusto Mandelli
+SA-2796,SA-420,Carrinho e Checkout | Digitando cupom de desconto,Kauã Librelato da Costa,Task,Done,08/10/2021 09:35:35,15/02/2022 09:02:29,Augusto Mandelli
+SA-2795,SA-420,Abertura de app | Animação de splash,Kauã Librelato da Costa,Task,Done,22/11/2022 08:32:53,28/11/2022 06:28:27,Automation for Jira
+SA-2794,SA-420,Conta | Editar detalhes da conta,Kauã Librelato da Costa,Task,Done,07/02/2022 09:02:13,09/02/2022 03:46:30,Augusto Mandelli
+SA-2793,SA-420,Carrinho e Checkout | Adicionando cupom de desconto,Kauã Librelato da Costa,Task,Done,08/10/2021 09:35:12,15/02/2022 09:02:20,Augusto Mandelli
+SA-2792,SA-420,App | Atualizar a página do delivery,Kauã Librelato da Costa,Task,Done,07/11/2022 03:20:44,09/11/2022 09:37:22,Automation for Jira
+SA-2791,SA-420,Carrinho e Checkout | Visualizar carrinho,Kauã Librelato da Costa,Task,Done,17/01/2022 04:14:08,15/02/2022 08:59:30,Augusto Mandelli
+SA-2790,SA-420,Produto | Favoritar produto,Kauã Librelato da Costa,Task,Done,13/01/2022 05:55:05,13/01/2022 13:10:13,Augusto Mandelli
+SA-2789,SA-420,iOS | Notificação push,Kauã Librelato da Costa,Task,Done,09/03/2022 10:59:59,01/04/2022 11:05:17,Augusto Mandelli
+SA-2788,SA-420,Carrinho e Checkout | Removendo cartão de crédito,Kauã Librelato da Costa,Task,Done,08/10/2021 09:37:16,15/02/2022 09:02:13,Augusto Mandelli
+SA-2787,SA-420,Carrinho e Checkout | Cadastrando novo endereço de entrega,Kauã Librelato da Costa,Task,Done,08/10/2021 09:36:07,15/02/2022 09:02:24,Augusto Mandelli
+SA-2786,SA-420,Carrinho e Checkout | Editando item do carrinho,Kauã Librelato da Costa,Task,Done,08/10/2021 09:35:51,15/02/2022 08:59:31,Augusto Mandelli
+SA-2785,SA-420,App | Opção de compartilhamento na página de produto,Kauã Librelato da Costa,Task,Done,07/11/2022 03:36:59,07/11/2022 12:24:02,Automation for Jira
+SA-2784,SA-420,Carrinho e Checkout | Cadastrando cartão de crédito,Kauã Librelato da Costa,Task,Done,08/10/2021 09:37:01,15/02/2022 08:59:28,Augusto Mandelli
+SA-2783,SA-420,Carrinho e Checkout | Removendo ou editando endereço,Kauã Librelato da Costa,Task,Done,08/10/2021 09:36:22,15/02/2022 08:59:27,Augusto Mandelli
+SA-2782,SA-420,Conta | Meus cartões,Kauã Librelato da Costa,Task,Done,18/02/2022 11:12:28,02/03/2022 04:08:36,Yan Fagundes
+SA-2781,SA-420,Serviços | Banho e tosa,Kauã Librelato da Costa,Task,Done,18/02/2022 11:14:38,22/02/2022 11:43:43,Yan Fagundes
+SA-2780,SA-420,Produtos | Filtros,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:52,16/12/2021 06:41:34,Augusto Mandelli
+SA-2779,SA-420,Conta | Ajuda e Suporte,Kauã Librelato da Costa,Task,Done,18/02/2022 11:19:24,08/03/2022 09:19:48,Yan Fagundes
+SA-2778,SA-420,Produtos | Ordenação,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:45,10/12/2021 09:42:59,Augusto Mandelli
+SA-2777,SA-420,Adicionar reload na tela para atualizar informações,Kauã Librelato da Costa,Task,Done,07/06/2022 06:26:58,08/07/2022 05:05:14,Yan Fagundes
+SA-2776,SA-420,Produtos | Adiciona produto com assinatura no carrinho,Kauã Librelato da Costa,Task,Done,08/10/2021 09:32:18,15/02/2022 09:02:16,Augusto Mandelli
+SA-2775,SA-420,App | Função de repetir pedido,Kauã Librelato da Costa,Task,Done,22/11/2022 06:40:16,28/11/2022 06:36:24,Automation for Jira
+SA-2774,SA-420,Produtos | Busca,Kauã Librelato da Costa,Task,Done,08/10/2021 09:31:59,05/01/2022 10:49:59,Augusto Mandelli
+SA-2773,SA-420,Serviços | Consultas veterinárias,Kauã Librelato da Costa,Task,Done,18/02/2022 11:14:58,22/02/2022 11:43:45,Yan Fagundes
+SA-2772,SA-420,Serviços | Adote um amigo,Kauã Librelato da Costa,Task,Done,18/02/2022 11:15:05,22/02/2022 11:43:50,Yan Fagundes
+SA-2771,SA-420,Serviços | Hospital veterinário,Kauã Librelato da Costa,Task,Done,18/02/2022 11:15:22,22/02/2022 11:43:48,Yan Fagundes
+SA-2770,SA-420,App | Adicionar texto de SEO no início do hotsite do app para explicarmos algumas campanhas,Kauã Librelato da Costa,Task,Done,07/11/2022 08:11:30,11/11/2022 11:15:09,Automation for Jira
+SA-2769,SA-420,Serviços | Delivery,Kauã Librelato da Costa,Task,Done,18/02/2022 11:16:05,22/02/2022 11:43:46,Yan Fagundes
+SA-2768,SA-420,Selection Controls,Kauã Librelato da Costa,Task,Done,04/10/2021 11:06:27,13/10/2021 15:13:19,Augusto Mandelli
+SA-2767,SA-420,Ajustes gerais,Kauã Librelato da Costa,Task,Done,15/03/2022 09:40:15,01/04/2022 11:05:20,Yan Fagundes
+SA-2766,SA-420,Cards,Kauã Librelato da Costa,Task,Done,04/10/2021 11:06:15,18/10/2021 05:54:27,Augusto Mandelli
+SA-2765,SA-420,"Retirar vídeo ""Adote um amigo""",Kauã Librelato da Costa,Task,Done,16/09/2022 05:14:07,26/09/2022 05:22:16,Yan Fagundes
+SA-2764,SA-420,Inputs,Kauã Librelato da Costa,Task,Done,04/10/2021 11:06:38,13/10/2021 15:13:17,Augusto Mandelli
+SA-2763,SA-420,Buttons,Kauã Librelato da Costa,Task,Done,04/10/2021 11:06:32,13/10/2021 15:13:18,Augusto Mandelli
+SA-2762,SA-420,System,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:46,13/10/2021 15:13:15,Augusto Mandelli
+SA-2761,SA-420,Assinatura | Listagem,Kauã Librelato da Costa,Task,Done,08/10/2021 09:32:42,07/03/2022 08:51:15,Augusto Mandelli
+SA-2760,SA-420,Produto | Adiciona produto normal ao carrinho,Kauã Librelato da Costa,Task,Done,08/10/2021 09:32:29,02/03/2022 04:08:18,Augusto Mandelli
+SA-2759,SA-420,Tabs,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:41,08/10/2021 04:58:34,Augusto Mandelli
+SA-2758,SA-420,Tables,Kauã Librelato da Costa,Task,Done,04/10/2021 11:06:03,18/10/2021 05:54:22,Augusto Mandelli
+SA-2757,SA-420,Thumbnails,Kauã Librelato da Costa,Task,Done,04/10/2021 11:05:58,18/10/2021 05:54:24,Augusto Mandelli
+SA-2742,SA-250,Cliente | Curso | Assistir aula,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:37:30,23/03/2022 14:36:32,Augusto Mandelli
+SA-2741,SA-250,Cliente | Curso | Visualizar progresso do curso,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:38:03,01/04/2022 07:15:29,Augusto Mandelli
+SA-2740,SA-250,Admin | Autor | Editar/excluir autor,Carlos Pasquali;Jorge Andrade,Task,Done,15/02/2022 10:35:08,05/04/2022 07:07:19,Augusto Mandelli
+SA-2739,SA-250,Admin | Curso | Editar/excluir curso,Carlos Pasquali;Jorge Andrade,Task,Done,17/02/2022 06:16:18,14/03/2022 04:50:53,Augusto Mandelli
+SA-2738,SA-250,Disparo de e-mails DisRHupt,Carlos Pasquali;Jorge Andrade,Task,Done,02/06/2022 11:28:09,06/06/2022 04:56:45,Yan Fagundes
+SA-2737,SA-250,Admin | Curso | Visualizar detalhes de aula,Carlos Pasquali;Jorge Andrade,Task,Done,16/02/2022 04:55:56,15/03/2022 09:18:22,Augusto Mandelli
+SA-2736,SA-250,Client | Recuperar senha,Carlos Pasquali;Jorge Andrade,Task,Done,26/04/2022 04:41:23,26/04/2022 04:41:48,Augusto Mandelli
+SA-2735,SA-250,Admin | Curso | Visualizar aulas,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:26:05,15/03/2022 09:18:24,Augusto Mandelli
+SA-2734,SA-250,Admin | Curso | Cadastrar tópico,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:26:17,15/03/2022 09:18:15,Augusto Mandelli
+SA-2733,SA-250,Admin | Curso | Cadastrar aula,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:27:18,15/03/2022 09:18:25,Augusto Mandelli
+SA-2732,SA-250,Cliente | Visualiza todas as categorias de curso,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:32:56,23/03/2022 14:36:36,Augusto Mandelli
+SA-2731,SA-250,Cliente | Visualiza todos os cursos de uma categoria,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:33:10,05/04/2022 06:43:32,Augusto Mandelli
+SA-2730,SA-250,Cliente | Acessa o curso,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:37:15,23/03/2022 14:36:40,Augusto Mandelli
+SA-2729,SA-250,Admin | Curso | Editar/Excluir aula,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:28:24,22/03/2022 09:31:32,Augusto Mandelli
+SA-2728,SA-250,Admin | Curso | Reordenar aulas,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:21:30,21/03/2022 04:56:39,Augusto Mandelli
+SA-2727,SA-250,Importação de dados de usuários,Carlos Pasquali;Jorge Andrade,Task,Done,11/05/2022 06:01:50,13/05/2022 06:01:28,Yan Fagundes
+SA-2726,SA-250,Admin | Curso | Editar/Excluir tópico,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:28:33,15/03/2022 09:18:20,Augusto Mandelli
+SA-2725,SA-250,Admin | Organização | Liberar/remover acesso a cursos,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:31:08,23/03/2022 14:36:16,Augusto Mandelli
+SA-2724,SA-250,Admin | Autor | Visualizar autores,Carlos Pasquali;Jorge Andrade,Task,Done,15/02/2022 10:34:48,05/04/2022 16:35:49,Augusto Mandelli
+SA-2723,SA-250,Admin | Autor | Cadastrar autor,Carlos Pasquali;Jorge Andrade,Task,Done,15/02/2022 10:34:57,05/04/2022 07:18:41,Augusto Mandelli
+SA-2722,SA-250,Admin | Organização | Aprovar/bloquear organização,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:18:07,17/02/2022 05:50:00,Augusto Mandelli
+SA-2721,SA-250,Admin | Organização | Editar/excluir organização,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:18:55,17/02/2022 06:30:24,Augusto Mandelli
+SA-2720,SA-250,Cliente | Visualizar/Editar dados cadastrais,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:21:46,01/04/2022 07:20:53,Augusto Mandelli
+SA-2719,SA-250,Cliente | Dados cadastrais | Avatar de usuário,Carlos Pasquali;Jorge Andrade,Task,Done,26/05/2022 13:10:57,16/06/2022 10:16:50,Yan Fagundes
+SA-2718,SA-250,Admin | Curso | Cadastrar módulo,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:20:33,11/03/2022 12:28:54,Augusto Mandelli
+SA-2717,SA-250,Admin | Visualizar cursos,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:24:20,05/03/2022 06:44:48,Augusto Mandelli
+SA-2716,SA-250,Admin | Cadastrar curso,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:24:32,05/03/2022 06:44:50,Augusto Mandelli
+SA-2715,SA-250,Admin | Curso | Visualizar módulos,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:20:51,11/03/2022 12:28:51,Augusto Mandelli
+SA-2714,SA-250,Admin | Organização | Aprovar/bloquear/excluir usuário,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:20:08,18/02/2022 18:44:56,Augusto Mandelli
+SA-2713,SA-250,Cliente | Recuperar senha | Alteração de endereço de e-mail,Carlos Pasquali;Jorge Andrade,Task,Done,26/05/2022 12:43:00,02/06/2022 10:52:41,Yan Fagundes
+SA-2712,SA-250,Cliente | Login,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:20:22,23/03/2022 14:36:25,Augusto Mandelli
+SA-2711,SA-250,Cliente | Dados cadastrais | Alterar senha,Carlos Pasquali;Jorge Andrade,Task,Done,26/05/2022 12:46:17,01/06/2022 12:17:09,Yan Fagundes
+SA-2710,SA-250,Cliente | Completar cadastro,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:20:49,21/02/2022 09:16:10,Augusto Mandelli
+SA-2709,SA-250,Sistema | Enviar e-mail de completar cadastro,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:21:05,21/02/2022 04:13:18,Augusto Mandelli
+SA-2708,SA-250,Admin | Curso | Editar/Excluir módulo,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:20:58,14/03/2022 04:51:39,Augusto Mandelli
+SA-2707,SA-250,Geral | Alterar identidade visual,Carlos Pasquali;Jorge Andrade,Task,Done,28/03/2022 05:00:31,01/04/2022 06:54:40,Yan Fagundes
+SA-2706,SA-250,Admin | Curso | Reordenar módulos,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:21:21,21/03/2022 04:33:08,Augusto Mandelli
+SA-2705,SA-250,Admin | Curso | Reordenar tópicos,Carlos Pasquali;Jorge Andrade,Task,Done,14/02/2022 10:21:25,21/03/2022 04:32:01,Augusto Mandelli
+SA-2704,SA-250,Admin | Login,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:02:30,16/02/2022 12:05:57,Augusto Mandelli
+SA-2703,SA-250,Admin | Visualizar organizações,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:03:07,16/02/2022 12:19:36,Augusto Mandelli
+SA-2702,SA-250,Admin | Cadastrar organização,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:03:13,16/02/2022 12:19:38,Augusto Mandelli
+SA-2701,SA-250,Admin | Organização | Visualizar usuários,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:04:46,18/02/2022 09:40:45,Augusto Mandelli
+SA-2700,SA-250,Migração de dados de companhias,Carlos Pasquali;Jorge Andrade,Task,Done,23/05/2022 04:48:25,01/06/2022 05:16:39,Yan Fagundes
+SA-2699,SA-250,Admin | Visualizar detalhes de curso,Carlos Pasquali;Jorge Andrade,Task,Done,04/02/2022 03:27:20,11/03/2022 12:28:56,Augusto Mandelli
+SA-2698,SA-250,Admin | Organização | Cadastrar usuário,Carlos Pasquali;Jorge Andrade,Task,Done,01/02/2022 11:05:01,18/02/2022 09:40:43,Augusto Mandelli
+SA-2460,SA-117,Plataforma | Edificação | Detalhes de edificação | Remover anexo e/ou documento,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 10:21:46,23/11/2022 11:39:10,Automation for Jira
+SA-2459,SA-117,Construtora | Acesso link de envio de relato de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:10:44,22/06/2022 13:09:20,Augusto Mandelli
+SA-2458,SA-117,Plataforma | Configurações de conta | Visualizar dados cadastrais,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:04,21/10/2022 12:13:14,Automation for Jira
+SA-2457,SA-117,Checkout de assinatura,Carlos Pasquali;Jorge Andrade,Task,Done,06/10/2021 13:34:24,10/11/2021 05:52:44,Augusto Mandelli
+SA-2456,SA-117,Plataforma | Login,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:02,21/10/2022 12:13:11,Automation for Jira
+SA-2455,SA-117,Envio de orçamento de manutenção concluída,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:11:20,08/07/2022 13:32:16,Augusto Mandelli
+SA-2454,SA-117,Adicionar mais de um e-mail para receber avisos de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:11:42,06/07/2022 06:50:24,Augusto Mandelli
+SA-2453,SA-117,Landing page,Carlos Pasquali;Jorge Andrade,Task,Done,06/10/2021 13:34:44,10/11/2021 04:22:14,Augusto Mandelli
+SA-2452,SA-117,Síndico | Permitir relato após o prazo,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:04:18,18/07/2022 04:56:29,Augusto Mandelli
+SA-2451,SA-117,Plataforma | Notificação | WhatsApp | Confirmação de cadastro de sindico para recebimento de notificações de manutenções via WhatsApp,Carlos Pasquali;Jorge Andrade,Task,Done,09/11/2022 10:41:47,17/11/2022 12:16:55,Automation for Jira
+SA-2450,SA-117,Síndico | Visualizar manutenções pendentes/atrasadas/concluídas,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:04:51,23/06/2022 07:08:41,Augusto Mandelli
+SA-2449,SA-117,Easy 1.0 | Landing page | Incluir tag do analytics,Carlos Pasquali;Jorge Andrade,Task,Done,23/11/2022 04:39:43,28/11/2022 06:17:23,Yan Fagundes
+SA-2448,SA-117,Confirmação | Adicionar link e aceite de termos de uso na confirmação de mensagens por Whats,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:05:42,24/06/2022 06:39:25,Augusto Mandelli
+SA-2447,SA-117,Plataforma | Configurações de conta | Editar dados cadastrais,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:05,21/10/2022 12:14:48,Automation for Jira
+SA-2446,SA-117,E-mail de manutenção | Agrupar e-mails de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,02/09/2022 04:32:54,09/09/2022 12:22:57,Yan Fagundes
+SA-2445,SA-117,Plataforma | Edificação | Detalhes de edificação | Cadastro de anexos e documentos,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 10:21:42,23/11/2022 11:39:15,Automation for Jira
+SA-2444,SA-117,Adicionar Google Analytics na plataforma do cliente,Carlos Pasquali;Jorge Andrade,Task,Done,06/10/2021 12:59:42,08/10/2021 03:49:44,Augusto Mandelli
+SA-2443,SA-117,Plataforma | Edificação | Detalhes de edificação | Visualizar anexos e documentos,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 10:21:45,23/11/2022 11:39:13,Automation for Jira
+SA-2442,SA-117,Adicionar elemento na mensagem de aviso + clareza na mensagem,Carlos Pasquali;Jorge Andrade,Task,Done,14/03/2022 10:26:07,28/03/2022 04:58:15,Yan Fagundes
+SA-2441,SA-117,Plataforma | Edificação | Editar notificação em edificação,Carlos Pasquali;Jorge Andrade,Task,Done,10/11/2022 09:43:50,16/11/2022 11:59:05,Yan Fagundes
+SA-2440,SA-117,Informar na notificação qual obra se trata,Carlos Pasquali;Jorge Andrade,Task,Done,04/06/2021 13:03:04,21/06/2021 19:37:44,Augusto Mandelli
+SA-2439,SA-117,Client | Botão de abertura de chamado,Carlos Pasquali;Jorge Andrade,Task,Done,27/06/2022 07:10:49,08/07/2022 13:32:15,Augusto Mandelli
+SA-2438,SA-117,Empresa | Permitir adicionar logomarca no cadastro e na edição de cadastro,Carlos Pasquali;Jorge Andrade,Task,Done,28/08/2021 07:21:20,10/09/2021 07:30:23,Augusto Mandelli
+SA-2437,SA-117,Adicionar botão para excluir manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,10/06/2021 05:49:20,14/06/2021 07:14:30,Augusto Mandelli
+SA-2436,SA-117,Plataforma | Edificação | Visualizar notificação em edificação,Carlos Pasquali;Jorge Andrade,Task,Done,10/11/2022 10:17:49,16/11/2022 11:56:32,Yan Fagundes
+SA-2435,SA-117,Poder alterar uma manutenção no admin e alterar em todos os locais,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 14:56:01,04/06/2021 12:20:48,Augusto Mandelli
+SA-2434,SA-117,Backoffice | Usuários | Editar usuário,Carlos Pasquali;Jorge Andrade,Task,Done,31/08/2022 05:57:49,02/09/2022 10:14:36,Yan Fagundes
+SA-2433,SA-117,Backoffice | Manutenções | Visualizar detalhes de manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:29,23/09/2022 06:37:02,Automation for Jira
+SA-2432,SA-117,Backoffice | Manutenções | Ordenar manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:27,23/09/2022 06:38:07,Automation for Jira
+SA-2431,SA-117,Backoffice | Manutenções | Visualizar manutenções padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:25,23/09/2022 06:37:04,Automation for Jira
+SA-2430,SA-117,Cadastro e Checkout | Permitir cadastro e compra com CPF,Carlos Pasquali;Jorge Andrade,Task,Done,06/12/2021 11:05:06,13/01/2022 10:47:32,Augusto Mandelli
+SA-2429,SA-117,Backoffice | Manutenções | Excluir manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:33,23/09/2022 06:38:03,Automation for Jira
+SA-2428,SA-117,Plataforma | Notificação | E-mail | Confirmação de cadastro de sindico para recebimento de notificações de manutenções via E-mail,Carlos Pasquali;Jorge Andrade,Task,Done,16/11/2022 04:49:29,28/11/2022 06:17:52,Yan Fagundes
+SA-2427,SA-117,Plataforma | Edificação | Adicionar notificação em edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:13:41,17/11/2022 12:16:56,Augusto Mandelli
+SA-2426,SA-117,Plataforma | Edificação | Remover notificação em edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:14:10,16/11/2022 11:56:28,Augusto Mandelli
+SA-2425,SA-117,Backoffice | Manutenções | Editar manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,09/09/2022 10:02:27,23/09/2022 06:37:52,Yan Fagundes
+SA-2424,SA-117,Backoffice | Manutenções | Cadastrar categoria padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:17,23/09/2022 06:36:52,Automation for Jira
+SA-2423,SA-117,Plataforma | Editar dados de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,26/09/2022 04:57:58,11/11/2022 05:03:46,Automation for Jira
+SA-2422,SA-117,Plataforma | Visualizar detalhes de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,26/09/2022 04:57:56,11/11/2022 05:02:13,Automation for Jira
+SA-2421,SA-117,Envio de comprovante do relato por email,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 15:02:36,01/07/2021 06:33:08,Augusto Mandelli
+SA-2420,SA-117,Plataforma | Cadastrar edificação,Carlos Pasquali;Jorge Andrade,Task,Done,26/09/2022 04:57:53,11/11/2022 05:02:11,Automation for Jira
+SA-2419,SA-117,Desselecionar manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 15:02:59,28/06/2021 17:11:21,Augusto Mandelli
+SA-2418,SA-117,Plataforma | Visualizar edificações,Carlos Pasquali;Jorge Andrade,Task,Done,26/09/2022 04:57:51,11/11/2022 05:02:10,Automation for Jira
+SA-2417,SA-117,Delay de tempo de inicio de notificações das manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 15:01:46,09/06/2021 09:58:12,Augusto Mandelli
+SA-2416,SA-117,Backoffice | Manutenções | Cadastrar manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:23,23/09/2022 06:36:56,Automation for Jira
+SA-2415,SA-117,Sistema de busca por palavras em manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 15:00:48,30/06/2021 06:57:24,Augusto Mandelli
+SA-2414,SA-117,Backoffice | Manutenções | Excluir categoria padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:21,23/09/2022 06:38:11,Automation for Jira
+SA-2413,SA-117,Plataforma | Excluir edificação,Carlos Pasquali;Jorge Andrade,Task,Done,26/09/2022 04:58:00,11/11/2022 05:04:01,Automation for Jira
+SA-2412,SA-117,Backoffice | Manutenções | Editar categoria padrão,Carlos Pasquali;Jorge Andrade,Task,Done,08/09/2022 06:33:19,23/09/2022 06:36:53,Automation for Jira
+SA-2411,SA-117,Painel para responsáveis verem manutenções futuras,Carlos Pasquali;Jorge Andrade,Task,Done,19/05/2021 15:02:04,18/08/2021 07:28:44,Augusto Mandelli
+SA-2410,SA-117,Plataforma | Manutenções | Ordenar manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:27,21/10/2022 12:16:51,Automation for Jira
+SA-2409,SA-117,Plataforma | Visualizar manutenções de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:10:07,18/11/2022 12:28:58,Augusto Mandelli
+SA-2408,SA-117,Easy 1.0 | Trocar contatos,Carlos Pasquali;Jorge Andrade,Task,Done,02/11/2022 04:34:39,04/11/2022 04:51:40,Automation for Jira
+SA-2407,SA-117,DevOps | Criar front e back,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 05:17:17,20/09/2022 10:51:29,Yan Fagundes
+SA-2406,SA-117,Plataforma | Visualizar detalhes manutenções de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:12:59,18/11/2022 12:29:03,Augusto Mandelli
+SA-2405,SA-117,Backoffice | Usuários | Cadastrar nova conta,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:19,02/09/2022 10:14:27,Automation for Jira
+SA-2404,SA-117,Backoffice | Usuários | Visualizar usuários,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:17,02/09/2022 10:14:30,Automation for Jira
+SA-2403,SA-117,Plataforma | Cadastrar manutenções de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:12:02,18/11/2022 12:29:00,Augusto Mandelli
+SA-2402,SA-117,Backoffice | Login,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:15,02/09/2022 10:14:25,Automation for Jira
+SA-2401,SA-117,Plataforma | Remover manutenções de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 09:12:32,18/11/2022 12:29:01,Augusto Mandelli
+SA-2400,SA-117,Easy 1.0 | Alterar links dos vídeos de tutorial de cadastro,Carlos Pasquali;Jorge Andrade,Task,Done,02/11/2022 04:34:45,04/11/2022 04:51:44,Automation for Jira
+SA-2399,SA-117,Backoffice | Usuários | Excluir conta de usuário,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:31,02/09/2022 10:14:42,Automation for Jira
+SA-2398,SA-117,Backoffice | Usuários | Bloquear/liberar acesso de usuário,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:23,02/09/2022 10:14:39,Automation for Jira
+SA-2397,SA-117,Backoffice | Usuários | Visualizar detalhes de conta de usuário,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:28:21,02/09/2022 10:14:33,Automation for Jira
+SA-2396,SA-117,Plataforma | Manutenções | Visualizar manutenções customizada,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:09,21/10/2022 12:15:17,Automation for Jira
+SA-2395,SA-117,Botão de retornar em visualizar obras,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:12:04,22/06/2022 13:09:18,Augusto Mandelli
+SA-2394,SA-117,Plataforma | Manutenções | Visualizar manutenções padrão,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:08,21/10/2022 12:14:50,Automation for Jira
+SA-2393,SA-117,Construtora | Permitir edição de data de entrega da obra,Carlos Pasquali;Jorge Andrade,Task,Done,23/06/2022 06:39:55,29/06/2022 06:50:17,Augusto Mandelli
+SA-2392,SA-117,Plataforma | Manutenções | Editar manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:17,21/10/2022 12:16:32,Automation for Jira
+SA-2391,SA-117,Plataforma | Manutenções | Editar categoria de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:15,21/10/2022 12:16:03,Automation for Jira
+SA-2390,SA-117,Plataforma | Manutenções | Excluir categoria de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:14,21/10/2022 12:16:01,Automation for Jira
+SA-2389,SA-117,Plataforma | Manutenções | Cadastrar categoria de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:11,21/10/2022 12:15:13,Automation for Jira
+SA-2388,SA-117,Plataforma | Manutenções | Clonar manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:22,21/10/2022 12:16:47,Automation for Jira
+SA-2387,SA-117,Plataforma | Manutenções | Excluir manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:21,21/10/2022 12:16:44,Automation for Jira
+SA-2386,SA-117,Plataforma | Manutenções | Cadastrar manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,12/09/2022 04:33:20,21/10/2022 12:16:34,Automation for Jira
+SA-2385,SA-117,Cliente | Visualizar dados do síndico,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:13:33,13/06/2022 05:51:03,Augusto Mandelli
+SA-2384,SA-117,Cliente | Visualizar manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:13:42,13/06/2022 05:51:01,Augusto Mandelli
+SA-2383,SA-117,Cliente | Visualizar banner,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:13:49,13/06/2022 12:23:41,Augusto Mandelli
+SA-2382,SA-117,Confirmações | Adicionar logo da construtora nos recebimentos do síndico,Carlos Pasquali;Jorge Andrade,Task,Done,06/06/2022 09:14:41,24/06/2022 06:39:23,Augusto Mandelli
+SA-2381,SA-117,Botão para arquivo pdf,Carlos Pasquali;Jorge Andrade,Task,Done,27/07/2022 07:12:39,10/08/2022 05:02:35,Augusto Mandelli
+SA-2380,SA-117,Opção de clonar manutenção padrão,Carlos Pasquali;Jorge Andrade,Task,Done,05/07/2021 09:06:31,05/07/2021 19:32:26,Augusto Mandelli
+SA-2250,SA-116,Admin | TMKT | Adicionar desconto na aprovação do cliente,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 05:14:52,15/02/2022 14:40:21,Augusto Mandelli
+SA-2249,SA-116,Editar/Excluir categoria,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:09:31,26/08/2021 07:33:33,Augusto Mandelli
+SA-2248,SA-116,Cadastrar categoria,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:09:23,26/08/2021 07:33:34,Augusto Mandelli
+SA-2247,SA-116,Admin | TMKT | Vinculo de vendedores com tabela de preço,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 05:15:05,15/02/2022 14:40:24,Augusto Mandelli
+SA-2246,SA-116,Ordenar categorias,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:09:37,26/08/2021 07:01:22,Augusto Mandelli
+SA-2245,SA-116,Visualizar categorias,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:09:18,26/08/2021 07:01:35,Augusto Mandelli
+SA-2244,SA-116,Cliente | TMKT | Buscar dados de CNPJ pela api da receita,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 04:33:24,15/02/2022 14:40:25,Augusto Mandelli
+SA-2243,SA-116,Admin | TMKT | Visualizar carrinho de compra do pre-cliente,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 05:14:32,15/02/2022 14:40:22,Augusto Mandelli
+SA-2242,SA-116,Admin | Visualizar detalhes de pré-cadastro,Jean Carlos;Luiz Gustavo,Task,Done,26/01/2022 05:16:54,28/01/2022 10:57:07,Augusto Mandelli
+SA-2241,SA-116,Admin | Aprovação/rejeitar de cadastro,Jean Carlos;Luiz Gustavo,Task,Done,26/01/2022 05:16:58,28/01/2022 10:57:09,Augusto Mandelli
+SA-2240,SA-116,Visualizar detalhes de propostas,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:27:43,10/09/2021 11:55:54,Augusto Mandelli
+SA-2239,SA-116,Cliente | Inserir coluna de IPI na lista de produtos,Jean Carlos;Luiz Gustavo,Task,Done,08/09/2021 07:42:15,22/11/2021 04:09:59,Augusto Mandelli
+SA-2238,SA-116,Cliente | Informar ordem de compra no pedido,Jean Carlos;Luiz Gustavo,Task,Done,08/09/2021 07:41:57,18/11/2021 03:32:18,Augusto Mandelli
+SA-2237,SA-116,Tratamento de erros pela integração,Jean Carlos;Luiz Gustavo,Task,Done,28/04/2022 09:29:27,13/05/2022 04:34:18,Augusto Mandelli
+SA-2236,SA-116,Implementar API da iniflex no sistema,Jean Carlos;Luiz Gustavo,Task,Done,20/05/2021 11:17:30,14/06/2021 06:38:56,Augusto Mandelli
+SA-2235,SA-116,Visualizar propostas,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:27:38,09/09/2021 12:14:50,Augusto Mandelli
+SA-2234,SA-116,Pweb | Cadastro de cliente TMKT,Jean Carlos;Luiz Gustavo,Task,Done,26/01/2022 05:15:57,02/02/2022 06:22:28,Augusto Mandelli
+SA-2233,SA-116,Login,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:27:16,03/09/2021 04:18:30,Augusto Mandelli
+SA-2232,SA-116,Admin | Visualizar pré-cadastros,Jean Carlos;Luiz Gustavo,Task,Done,26/01/2022 05:16:49,28/01/2022 10:57:08,Augusto Mandelli
+SA-2231,SA-116,Admin | Permitir adicionar fotos na criação da categoria,Jean Carlos;Luiz Gustavo,Task,Done,08/09/2021 07:43:16,03/12/2021 08:48:44,Augusto Mandelli
+SA-2230,SA-116,Cron para atualizar informações de status de pedido,Jean Carlos;Luiz Gustavo,Task,Done,24/06/2021 12:49:46,28/06/2021 14:13:37,Augusto Mandelli
+SA-2229,SA-116,Clientes | Limitar quantidade mínima dos itens,Jean Carlos;Luiz Gustavo,Task,Done,08/09/2021 07:42:55,12/11/2021 10:37:22,Augusto Mandelli
+SA-2228,SA-116,Cliente | Informar forma de pagamento/vencimentos,Jean Carlos;Luiz Gustavo,Task,Done,08/09/2021 07:43:39,22/11/2021 04:09:58,Augusto Mandelli
+SA-2227,SA-116,Login,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:05:03,10/08/2021 14:57:47,Augusto Mandelli
+SA-2226,SA-116,Procurar representante,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:06:01,11/08/2021 07:47:17,Augusto Mandelli
+SA-2225,SA-116,Backoffice | Visualizar clientes TMKT por ordem de solicitação,Jean Carlos;Luiz Gustavo,Task,Done,18/11/2022 04:47:20,02/12/2022 03:46:00,Automation for Jira
+SA-2224,SA-116,Aprovar/Bloquear cliente,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:08:21,26/08/2021 07:01:38,Augusto Mandelli
+SA-2223,SA-116,Visualizar lista de produtos,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:19:40,17/08/2021 12:05:27,Augusto Mandelli
+SA-2222,SA-116,Mostrar estoque disponível,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 12:27:12,12/08/2022 12:15:47,Augusto Mandelli
+SA-2221,SA-116,Filtrar produtos,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:19:31,15/08/2021 16:21:01,Augusto Mandelli
+SA-2220,SA-116,Editar/Excluir cliente,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:08:15,20/08/2021 06:22:51,Augusto Mandelli
+SA-2219,SA-116,Visualizar representantes,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:19:59,10/08/2021 14:57:50,Augusto Mandelli
+SA-2218,SA-116,Cadastrar cliente,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:07:45,20/08/2021 06:22:50,Augusto Mandelli
+SA-2217,SA-116,Visualizar clientes,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:07:19,20/08/2021 06:22:48,Augusto Mandelli
+SA-2216,SA-116,Visualizar categorias,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:19:25,15/08/2021 16:22:03,Augusto Mandelli
+SA-2215,SA-116,Visualizar detalhes de cliente,Jean Carlos;Luiz Gustavo,Task,Done,05/08/2021 12:07:51,20/08/2021 06:22:44,Augusto Mandelli
+SA-2214,SA-116,Incremntar mais dados ao logs,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 12:26:57,08/08/2022 04:44:45,Augusto Mandelli
+SA-2213,SA-116,Login,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:19:17,12/08/2021 04:55:09,Augusto Mandelli
+SA-2212,SA-116,Integração de dados entre antigo e novo,Jean Carlos;Luiz Gustavo,Task,Done,16/09/2021 04:32:14,20/09/2021 13:08:27,Augusto Mandelli
+SA-2211,SA-116,Editar/Excluir representante,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:20:07,10/08/2021 14:57:51,Augusto Mandelli
+SA-2210,SA-116,Implementar nova integração Projedata,Jean Carlos;Luiz Gustavo,Task,Done,28/04/2022 07:24:00,13/05/2022 04:34:21,Augusto Mandelli
+SA-2209,SA-116,Salvar impostos por item,Jean Carlos;Luiz Gustavo,Task,Done,28/04/2022 07:34:47,13/05/2022 04:34:20,Augusto Mandelli
+SA-2208,SA-116,Cadastrar representante,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2021 12:20:03,10/08/2021 14:57:48,Augusto Mandelli
+SA-2207,SA-116,Remover item pela integração,Jean Carlos;Luiz Gustavo,Task,Done,28/04/2022 09:29:22,13/05/2022 04:34:19,Augusto Mandelli
+SA-2206,SA-116,Server | Adicionar logs de registro das atividades dos clientes,Jean Carlos;Luiz Gustavo,Task,Done,10/03/2022 10:44:52,29/03/2022 12:58:19,Augusto Mandelli
+SA-2205,SA-116,PWEB | Imprimir proposta,Jean Carlos;Luiz Gustavo,Task,Done,25/02/2022 04:15:59,29/03/2022 12:58:15,Yan Fagundes
+SA-2204,SA-116,Integração TMKT - API Projedata,Jean Carlos;Luiz Gustavo,Task,Done,23/05/2022 05:29:40,08/07/2022 13:32:18,Yan Fagundes
+SA-2203,SA-116,Visualizar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,30/08/2021 06:16:12,03/09/2021 04:18:32,Augusto Mandelli
+SA-2202,SA-116,Visualizar produtos de nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:35,09/09/2021 12:14:00,Augusto Mandelli
+SA-2201,SA-116,Admin | Editar usuário,Jean Carlos;Luiz Gustavo,Task,Done,26/01/2022 05:19:14,28/01/2022 11:18:34,Augusto Mandelli
+SA-2200,SA-116,Visualizar categorias de nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:27,09/09/2021 12:14:14,Augusto Mandelli
+SA-2199,SA-116,Adicionar item a nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:49,09/09/2021 12:14:04,Augusto Mandelli
+SA-2198,SA-116,CWEB | Módulo TMKT,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 05:15:17,24/02/2022 11:19:57,Augusto Mandelli
+SA-2197,SA-116,CWEB | Visualizar clientes,Jean Carlos;Luiz Gustavo,Task,Done,10/03/2022 08:54:07,25/04/2022 04:23:58,Augusto Mandelli
+SA-2196,SA-116,Implantação do Sistema,Jean Carlos;Luiz Gustavo,Task,Done,10/09/2021 07:32:49,14/09/2021 08:45:43,Augusto Mandelli
+SA-2195,SA-116,CWEB | TMKT | Gerar link com id do vendedor,Jean Carlos;Luiz Gustavo,Task,Done,03/02/2022 05:16:04,24/02/2022 13:59:42,Augusto Mandelli
+SA-2194,SA-116,Filtro de produtos de nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:43,10/09/2021 07:28:49,Augusto Mandelli
+SA-2193,SA-116,CWEB | Visualizar detalhes de clientes,Jean Carlos;Luiz Gustavo,Task,Done,10/03/2022 08:54:22,25/04/2022 04:23:59,Augusto Mandelli
+SA-2192,SA-116,Visualizar saldo,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:17,14/09/2021 08:45:38,Augusto Mandelli
+SA-2191,SA-116,Criar nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:27:59,09/09/2021 12:14:20,Augusto Mandelli
+SA-2190,SA-116,Enviar nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:29:03,24/09/2021 07:30:23,Augusto Mandelli
+SA-2189,SA-116,CWEB | Cadastrar cliente,Jean Carlos;Luiz Gustavo,Task,Done,10/03/2022 08:54:30,25/04/2022 04:23:55,Augusto Mandelli
+SA-2188,SA-116,CWEB | Editar/Aprovar/Bloquear/Excluir cliente,Jean Carlos;Luiz Gustavo,Task,Done,10/03/2022 08:58:22,25/04/2022 04:24:00,Augusto Mandelli
+SA-2187,SA-116,Editar/excluir item de nova proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:28:55,09/09/2021 12:14:10,Augusto Mandelli
+SA-2186,SA-116,Visualizar vendedor responsável,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:29:22,03/09/2021 04:18:33,Augusto Mandelli
+SA-2185,SA-116,Clonar proposta,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2021 10:29:11,10/09/2021 13:26:53,Augusto Mandelli
+SA-1551,SA-2,Prontuário | Arquivos e imagens | Ajustes gerais,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:08:26,07/11/2022 12:24:35,Automation for Jira
+SA-1550,SA-2,Editar paciente | E-mail / E-mail do responsável: confuso!,Jean Carlos;Luiz Gustavo,Task,Done,26/10/2022 12:08:47,28/10/2022 06:01:12,Automation for Jira
+SA-1549,SA-2,Impressão | Arquivos de impressão com fonte diferente do sistema,Jean Carlos;Luiz Gustavo,Task,Done,29/09/2022 09:57:16,10/10/2022 05:18:38,Yan Fagundes
+SA-1548,SA-2,Paciente | Histórico | Exibindo histórico de agendamentos em locais que o médico não possui acesso,Jean Carlos;Luiz Gustavo,Task,Done,29/09/2022 06:32:33,07/10/2022 13:13:33,Yan Fagundes
+SA-1547,SA-2,Criação de Endereço,Jean Carlos;Luiz Gustavo,Task,Done,22/07/2022 04:55:30,26/07/2022 09:33:41,Yan Fagundes
+SA-1546,SA-2,MEMED | Não está limpando os dados da prescrição anterior,Jean Carlos;Luiz Gustavo,Task,Done,23/08/2022 10:06:29,09/09/2022 12:50:53,Yan Fagundes
+SA-1545,SA-2,"Resultados de exames | Se não informar quem fez, fecha a janela perde o conteúdo e dá mensagem de erro",Jean Carlos;Luiz Gustavo,Task,Done,23/08/2022 10:03:36,24/08/2022 10:43:24,Yan Fagundes
+SA-1544,SA-2,Chat | Atualização de chat necessária,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 04:33:18,16/09/2022 12:54:33,Yan Fagundes
+SA-1543,SA-2,Bloquear | Front quebrado,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 04:35:01,29/08/2022 04:57:56,Yan Fagundes
+SA-1542,SA-2,Prontuário | Contando anamneses que não são do médico,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 04:34:10,29/08/2022 05:04:42,Yan Fagundes
+SA-1541,SA-2,Exceção | Está exibindo todos os procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 04:33:51,31/08/2022 11:12:16,Yan Fagundes
+SA-1540,SA-2,Prontuário | Header de paciente não altera ao navegar de um paciente para outro,Jean Carlos;Luiz Gustavo,Task,Done,15/09/2022 09:27:18,16/09/2022 09:44:33,Yan Fagundes
+SA-1539,SA-2,Editar paciente | Opção de cor da pessoa tem apenas a opção branca.,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:19:20,18/07/2022 04:48:13,Yan Fagundes
+SA-1538,SA-2,Procedimentos | Listar os procedimentos em ordem alfabética,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:19:41,18/07/2022 04:50:08,Yan Fagundes
+SA-1537,SA-2,Procedimentos | Acentuação durante a busca de TUSS,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:19:54,18/07/2022 04:46:36,Yan Fagundes
+SA-1536,SA-2,Pacientes | Buscar paciente não está buscando termos,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:17:22,18/07/2022 04:34:47,Yan Fagundes
+SA-1535,SA-2,Dashboard | Não considerar encaixes no cálculo de ocupação,Jean Carlos;Luiz Gustavo,Task,Done,02/11/2022 05:15:37,04/11/2022 05:30:01,Automation for Jira
+SA-1534,SA-2,Agenda | Horário de finalização da agenda,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:18:25,18/07/2022 04:47:39,Yan Fagundes
+SA-1533,SA-2,Agenda | Agendamento | Visualizar apenas convênios ativos,Jean Carlos;Luiz Gustavo,Task,Done,14/07/2022 09:47:05,28/07/2022 11:17:00,Yan Fagundes
+SA-1532,SA-2,Controles de saúde | Ajustes de front,Jean Carlos;Luiz Gustavo,Task,Done,27/10/2022 06:09:24,28/10/2022 06:02:19,Automation for Jira
+SA-1531,SA-2,Locais | Convenios | Convênio padrão com nome do local,Jean Carlos;Luiz Gustavo,Task,Done,14/07/2022 10:15:15,18/07/2022 04:46:12,Yan Fagundes
+SA-1530,SA-2,Locais | Colaboradores | Status de aguardando não é atualizado após criação da conta,Jean Carlos;Luiz Gustavo,Task,Done,27/10/2022 06:17:52,28/10/2022 06:02:54,Automation for Jira
+SA-1529,SA-2,Agenda | Nome de paciente com tamanho diferente,Jean Carlos;Luiz Gustavo,Task,Done,29/09/2022 10:01:34,07/10/2022 07:28:49,Yan Fagundes
+SA-1528,SA-2,"Controles de saúde | Ao adicionar um controle de saúde, trazer data e hora atual por padrão",Jean Carlos;Luiz Gustavo,Task,Done,27/10/2022 05:57:28,31/10/2022 13:10:19,Automation for Jira
+SA-1527,SA-2,Upload de fotos,Jean Carlos;Luiz Gustavo,Task,Done,29/09/2022 10:26:28,07/10/2022 10:59:49,Yan Fagundes
+SA-1526,SA-2,Controles de saúde | Peso - Deve aceitar 3 dígitos depois da vírgula,Jean Carlos;Luiz Gustavo,Task,Done,27/10/2022 05:57:32,31/10/2022 13:10:14,Automation for Jira
+SA-1525,SA-2,Profissional | Pacientes | Busca de pacientes,Jean Carlos;Luiz Gustavo,Task,Done,02/11/2022 04:24:26,04/11/2022 05:30:03,Automation for Jira
+SA-1524,SA-2,Resultado de exames não está inputando data,Jean Carlos;Luiz Gustavo,Task,Done,29/09/2022 10:29:03,07/10/2022 09:46:40,Yan Fagundes
+SA-1523,SA-2,Histórico do agendamento: Está aparecendo só o que é do médico - Deve aparecer o histórico da clínica,Jean Carlos;Luiz Gustavo,Task,Done,14/10/2022 06:17:24,18/10/2022 10:59:07,Automation for Jira
+SA-1522,SA-2,Chat | Enviando mensagem com erro de origem (usuário logado em conta diferente),Jean Carlos;Luiz Gustavo,Task,Done,16/09/2022 09:26:53,24/10/2022 05:19:17,Yan Fagundes
+SA-1521,SA-2,"Agenda | Clicar na função ""hoje"" retorna para os agendamentos de hoje, porém o calendário não",Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 09:55:12,31/08/2022 11:12:42,Yan Fagundes
+SA-1520,SA-2,Paciente | Prontuário | Atendimento | Inicialização do cronômetro,Jean Carlos;Luiz Gustavo,Task,Done,24/10/2022 09:45:17,04/11/2022 05:30:04,Automation for Jira
+SA-1519,SA-2,"Quando escreve a evolução do paciente após apertar em ""salvar"", a anamnese não é salva ",Jean Carlos;Luiz Gustavo,Task,Done,18/10/2022 04:57:02,19/10/2022 04:34:06,Automation for Jira
+SA-1518,SA-2,Evolução de paciente | não veio os dados do HiDoctor   ,Jean Carlos;Luiz Gustavo,Task,Done,18/10/2022 04:57:16,19/10/2022 04:34:01,Automation for Jira
+SA-1517,SA-2,Corrigir migração de Hidoctor,Jean Carlos;Luiz Gustavo,Task,Done,15/09/2022 09:28:26,16/09/2022 09:54:04,Yan Fagundes
+SA-1516,SA-2,Impressão | Bug no texto de impressão,Jean Carlos;Luiz Gustavo,Task,Done,14/09/2022 05:55:13,16/09/2022 09:52:06,Yan Fagundes
+SA-1515,SA-2,Paciente | Cadastro de paciente | Preenchendo automaticamente a idade do paciente,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 12:38:58,12/08/2022 12:19:09,Yan Fagundes
+SA-1514,SA-2,Relatórios | Excel não salva um segundo registro,Jean Carlos;Luiz Gustavo,Task,Done,21/09/2022 10:21:53,23/09/2022 07:39:37,Yan Fagundes
+SA-1513,SA-2,Editar paciente | Data de nascimento não funciona,Jean Carlos;Luiz Gustavo,Task,Done,21/09/2022 10:21:38,23/09/2022 07:39:39,Yan Fagundes
+SA-1512,SA-2,Relatórios | Padding quebrado na direita,Jean Carlos;Luiz Gustavo,Task,Done,21/09/2022 10:21:25,23/09/2022 07:39:41,Yan Fagundes
+SA-1511,SA-2,Não está trazendo o valor do procedimento no agendamento,Jean Carlos;Luiz Gustavo,Task,Done,29/11/2022 04:18:52,01/12/2022 03:39:11,Augusto Mandelli
+SA-1510,SA-2,Diferenciação de email com letra maiúscula ou minúscula,Jean Carlos;Luiz Gustavo,Task,Done,29/11/2022 04:26:01,01/12/2022 03:39:02,Augusto Mandelli
+SA-1509,SA-2,Paciente | Corrigir o nome da cínicia que é exibido no mural de paciente,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2022 11:09:38,12/08/2022 12:18:44,Yan Fagundes
+SA-1508,SA-2,Correção de edição de CPF no paciente,Jean Carlos;Luiz Gustavo,Task,Done,23/09/2022 06:50:58,26/09/2022 04:36:33,Yan Fagundes
+SA-1507,SA-2,Migração iClinic | Aura | Nova busca de anamneses ,Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 04:07:39,16/11/2022 03:58:25,Automation for Jira
+SA-1506,SA-2,"Quando troca o médico, deve atualizar o calendário",Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 10:35:55,18/10/2022 10:29:28,Automation for Jira
+SA-1505,SA-2,Anamnese | Paciente sem evolução e sem histórico ,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 10:35:59,21/10/2022 12:22:54,Automation for Jira
+SA-1504,SA-2,Prontuário | Texto de richtext por cima do input de modelos,Jean Carlos;Luiz Gustavo,Task,Done,07/10/2022 07:27:13,18/10/2022 10:30:24,Yan Fagundes
+SA-1503,SA-2,"Status do agendamento ""Confirmado"" está verde, mudar para azul",Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 10:35:52,18/10/2022 10:28:38,Automation for Jira
+SA-1502,SA-2,Diagnostico |  Diagnostico não está buscando na tabela CID,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 10:35:50,11/10/2022 06:16:33,Automation for Jira
+SA-1501,SA-2,"Pacientes | Cadastrar paciente | Opção ""Selecione""",Jean Carlos;Luiz Gustavo,Task,Done,27/07/2022 04:45:02,27/07/2022 06:08:59,Yan Fagundes
+SA-1500,SA-2,Agenda | Encaixar em horário preenchido,Jean Carlos;Luiz Gustavo,Task,Done,06/09/2022 04:45:05,09/09/2022 12:28:41,Yan Fagundes
+SA-1499,SA-2,Agenda | Arquivar agenda,Jean Carlos;Luiz Gustavo,Task,Done,19/07/2022 10:01:55,19/07/2022 13:23:48,Yan Fagundes
+SA-1498,SA-2,Encaixe | Não é possível criar um encaixe,Jean Carlos;Luiz Gustavo,Task,Done,20/07/2022 04:49:27,29/07/2022 04:37:29,Yan Fagundes
+SA-1497,SA-2,Locais | Cadastrar local | Ao criar um local não atualiza a sidebar,Jean Carlos;Luiz Gustavo,Task,Done,27/07/2022 04:35:24,03/08/2022 13:05:11,Yan Fagundes
+SA-1496,SA-2,Local | Procedimentos | Tipo de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,27/07/2022 04:36:21,27/07/2022 05:05:32,Yan Fagundes
+SA-1495,SA-2,Configurações de Agenda | Grade de horários | Cadastrar nova grade,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 10:14:21,26/07/2022 10:50:23,Yan Fagundes
+SA-1494,SA-2,Pacientes | Não exibe o último agendamento,Jean Carlos;Luiz Gustavo,Task,Done,27/07/2022 04:37:24,28/07/2022 10:27:44,Yan Fagundes
+SA-1493,SA-2,Dashboard | Filtros | Filtro de locais deve vir sempre com todos os locais selecionados,Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 04:50:00,11/11/2022 10:49:33,Automation for Jira
+SA-1492,SA-2,Diagnóstico |  Cadastrar diagnóstico | Remover obrigatoriedade de data,Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 04:50:01,11/11/2022 11:00:07,Automation for Jira
+SA-1491,SA-2,Agendamento | Alterar rota de editar,Jean Carlos;Luiz Gustavo,Task,Done,05/09/2022 11:07:01,08/09/2022 05:19:37,Yan Fagundes
+SA-1490,SA-2,Resultado de exames | Cadastrar | Botão de salvar,Jean Carlos;Luiz Gustavo,Task,Done,05/09/2022 06:50:03,06/09/2022 10:11:20,Yan Fagundes
+SA-1489,SA-2,Mensagem de confirmação de agenda,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 07:25:45,08/08/2022 04:46:10,Yan Fagundes
+SA-1488,SA-2,Prontuário | Falha na atualização de nome,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 07:28:16,08/08/2022 06:27:59,Yan Fagundes
+SA-1487,SA-2,Relatório | Excel: Está indo tudo em uma coluna.,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 10:19:33,29/08/2022 04:57:12,Yan Fagundes
+SA-1486,SA-2,Resultado de exame | Está fechando o modal caso clique fora e perdendo as informações,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 09:37:42,25/08/2022 09:47:10,Yan Fagundes
+SA-1485,SA-2,"Encaixe | Ao clicar na caixa encaixe, dentro de um agendamento, deve mostrar todos os procedimentos e convênios da clínica",Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 10:21:54,29/08/2022 05:54:33,Yan Fagundes
+SA-1484,SA-2,Agendamento | Data de nascimento do paciente não salva a data,Jean Carlos;Luiz Gustavo,Task,Done,01/08/2022 10:41:04,08/08/2022 06:25:53,Yan Fagundes
+SA-1483,SA-2,Paciente | Idade de pacientes (crianças),Jean Carlos;Luiz Gustavo,Task,Done,01/08/2022 10:56:23,12/08/2022 12:15:25,Yan Fagundes
+SA-1482,SA-2,Relatórios | Convênios com mais de um procedimento,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 07:47:08,09/09/2022 12:28:54,Yan Fagundes
+SA-1481,SA-2,Quebrando a tela de editar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,18/07/2022 05:25:09,19/07/2022 05:28:31,Augusto Mandelli
+SA-1480,SA-2,Tela branca,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 10:37:30,08/09/2022 05:11:55,Automation for Jira
+SA-1479,SA-2,Relatórios | Problemas,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 10:40:29,09/09/2022 12:04:55,Automation for Jira
+SA-1478,SA-2,Profissional | Prontuário | Pacientes | Cadastro | Editar dados cadastrais do paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:16:44,30/06/2022 05:22:17,Augusto Mandelli
+SA-1477,SA-2,Profissional | Prontuário | Paciente | Anamnese | Visualizar anamneses,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:16:54,30/06/2022 05:22:44,Augusto Mandelli
+SA-1476,SA-2,Profissional | Prontuário | Paciente | Anamnese | Cadastrar anamnese,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:17:03,30/06/2022 09:23:06,Augusto Mandelli
+SA-1475,SA-2,Profissional | Prontuário | Paciente | Anamnese | Editar anamnese,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:17:13,30/06/2022 05:23:20,Augusto Mandelli
+SA-1474,SA-2,Profissionais | Prontuário | Paciente | Diagnósticos | Excluir diagnóstico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 05:56:49,07/10/2022 07:26:56,Automation for Jira
+SA-1473,SA-2,Profissionais | Prontuário | Paciente | Diagnósticos | Visualizar detalhes,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 05:56:47,07/10/2022 07:26:25,Automation for Jira
+SA-1472,SA-2,Profissional | Prontuário | Filtros de busca de paciente por nome,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:15:57,22/06/2022 13:40:43,Augusto Mandelli
+SA-1471,SA-2,Profissional | Prontuário | Pacientes | Cadastro | Visualizar dados cadastrais do paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:16:20,30/06/2022 13:28:16,Augusto Mandelli
+SA-1470,SA-2,Configurações | Clinica | Editar formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:14,11/11/2022 10:39:10,Automation for Jira
+SA-1469,SA-2,Atendimento | Paciente | Head | Exibir o convênio do atendimento atual,Jean Carlos;Luiz Gustavo,Task,Done,31/08/2022 12:40:42,09/09/2022 12:40:30,Automation for Jira
+SA-1468,SA-2,Configurações | Clinica | Excluir formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:16,11/11/2022 10:39:15,Automation for Jira
+SA-1467,SA-2,Migração iClinic,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 06:19:32,21/10/2022 12:35:41,Yan Fagundes
+SA-1466,SA-2,Prontuário | Incluir richtext no prontuário,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 06:13:46,04/10/2022 06:11:07,Yan Fagundes
+SA-1465,SA-2,Médico | Agenda | Configuração | Cadastrar bloqueio de agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:40:10,29/07/2022 10:20:01,Augusto Mandelli
+SA-1464,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Excluir resultado de exame,Jean Carlos;Luiz Gustavo,Task,Done,12/07/2022 05:57:07,18/07/2022 11:46:05,Augusto Mandelli
+SA-1463,SA-2,Médico | Agenda | Configuração | Editar bloqueio de agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:40:17,28/07/2022 10:20:26,Augusto Mandelli
+SA-1462,SA-2,Profissional | Agenda | Visualizar agenda diária,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:40:32,12/07/2022 08:57:53,Augusto Mandelli
+SA-1461,SA-2,Médico | Agenda | Configuração | Visualizar bloqueios de agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:40:00,28/07/2022 10:25:44,Augusto Mandelli
+SA-1460,SA-2,Profissional | Prontuário | Cadastrar paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:15:45,30/06/2022 05:26:49,Augusto Mandelli
+SA-1459,SA-2,Profissional | Prontuário | Paciente | Anamnese | Excluir anamnese,Jean Carlos;Luiz Gustavo,Task,Done,28/06/2022 11:08:45,30/06/2022 05:23:05,Yan Fagundes
+SA-1458,SA-2,Profissional | Agenda | Visualizar agendamento na agenda diária,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:40:58,30/06/2022 13:29:40,Augusto Mandelli
+SA-1457,SA-2,Backoffice | Gerar relatório de usuários de clínicas em PDF ,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:07:27,09/11/2022 09:36:52,Automation for Jira
+SA-1456,SA-2,Médico | Chat | Buscar conversas,Jean Carlos;Luiz Gustavo,Task,Done,13/07/2022 07:37:26,01/08/2022 05:23:21,Yan Fagundes
+SA-1455,SA-2,Profissional | Agenda | Visualizar calendário mensal,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:41:32,21/06/2022 16:09:48,Augusto Mandelli
+SA-1454,SA-2,Profissional | Paciente | Vincular paciente,Jean Carlos;Luiz Gustavo,Task,Done,13/07/2022 10:58:25,13/07/2022 10:59:06,Donavan Marques
+SA-1453,SA-2,Profissional | Prontuário | Visualizar pacientes,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:15:24,28/06/2022 11:05:03,Augusto Mandelli
+SA-1452,SA-2,Profissional | Local | Convênios | Visualizar convênios,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:36:59,31/05/2022 12:04:21,Augusto Mandelli
+SA-1451,SA-2,Profissional | Configuração de Conta | Verificar e-mail,Jean Carlos;Luiz Gustavo,Task,Done,24/03/2022 04:39:16,21/04/2022 09:31:12,Yan Fagundes
+SA-1450,SA-2,Profissional | Local | Convênios | Cadastrar convênios,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:37:15,31/05/2022 12:00:22,Augusto Mandelli
+SA-1449,SA-2,Profissional | Local | Convênios | Ativar/bloquear convênios,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:37:24,31/05/2022 12:02:56,Augusto Mandelli
+SA-1448,SA-2,Profissional | Local | Convênios | Arquivar convênio,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:37:34,31/05/2022 12:04:05,Augusto Mandelli
+SA-1447,SA-2,Paciente | Dados do Paciente,Jean Carlos;Luiz Gustavo,Task,Done,23/08/2022 10:11:08,25/08/2022 09:36:02,Yan Fagundes
+SA-1446,SA-2,Médico | Agenda | Configuração | Excluir excessão de agenda,Jean Carlos;Luiz Gustavo,Task,Done,28/06/2022 06:56:05,28/07/2022 10:22:55,Yan Fagundes
+SA-1445,SA-2,Médico | Agenda | Configuração | Cadastrar exceções de agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:39:23,29/07/2022 06:47:54,Augusto Mandelli
+SA-1444,SA-2,Médico | Agenda | Configuração | Editar exceção de agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:39:35,29/07/2022 06:49:38,Augusto Mandelli
+SA-1443,SA-2,Médico | Agenda | Configuração | Excluir bloqueio de agenda,Jean Carlos;Luiz Gustavo,Task,Done,28/06/2022 06:57:04,28/07/2022 10:20:30,Yan Fagundes
+SA-1442,SA-2,Profissional | Agenda | Configuração | Visualizar grades de horários,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:38:12,21/06/2022 16:09:26,Augusto Mandelli
+SA-1441,SA-2,Profissional | Agenda | Configuração | Cadastrar grade de horário,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:38:42,21/06/2022 16:09:29,Augusto Mandelli
+SA-1440,SA-2,Profissional | Agenda | Bloquear/Liberar agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:59:47,30/06/2022 13:30:02,Augusto Mandelli
+SA-1439,SA-2,Profissional | Agenda | Configuração | Editar grade de horário,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:38:56,21/06/2022 16:09:33,Augusto Mandelli
+SA-1438,SA-2,Médico | Agenda | Configuração | Visualizar exceções da agenda,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:39:12,28/07/2022 10:25:48,Augusto Mandelli
+SA-1437,SA-2,Profissional | Local | Equipe | Ativar/bloquear/arquivar usuário,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:03:13,17/05/2022 05:13:18,Augusto Mandelli
+SA-1436,SA-2,Profissional | Local | Equipe | Visualizar/editar permissões de usuário,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:03:28,23/05/2022 04:37:03,Augusto Mandelli
+SA-1435,SA-2,Agenda | Agendamento | Histórico de agendamentos | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,22/07/2022 04:09:17,12/08/2022 12:15:32,Yan Fagundes
+SA-1434,SA-2,Profissional | Local | Procedimentos | Visualizar procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:34:22,31/05/2022 12:04:40,Augusto Mandelli
+SA-1433,SA-2,Anamnese | Gravar informações ao trocar de tela e não salvar progresso,Jean Carlos;Luiz Gustavo,Task,Done,30/08/2022 11:04:03,31/08/2022 11:19:04,Yan Fagundes
+SA-1432,SA-2,Profissional | Local | Procedimentos | Cadastrar procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:34:29,31/05/2022 12:12:49,Augusto Mandelli
+SA-1431,SA-2,Agenda | Separador visual entre os turnos de atendimento,Jean Carlos;Luiz Gustavo,Task,Done,23/08/2022 10:07:12,31/08/2022 11:17:34,Yan Fagundes
+SA-1430,SA-2,Profissional | Local | Procedimentos | Ativar/bloquear procedimento,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:34:43,31/05/2022 12:22:23,Augusto Mandelli
+SA-1429,SA-2,Profissional | Local | Procedimentos | Editar procedimento,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:34:52,06/06/2022 04:42:34,Augusto Mandelli
+SA-1428,SA-2,Profissional | Prontuário | Paciente | Prescrições | Excluir,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:46:20,11/07/2022 07:52:49,Augusto Mandelli
+SA-1427,SA-2,Profissional | Prontuário | Paciente | Prescrições | Duplicar texto livre,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:46:27,11/07/2022 07:52:13,Augusto Mandelli
+SA-1426,SA-2,Profissional | Prontuário | Paciente | Solicitações de Exames | Visualizar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:49:05,11/07/2022 07:51:25,Augusto Mandelli
+SA-1425,SA-2,Configurações | Grade | Editar grade de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:09,04/10/2022 06:11:26,Automation for Jira
+SA-1424,SA-2,Header | Congelar header durante a rolagem,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:19:13,22/08/2022 09:42:19,Yan Fagundes
+SA-1423,SA-2,Profissional | Local | Convênios | Relacionar procedimentos e convênio,Jean Carlos;Luiz Gustavo,Task,Done,24/05/2022 06:29:09,20/06/2022 04:51:16,Yan Fagundes
+SA-1422,SA-2,Profissional | Prontuário | Paciente | Solicitações de Exames | Cadastrar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:49:09,11/07/2022 05:17:06,Augusto Mandelli
+SA-1421,SA-2,Profissional | Prontuário | Paciente | Solicitações de Exames | Excluir,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:49:16,11/07/2022 05:17:08,Augusto Mandelli
+SA-1420,SA-2,Profissional | Local | Convênios | Permissões de convênios,Jean Carlos;Luiz Gustavo,Task,Done,24/05/2022 12:55:59,31/05/2022 12:24:45,Yan Fagundes
+SA-1419,SA-2,Profissional | Local | Procedimentos | Permissões de procedimento,Jean Carlos;Luiz Gustavo,Task,Done,24/05/2022 12:56:22,31/05/2022 12:24:47,Yan Fagundes
+SA-1418,SA-2,Configurações | Grade | Desarquivar grades de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:16,04/10/2022 06:11:33,Automation for Jira
+SA-1417,SA-2,Profissional | Prontuário | Paciente | Prescrições | Imprimir,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:46:46,11/07/2022 14:05:24,Augusto Mandelli
+SA-1416,SA-2,Prontuário | Resultados de exame,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:37:56,22/08/2022 14:32:48,Yan Fagundes
+SA-1415,SA-2,Configurações | Grade | Arquivar grade de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:14,04/10/2022 06:11:31,Automation for Jira
+SA-1414,SA-2,Profissional | Prontuário | Paciente | Textos e Atestados | Visualizar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:47:09,08/07/2022 13:31:57,Augusto Mandelli
+SA-1413,SA-2,Configurações | Grade | Excluir grade de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:13,04/10/2022 06:11:29,Automation for Jira
+SA-1412,SA-2,Profissional | Prontuário | Paciente | Textos e Atestados | Cadastrar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:47:33,08/07/2022 05:13:26,Augusto Mandelli
+SA-1411,SA-2,Configurações | Grade | Cadastrar grade de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:10,04/10/2022 06:11:16,Automation for Jira
+SA-1410,SA-2,Paciente | Congelar header de rolagem de nome de paciente,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:20:10,29/08/2022 05:04:39,Yan Fagundes
+SA-1409,SA-2,Profissional | Prontuário | Paciente | Textos e Atestados | Excluir,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:48:39,08/07/2022 13:22:56,Augusto Mandelli
+SA-1408,SA-2,Configurações | Locais | Agenda | Arquivar agenda de procedimento,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:24,04/10/2022 06:11:14,Automation for Jira
+SA-1407,SA-2,Web | Profissional | Prontuário | Paciente | Arquivos e Imagens | Cadastrar,Jean Carlos;Luiz Gustavo,Task,Done,24/10/2022 04:48:55,07/11/2022 04:15:55,Automation for Jira
+SA-1406,SA-2,Configurações | Locais | Agenda | Editar agenda de procedimento,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:22,04/10/2022 06:11:15,Automation for Jira
+SA-1405,SA-2,Configurações | Locais | Agenda | Cadastrar agenda de procedimento,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:20,04/10/2022 06:11:12,Automation for Jira
+SA-1404,SA-2,Configurações | Grade | Visualizar grades de procedimentos arquivados,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:18,04/10/2022 06:11:45,Automation for Jira
+SA-1403,SA-2,Profissional | Local | Equipe | Permissões de profissional,Jean Carlos;Luiz Gustavo,Task,Done,24/05/2022 12:56:56,31/05/2022 12:24:51,Yan Fagundes
+SA-1402,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Visualizar detalhes,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:43:01,18/07/2022 11:45:59,Augusto Mandelli
+SA-1401,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Imprimir,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:43:06,18/07/2022 11:46:02,Augusto Mandelli
+SA-1400,SA-2,Profissional | Prontuário | Paciente | Prescrições | Visualizar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:45:53,11/07/2022 14:05:06,Augusto Mandelli
+SA-1399,SA-2,Profissional | Prontuário | Paciente | Prescrições | Adicionar prescrição texto livre,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:46:04,11/07/2022 07:51:48,Augusto Mandelli
+SA-1398,SA-2,Espera | Contador de pacientes em espera,Jean Carlos;Luiz Gustavo,Task,Done,15/07/2022 06:20:47,19/07/2022 05:28:03,Yan Fagundes
+SA-1397,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Visualizar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:39:03,18/07/2022 11:46:13,Augusto Mandelli
+SA-1396,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Cadastrar,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:39:19,18/07/2022 11:46:16,Augusto Mandelli
+SA-1395,SA-2,Profissional | Prontuário | Paciente | Resultados de Exames | Editar resultado de exame,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:42:10,18/07/2022 11:46:10,Augusto Mandelli
+SA-1394,SA-2,"Banco de dados | Remover usuários com nome ""Excluir""",Jean Carlos;Luiz Gustavo,Task,Done,02/11/2022 05:19:13,16/11/2022 03:38:22,Automation for Jira
+SA-1393,SA-2,Configurações | Grade | Visualizar grades de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:58:07,04/10/2022 06:11:19,Automation for Jira
+SA-1392,SA-2,Agenda | Visualizar status de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:25,11/11/2022 05:47:47,Automation for Jira
+SA-1391,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Pressão Arterial | Cadastrar nova pressão arterial,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:46,18/10/2022 12:08:47,Automation for Jira
+SA-1390,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Pressão Arterial | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:44,18/10/2022 12:08:46,Automation for Jira
+SA-1389,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Peso | Excluir peso,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:37,18/10/2022 12:08:23,Automation for Jira
+SA-1388,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Glicose | Cadastrar nova glicose,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:56,18/10/2022 12:09:33,Automation for Jira
+SA-1387,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Glicose | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:54,18/10/2022 12:09:32,Automation for Jira
+SA-1386,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Pressão Arterial | Excluir pressão arterial,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:51,18/10/2022 12:08:53,Automation for Jira
+SA-1385,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Pressão Arterial | Editar pressão arterial,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:49,18/10/2022 12:08:50,Automation for Jira
+SA-1384,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Glicose | Excluir glicose,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:50:00,18/10/2022 12:13:12,Automation for Jira
+SA-1383,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Glicose | Editar glicose,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:58,18/10/2022 12:13:10,Automation for Jira
+SA-1382,SA-2,Profissional | Prontuário | Cadastro | Cadastrar convênio,Jean Carlos;Luiz Gustavo,Task,Done,30/06/2022 05:19:53,30/06/2022 05:21:04,Augusto Mandelli
+SA-1381,SA-2,Profissional | Prontuário | Cadastro | Excluir convênio,Jean Carlos;Luiz Gustavo,Task,Done,30/06/2022 05:19:57,30/06/2022 05:21:06,Augusto Mandelli
+SA-1380,SA-2,Agenda | Detalhes de agendamento | Cadastrar forma de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:19,11/11/2022 05:47:59,Automation for Jira
+SA-1379,SA-2,Agenda | Reagendar,Jean Carlos;Luiz Gustavo,Task,Done,24/08/2022 07:04:32,29/08/2022 05:04:36,Automation for Jira
+SA-1378,SA-2,Agenda | Detalhes de agendamento | Cadastrar recebimento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:20,11/11/2022 05:47:44,Automation for Jira
+SA-1377,SA-2,Agenda | Detalhes de agendamento | Editar recebimento,Jean Carlos;Luiz Gustavo,Task,Done,07/11/2022 06:14:21,11/11/2022 05:47:54,Automation for Jira
+SA-1376,SA-2,Configurações | Locais | Permissões | Relatórios,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:58,01/12/2022 03:39:08,Yan Fagundes
+SA-1375,SA-2,Profissional | Prontuário | Paciente | Textos e Atestados | Editar,Jean Carlos;Luiz Gustavo,Task,Done,22/06/2022 13:13:40,08/07/2022 05:13:24,Yan Fagundes
+SA-1374,SA-2,Profissional | Prontuário | Paciente | Prescrições | Editar,Jean Carlos;Luiz Gustavo,Task,Done,22/06/2022 13:14:43,11/07/2022 07:52:39,Yan Fagundes
+SA-1373,SA-2,Configurações | Locais | Permissões | Locais | Formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:51:40,01/12/2022 03:38:50,Yan Fagundes
+SA-1372,SA-2,Configurações | Locais | Permissões | Locais | Equipe | Permissões,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:51:46,01/12/2022 03:38:57,Yan Fagundes
+SA-1371,SA-2,Contador | Play button,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 13:03:00,16/09/2022 09:53:57,Automation for Jira
+SA-1370,SA-2,Configurações | Locais | Permissões | Locais | Agendas,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:51:30,01/12/2022 03:38:49,Yan Fagundes
+SA-1369,SA-2,"Agenda | Quando encaixe, liberar todos os procedimentos",Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 05:37:50,01/12/2022 03:38:54,Augusto Mandelli
+SA-1368,SA-2,Profissionais | Modelos | Prontuário | Textos e atestados,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 05:37:54,12/08/2022 12:19:25,Yan Fagundes
+SA-1367,SA-2,Profissionais | Modelos | Prontuário | Anamnese,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 05:21:40,12/08/2022 12:19:24,Yan Fagundes
+SA-1366,SA-2,Profissional | Local | Convenio | Editar convênio,Jean Carlos;Luiz Gustavo,Task,Done,31/05/2022 12:08:41,13/06/2022 05:51:16,Augusto Mandelli
+SA-1365,SA-2,Médico | Relatórios | Filtro | Primeira vez,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:54:34,22/08/2022 05:43:36,Yan Fagundes
+SA-1364,SA-2,Profissionais | Modelos | Excluir modelos,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 11:45:57,12/08/2022 12:19:22,Yan Fagundes
+SA-1363,SA-2,Profissional | Convênio | Visualizar arquivados,Jean Carlos;Luiz Gustavo,Task,Done,31/05/2022 12:13:43,06/06/2022 04:34:19,Augusto Mandelli
+SA-1362,SA-2,Médico | Relatórios | Filtro | Agrupar,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:54:45,22/08/2022 05:43:32,Yan Fagundes
+SA-1361,SA-2,Profissional | Local | Procedimentos | Visualizar arquivados,Jean Carlos;Luiz Gustavo,Task,Done,31/05/2022 12:13:49,31/05/2022 12:20:59,Augusto Mandelli
+SA-1360,SA-2,Profissional | Local | Procedimentos | Arquivar procedimento,Jean Carlos;Luiz Gustavo,Task,Done,31/05/2022 12:20:36,31/05/2022 12:20:51,Augusto Mandelli
+SA-1359,SA-2,Impressão | Alterar a fonte de impressão,Jean Carlos;Luiz Gustavo,Task,Done,19/09/2022 05:56:40,23/09/2022 07:40:29,Yan Fagundes
+SA-1358,SA-2,Médico | Relatórios | Filtro | Profissionais,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:54:38,22/08/2022 05:43:34,Yan Fagundes
+SA-1357,SA-2,Configurações | Locais | Permissões | Prontuário | Solicitação de exames,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:36,01/12/2022 03:39:04,Yan Fagundes
+SA-1356,SA-2,Configurações | Locais | Permissões | Prontuário | Resultado de exames,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:41,01/12/2022 03:39:05,Yan Fagundes
+SA-1355,SA-2,Configurações | Locais | Permissões | Prontuário | Controles de Saúde,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:26,01/12/2022 03:38:59,Yan Fagundes
+SA-1354,SA-2,Configurações | Locais | Permissões | Prontuário | Textos e atestados,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:31,01/12/2022 03:39:10,Yan Fagundes
+SA-1353,SA-2,"Histórico | Exibir o status ""Em atendimento""",Jean Carlos;Luiz Gustavo,Task,Done,19/09/2022 12:45:59,23/09/2022 07:40:24,Yan Fagundes
+SA-1352,SA-2,Configurações | Locais | Permissões | Prontuário | Arquivos e imagens,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:50:44,01/12/2022 03:39:07,Yan Fagundes
+SA-1351,SA-2,Profissional | Agenda | Agendar paciente | Editar ficha de usuário,Jean Carlos;Luiz Gustavo,Task,Done,16/06/2022 04:40:18,13/07/2022 07:47:58,Yan Fagundes
+SA-1350,SA-2,Web | Profissional | Prontuário | Paciente | Arquivos e Imagens | Excluir,Jean Carlos;Luiz Gustavo,Task,Done,24/10/2022 05:02:05,07/11/2022 04:15:51,Automation for Jira
+SA-1349,SA-2,Configurações | Locais | Agenda | Visualizar agendas de procedimento,Jean Carlos;Luiz Gustavo,Task,Done,27/09/2022 11:56:49,04/10/2022 06:11:10,Yan Fagundes
+SA-1348,SA-2,Profissional | Agenda | Configuração | Arquivar/desarquivar grade de horário,Jean Carlos;Luiz Gustavo,Task,Done,21/06/2022 14:17:18,22/06/2022 13:40:37,Augusto Mandelli
+SA-1347,SA-2,Migração | HiDoctor (Georgia),Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 08:16:59,09/09/2022 12:29:13,Yan Fagundes
+SA-1346,SA-2,Pacientes | Editar paciente | Mesclagem de paciente,Jean Carlos;Luiz Gustavo,Task,Done,24/11/2022 03:51:34,01/12/2022 03:38:56,Automation for Jira
+SA-1345,SA-2,Sistema | Navbar | Busca rápida de pacientes,Jean Carlos;Luiz Gustavo,Task,Done,15/06/2022 09:31:07,25/07/2022 12:55:28,Yan Fagundes
+SA-1344,SA-2,Profissional | Prontuário | Paciente | Editar mural de observações,Jean Carlos;Luiz Gustavo,Task,Done,16/06/2022 04:39:18,23/06/2022 05:15:40,Yan Fagundes
+SA-1343,SA-2,Agendamento | Editar paciente | Mesclagem de paciente existente,Jean Carlos;Luiz Gustavo,Task,Done,24/11/2022 03:51:35,01/12/2022 03:38:52,Automation for Jira
+SA-1342,SA-2,Web | Profissional | Prontuário | Paciente | Arquivos e Imagens | Alterar modo de visualização (lista/blocos),Jean Carlos;Luiz Gustavo,Task,Done,03/11/2022 06:15:41,07/11/2022 04:16:58,Automation for Jira
+SA-1341,SA-2,Profissional | Agenda | Configuração | Visualizar grade de horário arquivada,Jean Carlos;Luiz Gustavo,Task,Done,21/06/2022 14:17:32,22/06/2022 13:40:31,Augusto Mandelli
+SA-1340,SA-2,Liberar usuário Giovanni Zappellini na plataforma antiga,Jean Carlos;Luiz Gustavo,Task,Done,31/05/2022 10:48:49,31/05/2022 11:36:11,Augusto Mandelli
+SA-1339,SA-2,Profissional | Prontuário | Paciente | Solicitações de Exames | Imprimir,Jean Carlos;Luiz Gustavo,Task,Done,04/07/2022 05:33:47,11/07/2022 14:05:40,Yan Fagundes
+SA-1338,SA-2,Resultados de exames | Arrastar arquivos para upload,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:44:35,24/08/2022 10:43:17,Yan Fagundes
+SA-1337,SA-2,Profissional | Espera | Finalizar atendimento de paciente,Jean Carlos;Luiz Gustavo,Task,Done,04/07/2022 06:45:27,07/07/2022 12:14:53,Yan Fagundes
+SA-1336,SA-2,Backoffice | Informar valor por usuário no cadastro da Clínica,Jean Carlos;Luiz Gustavo,Task,Done,03/11/2022 05:36:21,04/11/2022 05:28:13,Automation for Jira
+SA-1335,SA-2,Configuração | Excluir grade de horário,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:54:22,23/08/2022 08:48:22,Augusto Mandelli
+SA-1334,SA-2,Agenda | Excluir agendamento,Jean Carlos;Luiz Gustavo,Task,Done,22/08/2022 06:54:12,23/08/2022 08:48:23,Augusto Mandelli
+SA-1333,SA-2,Backoffice | Exibir na tabela de colaboradores e profissionais o último acesso,Jean Carlos;Luiz Gustavo,Task,Done,03/11/2022 05:36:29,04/11/2022 05:28:11,Automation for Jira
+SA-1332,SA-2,Web | Profissional | Prontuário | Paciente | Arquivos e Imagens | Visualizar,Jean Carlos;Luiz Gustavo,Task,Done,24/10/2022 04:50:16,07/11/2022 04:15:57,Automation for Jira
+SA-1331,SA-2,Backoffice | Exibir quantidade de profissionais na tabela de clinicas,Jean Carlos;Luiz Gustavo,Task,Done,03/11/2022 05:36:32,04/11/2022 05:28:09,Automation for Jira
+SA-1330,SA-2,Agenda | Menu dos procedimentos/Médicos,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2022 10:11:20,22/08/2022 05:43:50,Yan Fagundes
+SA-1329,SA-2,Paciente | Mural | Incluir mural na ficha do paciente,Jean Carlos;Luiz Gustavo,Task,Done,09/09/2022 11:09:48,16/09/2022 10:00:05,Yan Fagundes
+SA-1328,SA-2,Permissionamento | Secretária,Jean Carlos;Luiz Gustavo,Task,Done,09/08/2022 10:09:03,22/08/2022 14:32:34,Yan Fagundes
+SA-1327,SA-2,Dashboard | Visão Geral | Novos pacientes nos últimos 30 dias,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:23:16,23/09/2022 07:40:51,Automation for Jira
+SA-1326,SA-2,Dashboard | Visão Geral | Número de atendimentos em 12 meses,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:23:14,23/09/2022 07:41:13,Automation for Jira
+SA-1325,SA-2,Dashboard | Visão Geral | Taxa de ocupação da agenda,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:23:18,23/09/2022 07:40:50,Automation for Jira
+SA-1324,SA-2,Prontuário | Não permitir edição/exclusão de registro após 8h de criação,Jean Carlos;Luiz Gustavo,Task,Done,21/09/2022 10:22:32,23/09/2022 07:17:05,Yan Fagundes
+SA-1323,SA-2,Profissionais | Prontuário | Paciente | Diagnósticos | Visualizar diagnósticos,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 05:56:38,07/10/2022 07:26:28,Automation for Jira
+SA-1322,SA-2,"Equipe | Após o cadastro do colaborador, criar um status de aguardando na lista de cadastro de profissionais.",Jean Carlos;Luiz Gustavo,Task,Done,09/09/2022 07:22:58,12/09/2022 04:36:34,Automation for Jira
+SA-1321,SA-2,Profissionais | Prontuário | Paciente | Diagnósticos | Editar diagnóstico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 05:56:45,07/10/2022 07:26:33,Automation for Jira
+SA-1320,SA-2,Profissionais | Prontuário | Paciente | Diagnósticos | Cadastrar diagnóstico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 05:56:43,07/10/2022 07:26:31,Automation for Jira
+SA-1319,SA-2,Prontuário | Prescrição | Otimizar MEMED,Jean Carlos;Luiz Gustavo,Task,Done,18/11/2022 03:45:39,21/11/2022 03:36:07,Yan Fagundes
+SA-1318,SA-2,Profissional | Prontuário | Paciente | Solicitações de Exames | Editar,Jean Carlos;Luiz Gustavo,Task,Done,22/06/2022 13:15:18,11/07/2022 05:17:09,Yan Fagundes
+SA-1317,SA-2,Profissional | Prontuário | Paciente | Cadastro | Editar dados convênio,Jean Carlos;Luiz Gustavo,Task,Done,23/06/2022 05:39:28,30/06/2022 05:21:41,Augusto Mandelli
+SA-1316,SA-2,Profissionais | Modelos | Prontuário | Prescrição,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 05:38:52,13/08/2022 05:16:08,Yan Fagundes
+SA-1315,SA-2,Profissionais | Modelos | Prontuário | Resultado de exame,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 05:38:44,12/08/2022 12:19:28,Yan Fagundes
+SA-1314,SA-2,Profissionais | Modelos | Prontuário | Solicitação de exame,Jean Carlos;Luiz Gustavo,Task,Done,08/08/2022 05:38:37,12/08/2022 12:19:27,Yan Fagundes
+SA-1313,SA-2,Considerar cálculos e IMC apenas para maiores de 18 anos,Jean Carlos;Luiz Gustavo,Task,Done,29/11/2022 04:18:23,01/12/2022 03:38:53,Augusto Mandelli
+SA-1312,SA-2,"Ao cadastrar peso na Anamnese, permitir cadastrar com casa decimal",Jean Carlos;Luiz Gustavo,Task,Done,29/11/2022 04:13:34,01/12/2022 03:39:01,Augusto Mandelli
+SA-1311,SA-2,Histórico | Incluir a coluna de convênios no histórico,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 09:32:41,12/09/2022 13:01:42,Yan Fagundes
+SA-1310,SA-2,Paciente | Histórico | Exibir convênios,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:30:00,07/11/2022 11:43:04,Automation for Jira
+SA-1309,SA-2,Financeiro | Conciliação | Filtros de agendamentos para conciliação,Jean Carlos;Luiz Gustavo,Task,Done,08/11/2022 15:40:16,29/11/2022 04:05:27,Automation for Jira
+SA-1308,SA-2,Backoffice | Cadastrar usuário,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:29:13,26/09/2022 05:24:38,Automation for Jira
+SA-1307,SA-2,Backoffice | Visualizar detalhes de local,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:28:55,26/09/2022 05:24:27,Automation for Jira
+SA-1306,SA-2,Backoffice | Cadastrar local,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:28:53,26/09/2022 05:24:41,Automation for Jira
+SA-1305,SA-2,Backoffice | Visualizar local,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:28:51,26/09/2022 05:24:23,Automation for Jira
+SA-1304,SA-2,Backoffice | Visualizar detalhes de usuário,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:29:04,26/09/2022 05:24:51,Automation for Jira
+SA-1303,SA-2,Relatórios | Adicionar colunas e filtros de recebimento,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 03:57:39,29/11/2022 04:07:52,Automation for Jira
+SA-1302,SA-2,Backoffice | Visualizar usuários,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:29:01,26/09/2022 05:24:32,Automation for Jira
+SA-1301,SA-2,Backoffice | Excluir local,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:28:59,26/09/2022 05:24:54,Automation for Jira
+SA-1300,SA-2,Configurações | Clinica | Visualizar formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,08/11/2022 08:59:07,11/11/2022 05:47:38,Automation for Jira
+SA-1299,SA-2,Backoffice | Editar local,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:28:57,26/09/2022 05:24:46,Automation for Jira
+SA-1298,SA-2,Backoffice | Excluir usuário,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:29:10,26/09/2022 05:24:58,Automation for Jira
+SA-1297,SA-2,Paciente | Prontuário | Resultados de exame | Listar resultados de exame em expandable,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 03:57:42,29/11/2022 04:09:54,Automation for Jira
+SA-1296,SA-2,Backoffice | Editar usuário,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:29:08,26/09/2022 05:24:57,Automation for Jira
+SA-1295,SA-2,Configurações | Clinica | Cadastrar formas de pagamento,Jean Carlos;Luiz Gustavo,Task,Done,08/11/2022 08:59:20,11/11/2022 10:39:01,Automation for Jira
+SA-1294,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Altura | Cadastrar nova altura,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:24,18/10/2022 11:24:47,Automation for Jira
+SA-1293,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Altura | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:21,18/10/2022 11:24:45,Automation for Jira
+SA-1292,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Peso | Cadastrar novo peso,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:32,18/10/2022 12:08:20,Automation for Jira
+SA-1291,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Peso | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:30,18/10/2022 12:08:19,Automation for Jira
+SA-1290,SA-2,Financeiro | Conciciliação | Visualizar agendamentos para conciliação,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 03:57:31,29/11/2022 04:05:30,Automation for Jira
+SA-1289,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Altura | Excluir altura,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:27,18/10/2022 11:25:20,Automation for Jira
+SA-1288,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Altura | Editar altura,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:25,18/10/2022 11:24:58,Automation for Jira
+SA-1287,SA-2,Backoffice | Login,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:23:52,26/09/2022 05:24:20,Automation for Jira
+SA-1286,SA-2,Financeiro | Conciciliação | Editar recebimento em massa,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 03:57:32,29/11/2022 04:05:32,Automation for Jira
+SA-1285,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | Peso | Editar peso,Jean Carlos;Luiz Gustavo,Task,Done,26/09/2022 04:49:34,18/10/2022 12:08:22,Automation for Jira
+SA-1284,SA-2,Paciente | Prontuário | Anamnese | Resumo de resultados de exames,Jean Carlos;Luiz Gustavo,Task,Done,16/11/2022 09:06:19,21/11/2022 03:31:28,Automation for Jira
+SA-1283,SA-2,Paciente | Prontuário | Anamnese | Resumo de diagnósticos,Jean Carlos;Luiz Gustavo,Task,Done,16/11/2022 09:06:25,21/11/2022 03:31:26,Automation for Jira
+SA-1282,SA-2,Paciente | Prontuário | Prescrições | Trazer altura e peso automaticamente na MEMED (SUS),Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 04:16:37,21/11/2022 03:36:16,Automation for Jira
+SA-1281,SA-2,Modelos | Alteração do layout de uso dos modelos,Jean Carlos;Luiz Gustavo,Task,Done,03/10/2022 13:21:10,31/10/2022 13:10:21,Yan Fagundes
+SA-1280,SA-2,Prontuário | Anamneses | Visualizar histórico de atendimento na anamnese,Jean Carlos;Luiz Gustavo,Task,Done,03/10/2022 13:21:20,07/10/2022 07:33:43,Yan Fagundes
+SA-1279,SA-2,Paciente | Prontuário | Anamnese | Cadastrar controles de saúde,Jean Carlos;Luiz Gustavo,Task,Done,16/11/2022 09:06:11,21/11/2022 03:34:57,Automation for Jira
+SA-1278,SA-2,Agendamento | Incluir lista de médicos solicitantes,Jean Carlos;Luiz Gustavo,Task,Done,04/10/2022 04:19:02,07/10/2022 07:15:04,Yan Fagundes
+SA-1277,SA-2,Migração iClinic | Aura | Anexos,Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 04:07:33,16/11/2022 03:56:18,Automation for Jira
+SA-1276,SA-2,Profissional | Local | Equipe | Cadastrar colaborador,Jean Carlos;Luiz Gustavo,Task,Done,27/04/2022 10:14:30,20/05/2022 10:53:26,Yan Fagundes
+SA-1275,SA-2,Profissional | Prontuário | Paciente | Textos e Atestados | Imprimir,Jean Carlos;Luiz Gustavo,Task,Done,27/04/2022 11:19:47,08/07/2022 13:31:59,Augusto Mandelli
+SA-1274,SA-2,Profissional | Prontuário | Paciente | Controle de saúde | IMC | Visualizar IMC,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 05:16:08,18/10/2022 12:13:17,Yan Fagundes
+SA-1273,SA-2,Agenda | Informar dias preenchidos,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:48:12,26/09/2022 04:34:16,Yan Fagundes
+SA-1272,SA-2,Pacientes | Dados cadastrais | E-mail de responsável,Jean Carlos;Luiz Gustavo,Task,Done,12/09/2022 04:47:05,16/09/2022 10:00:44,Yan Fagundes
+SA-1271,SA-2,Agendamento | Repetir agendamento,Jean Carlos;Luiz Gustavo,Task,Done,06/09/2022 06:15:05,16/09/2022 12:54:28,Automation for Jira
+SA-1270,SA-2,Convênios | Trazer lista de convênios padrão,Jean Carlos;Luiz Gustavo,Task,Done,20/07/2022 07:49:57,22/07/2022 13:00:04,Yan Fagundes
+SA-1269,SA-2,Header | Pesquisa rápida | Remover scroll da página ,Jean Carlos;Luiz Gustavo,Task,Done,10/11/2022 05:08:24,21/11/2022 03:35:17,Automation for Jira
+SA-1268,SA-2,Profissional | Prontuário | Paciente | Prescrições | MEMED | Gerar prescrição via MEMED,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 10:00:13,12/08/2022 12:18:49,Yan Fagundes
+SA-1267,SA-2,Profissional | Prontuário | Paciente | Prescrições | MEMED | Adicionar medicamento a prescrição,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 10:00:19,12/08/2022 12:18:47,Yan Fagundes
+SA-1266,SA-2,Profissional | Prontuário | Paciente | Prescrições | MEMED | Excluir medicamento,Jean Carlos;Luiz Gustavo,Task,Done,26/07/2022 10:00:52,12/08/2022 12:18:45,Yan Fagundes
+SA-1265,SA-2,Profissionais | Prontuário | Paciente | Histórico de agendamentos | Visualizar histórico,Jean Carlos;Luiz Gustavo,Task,Done,21/07/2022 13:11:42,12/08/2022 12:15:29,Yan Fagundes
+SA-1264,SA-2,Agendamento | Exibir funcionalidades de consulta ao paciente na sidebar,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 12:05:44,31/08/2022 07:35:36,Yan Fagundes
+SA-1263,SA-2,Profissional | Local | Editar/Arquivar local,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:02:16,06/05/2022 10:46:33,Augusto Mandelli
+SA-1262,SA-2,Profissional | Local | Equipe | Visualizar equipe,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:02:47,17/05/2022 05:15:28,Augusto Mandelli
+SA-1261,SA-2,Paciente | Idade | Exibir o nome da mãe no header de pacientes crianças,Jean Carlos;Luiz Gustavo,Task,Done,30/08/2022 09:35:24,02/09/2022 06:21:10,Yan Fagundes
+SA-1260,SA-2,Profissional | Local | Equipe | Cadastrar profissional,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:02:54,13/06/2022 05:51:14,Augusto Mandelli
+SA-1259,SA-2,Paciente | Dados cadastrais | Incluir mais um campo para telefone,Jean Carlos;Luiz Gustavo,Task,Done,30/08/2022 10:08:51,09/09/2022 06:53:46,Yan Fagundes
+SA-1258,SA-2,Profissional | Local | Visualizar locais,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:01:36,06/05/2022 10:46:39,Augusto Mandelli
+SA-1257,SA-2,Profissional | Local | Cadastrar local,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 11:01:52,06/05/2022 10:46:37,Augusto Mandelli
+SA-1256,SA-2,Médico | Chat | Enviar mensagem,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:27,01/08/2022 05:22:34,Augusto Mandelli
+SA-1255,SA-2,Médico | Relatórios | Filtros | Data,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:53:20,22/08/2022 05:43:18,Yan Fagundes
+SA-1254,SA-2,Médico | Chat | Enviar arquivo,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:33,31/07/2022 17:39:20,Augusto Mandelli
+SA-1253,SA-2,Médico | Relatórios | Filtro | Tipo de procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:54:17,22/08/2022 05:43:37,Yan Fagundes
+SA-1252,SA-2,Profissional | Configuração de Conta | Login,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 10:43:46,21/04/2022 09:31:10,Augusto Mandelli
+SA-1251,SA-2,Profissionais | Relatórios | Imprimir relatório,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:03:09,22/08/2022 05:43:28,Augusto Mandelli
+SA-1250,SA-2,Profissional | Configuração de Conta | Cadastro,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 10:43:54,21/04/2022 09:31:14,Augusto Mandelli
+SA-1249,SA-2,Profissionais | Relatórios | Exportar xls,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:03:15,22/08/2022 05:43:27,Augusto Mandelli
+SA-1248,SA-2,Profissional | Configuração de Conta | Visualizar dados cadastrais/profissionais,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 10:44:31,25/04/2022 05:04:11,Augusto Mandelli
+SA-1247,SA-2,Profissional | Configuração de Conta | Editar dados cadastrais/profissionais,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 10:44:43,26/04/2022 05:27:38,Augusto Mandelli
+SA-1246,SA-2,Médico | Relatórios | Filtro | Local,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:53:40,22/08/2022 05:43:16,Yan Fagundes
+SA-1245,SA-2,"Prontuário | Quando pressionar ""Salvar"", deve enviar o documento para impressão (não abrir visualização em nova aba)",Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 12:04:28,31/08/2022 07:33:48,Yan Fagundes
+SA-1244,SA-2,Profissionais | Modelos | Visualizar modelos,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:48,12/08/2022 12:19:16,Augusto Mandelli
+SA-1243,SA-2,Agenda | Alterar ícone de grade de horário,Jean Carlos;Luiz Gustavo,Task,Done,21/07/2022 04:36:47,21/07/2022 15:14:15,Yan Fagundes
+SA-1242,SA-2,Médico | Relatórios | Filtro | Convênios,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:53:50,22/08/2022 05:43:20,Yan Fagundes
+SA-1241,SA-2,Web | Profissional | Prontuário | Paciente | Arquivos e Imagens | Comparar imagens,Jean Carlos;Luiz Gustavo,Task,Done,03/11/2022 06:16:04,07/11/2022 04:18:36,Automation for Jira
+SA-1240,SA-2,Profissionais | Modelos | Cadastrar modelo,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:56,12/08/2022 12:19:18,Augusto Mandelli
+SA-1239,SA-2,Textos e atestados | Alterar cabeçalho,Jean Carlos;Luiz Gustavo,Task,Done,21/07/2022 04:39:57,21/07/2022 15:14:20,Yan Fagundes
+SA-1238,SA-2,Profissionais | Modelos | Editar modelos,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:02:16,12/08/2022 12:19:20,Augusto Mandelli
+SA-1237,SA-2,Médico | Relatórios | Filtro | Status de agenda,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:53:54,22/08/2022 05:43:21,Yan Fagundes
+SA-1236,SA-2,Profissionais | Relatórios | Visualizar relatórios,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:02:52,22/08/2022 05:43:30,Augusto Mandelli
+SA-1235,SA-2,Médico | Relatórios | Filtro | Procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,02/08/2022 10:53:59,22/08/2022 05:43:24,Yan Fagundes
+SA-1234,SA-2,"Convênio | Armazenar o convênio do paciente, para no próximo agendamento trazer automaticamente",Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 12:05:27,02/09/2022 13:06:19,Yan Fagundes
+SA-1233,SA-2,Espera | Não atualiza o paciente esperando de forma automática,Jean Carlos;Luiz Gustavo,Task,Done,25/08/2022 12:05:04,31/08/2022 11:18:46,Yan Fagundes
+SA-1232,SA-2,Profissional | Anamnese | Adicionar tag de usuário,Jean Carlos;Luiz Gustavo,Task,Done,06/09/2022 11:06:59,12/09/2022 04:36:19,Automation for Jira
+SA-1231,SA-2,Médico | Chat | Visualizar chat,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:00:53,01/08/2022 05:23:16,Augusto Mandelli
+SA-1230,SA-2,Médico | Chat | Visualizar notificação de chat,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:06,31/07/2022 17:39:15,Augusto Mandelli
+SA-1229,SA-2,Profissional | Anamnese | Remover tag de usuário,Jean Carlos;Luiz Gustavo,Task,Done,06/09/2022 11:07:01,12/09/2022 04:36:25,Automation for Jira
+SA-1228,SA-2,Profissional | Configuração de Conta | Recuperar senha,Jean Carlos;Luiz Gustavo,Task,Done,15/03/2022 13:08:40,21/04/2022 09:31:17,Yan Fagundes
+SA-1227,SA-2,Agendamento | Input de busca de paciente,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 10:38:43,08/09/2022 05:14:37,Automation for Jira
+SA-1226,SA-2,Médico | Chat | Visualizar conversa,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 13:01:18,01/08/2022 05:22:54,Augusto Mandelli
+SA-1225,SA-2,Profissional | Agenda | Editar agendamento,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:57:50,13/07/2022 04:47:18,Augusto Mandelli
+SA-1224,SA-2,Profissional | Agenda | Enviar confirmação de agendamento,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:58:09,12/07/2022 08:57:55,Augusto Mandelli
+SA-1223,SA-2,Profissional | Agenda | Encaixar agendamento de paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:58:23,30/06/2022 13:27:27,Augusto Mandelli
+SA-1222,SA-2,Alterar ordem de dias,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 05:29:11,02/09/2022 06:59:23,Yan Fagundes
+SA-1221,SA-2,Profissional | Espera | Visualizar espera,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:58:40,08/07/2022 06:01:46,Augusto Mandelli
+SA-1220,SA-2,Busca | Alterar lógica de filtros de busca,Jean Carlos;Luiz Gustavo,Task,Done,02/09/2022 07:13:25,12/09/2022 04:36:07,Yan Fagundes
+SA-1219,SA-2,Profissional | Agenda | Agendar paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:57:31,30/06/2022 13:27:08,Augusto Mandelli
+SA-1218,SA-2,Profissional | Espera | Atender paciente,Jean Carlos;Luiz Gustavo,Task,Done,03/03/2022 12:58:45,07/07/2022 07:43:57,Augusto Mandelli
+SA-941,SA-3,Usuário | Configuração de Conta | Login,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:35:20,29/07/2022 10:30:47,Yan Fagundes
+SA-940,SA-3,Laboratório | Configurações de equações | Excluir equação,Carlos Pasquali;Jorge Andrade,Task,Done,18/08/2022 10:01:10,29/08/2022 05:13:33,Automation for Jira
+SA-939,SA-3,Laboratório | Configurações de equações | Editar equação,Carlos Pasquali;Jorge Andrade,Task,Done,18/08/2022 10:01:07,29/08/2022 05:13:32,Automation for Jira
+SA-938,SA-3,Laboratório | Gestor | Configurações | Excluir matriz,Carlos Pasquali;Jorge Andrade,Task,Done,22/09/2022 04:37:43,10/10/2022 04:38:40,Yan Fagundes
+SA-937,SA-3,Laboratório | Gestor | Configurações de perfis | Editar matriz,Carlos Pasquali;Jorge Andrade,Task,Done,21/09/2022 05:00:08,21/10/2022 12:19:09,Automation for Jira
+SA-936,SA-3,Backoffice | Administração | Filtro de usuários,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:36:24,12/08/2022 12:15:52,Yan Fagundes
+SA-935,SA-3,Backoffice | Administração | Cadastrar usuário,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:36:29,01/08/2022 05:07:55,Yan Fagundes
+SA-934,SA-3,Laboratório | Configurações de especificações | Visualizar especificações técnicas,Carlos Pasquali;Jorge Andrade,Task,Done,20/10/2022 04:57:01,07/11/2022 04:14:59,Automation for Jira
+SA-933,SA-3,Laboratório | Gestor | Configurações de perfis | Cadastrar matriz,Carlos Pasquali;Jorge Andrade,Task,Done,21/09/2022 05:00:05,10/10/2022 04:38:38,Automation for Jira
+SA-932,SA-3,Laboratório | Gestor | Configurações de perfis | Visualizar matrizes,Carlos Pasquali;Jorge Andrade,Task,Done,21/09/2022 05:00:02,10/10/2022 04:38:37,Automation for Jira
+SA-931,SA-3,Laboratório | Usuário | Amostras | Editar amostra,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 06:25:36,05/12/2022 04:52:28,Automation for Jira
+SA-930,SA-3,Laboratório | Usuário | Amostras | Visualizar amostras,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 06:26:51,01/12/2022 03:39:22,Automation for Jira
+SA-929,SA-3,Laboratório | Usuário | Amostras | Visualizar detalhes de amostras,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 06:27:15,01/12/2022 03:39:24,Automation for Jira
+SA-928,SA-3,Usuário | Configuração de Conta | Visualizar dados cadastrais,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:35:48,22/08/2022 06:09:42,Yan Fagundes
+SA-927,SA-3,Usuário | Configuração de Conta | Logout,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:35:54,01/08/2022 05:07:53,Yan Fagundes
+SA-926,SA-3,Laboratório | Usuário | Amostras | Excluir amostra,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 06:26:26,05/12/2022 04:52:31,Automation for Jira
+SA-925,SA-3,Usuário | Configuração de Conta | Editar dados cadastrais,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:36:00,22/08/2022 06:09:41,Yan Fagundes
+SA-924,SA-3,Laboratório | Configurações de especificações | Cadastrar especificações técnicas,Carlos Pasquali;Jorge Andrade,Task,Done,20/10/2022 04:57:01,07/11/2022 04:14:57,Automation for Jira
+SA-923,SA-3,Backoffice | Administração | Visualizar usuários,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 09:36:15,01/08/2022 05:07:52,Yan Fagundes
+SA-922,SA-3,Backoffice | Administração | Editar usuário,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 19:41:45,12/08/2022 12:15:20,Yan Fagundes
+SA-921,SA-3,Backoffice | Administração | Visualizar detalhes de usuário,Carlos Pasquali;Jorge Andrade,Task,Done,07/07/2022 07:58:47,01/08/2022 05:07:56,Yan Fagundes
+SA-920,SA-3,Backoffice | Administração | Excluir usuário,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 19:41:50,01/08/2022 05:07:57,Yan Fagundes
+SA-919,SA-3,Backoffice | Administração | Aprovar/bloquear usuário,Carlos Pasquali;Jorge Andrade,Task,Done,04/07/2022 19:41:58,01/08/2022 05:07:58,Yan Fagundes
+SA-918,SA-3,Laboratório | Configurações de ensaios | Excluir perfil de ensaio,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:30:44,12/09/2022 04:35:16,Automation for Jira
+SA-917,SA-3,Laboratório | Configurações de ensaios | Editar perfil de ensaio,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:30:42,12/09/2022 04:35:15,Automation for Jira
+SA-916,SA-3,Laboratório | Configurações de ensaios | Cadastrar perfil de ensaio,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:30:40,12/09/2022 04:35:13,Automation for Jira
+SA-915,SA-3,Laboratório | Configurações de especificações | Visualizar detalhes de especificações técnicas,Carlos Pasquali;Jorge Andrade,Task,Done,20/10/2022 04:57:05,07/11/2022 04:15:03,Automation for Jira
+SA-914,SA-3,Laboratório | Configurações de ensaios | Visualizar perfis de ensaio,Carlos Pasquali;Jorge Andrade,Task,Done,29/08/2022 06:30:37,12/09/2022 04:35:12,Automation for Jira
+SA-913,SA-3,Laboratório | Configurações de equações | Teste de equação,Carlos Pasquali;Jorge Andrade,Task,Done,18/08/2022 10:00:57,29/08/2022 05:13:31,Automation for Jira
+SA-912,SA-3,Laboratório | Usuário | Amostras | Cadastrar amostra,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 06:22:56,01/12/2022 03:39:25,Automation for Jira
+SA-911,SA-3,Laboratório | Configurações de equações | Cadastrar equação,Carlos Pasquali;Jorge Andrade,Task,Done,18/08/2022 10:00:54,29/08/2022 05:13:29,Automation for Jira
+SA-910,SA-3,Laboratório | Configurações de especificações | Editar especificações técnicas,Carlos Pasquali;Jorge Andrade,Task,Done,21/10/2022 09:33:15,07/11/2022 04:15:01,Automation for Jira
+SA-909,SA-3,Laboratório | Configurações de equações | Visualizar equações,Carlos Pasquali;Jorge Andrade,Task,Done,18/08/2022 10:00:52,29/08/2022 05:13:28,Automation for Jira
+SA-908,SA-3, Laboratório | Configurações de especificações | Excluir especificações técnicas,Carlos Pasquali;Jorge Andrade,Task,Done,07/11/2022 05:56:12,11/11/2022 11:13:48,Automation for Jira
+SA-862,SA-1,App | Configurações | Visualizar dados cadastrais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 04:51:34,21/10/2022 12:32:55,Automation for Jira
+SA-861,SA-1,Backoffice | Dispositivos de segurança | Editar dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,18/11/2022 03:29:36,05/12/2022 04:45:42,Automation for Jira
+SA-860,SA-1,App | Configurações | Editar dados cadastrais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 04:51:36,01/11/2022 11:23:48,Automation for Jira
+SA-859,SA-1,App | Configurações | Login/Logout,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 04:51:29,21/10/2022 12:29:05,Automation for Jira
+SA-858,SA-1,App | Configurações | Cadastro,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 04:51:32,21/10/2022 12:32:53,Automation for Jira
+SA-857,SA-1,App | Configurações | Recuperar senha,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 04:51:39,31/10/2022 12:17:01,Automation for Jira
+SA-856,SA-1,Backoffice | Dispositivos de segurança | Visualizar detalhes de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:41:34,31/10/2022 12:18:09,Automation for Jira
+SA-855,SA-1,Backoffice | Dispositivos de segurança | Cadastrar novo dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:41:32,31/10/2022 12:18:07,Automation for Jira
+SA-854,SA-1,Backoffice | Configurações | Login/Logout,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:41:30,31/10/2022 12:16:27,Automation for Jira
+SA-853,SA-1,Backoffice | Dispositivos de segurança | Visualizar dispositivos de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:41:31,31/10/2022 12:18:05,Automation for Jira
+SA-805,SA-114,App | Veículos | Visualizar veículos novos (webview),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 03:57:58,21/11/2022 04:28:24,Automation for Jira
+SA-804,SA-114,App | Meu Veículo | Cadastrar veículo,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:33:28,27/10/2022 12:56:34,Automation for Jira
+SA-803,SA-114,App | Meu Veículo | Visualizar veículos,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:33:32,27/10/2022 09:39:42,Automation for Jira
+SA-802,SA-114,App | Atendimento | Agendar serviço (WhatsApp),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 03:57:51,29/11/2022 05:26:19,Automation for Jira
+SA-801,SA-114,Client | Configurações | Recuperar senha,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,05/10/2022 04:53:04,10/10/2022 04:39:17,Yan Fagundes
+SA-800,SA-114,App | Veículos | Visualizar veículos seminovos (webview),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 03:57:56,21/11/2022 04:28:28,Automation for Jira
+SA-799,SA-114,App | Atendimento | Atendimento geral (WhatsApp),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 03:57:48,29/11/2022 05:26:18,Automation for Jira
+SA-798,SA-114,Client | Configurações | Sobre a Jugasa,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,26/09/2022 04:57:44,10/10/2022 04:39:14,Automation for Jira
+SA-797,SA-114,Client | Configurações | Editar dados cadastrais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,26/09/2022 04:57:42,10/10/2022 04:39:11,Automation for Jira
+SA-796,SA-114,Client | Configurações | Recuperar senha,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/10/2022 06:02:00,27/10/2022 13:02:18,Automation for Jira
+SA-795,SA-114,App | Meu Veículo | Editar veículo,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:33:36,27/10/2022 12:56:24,Automation for Jira
+SA-794,SA-114,Client | Configurações | Visualizar dados cadastrais,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,26/09/2022 04:57:39,10/10/2022 04:39:15,Automation for Jira
+SA-793,SA-114,Client | Configurações | Cadastro,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,26/09/2022 04:57:37,10/10/2022 04:39:12,Automation for Jira
+SA-792,SA-114,Client | Configurações | Login/Logout,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,26/09/2022 04:57:34,10/10/2022 04:39:16,Automation for Jira
+SA-791,SA-114,App | Meu Veículo | Excluir veículo,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,24/10/2022 04:33:40,27/10/2022 09:39:51,Automation for Jira
+SA-714,SA-115,Backoffice | Usuários | Cadastrar usuário,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:41,04/11/2022 11:50:41,Automation for Jira
+SA-713,SA-115,Backoffice | Cursos | Cadastrar aula,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 10:07:33,02/12/2022 03:44:57,Automation for Jira
+SA-712,SA-115,Backoffice | Cursos | Editar módulo do curso,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 10:07:31,02/12/2022 03:44:55,Automation for Jira
+SA-711,SA-115,Backoffice | Configurações | Login/Logout,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:40,04/11/2022 11:50:39,Automation for Jira
+SA-710,SA-115,Backoffice | Cursos | Cadastrar curso,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 09:43:06,02/12/2022 03:43:47,Automation for Jira
+SA-709,SA-115,"Backoffice | Cursos | Editar curso
+",Jean Carlos;Luiz Gustavo,Task,Done,05/12/2022 05:52:27,05/12/2022 05:54:04,Automation for Jira
+SA-708,SA-115,Backoffice | Usuários | Visualizar usuários,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:43,04/11/2022 11:50:43,Automation for Jira
+SA-707,SA-115,Backoffice | Usuários | Aprovar/bloquear acesso de usuário,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:50,04/11/2022 11:50:46,Automation for Jira
+SA-706,SA-115,Backoffice | Cursos | Visualizar detalhe de curso,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 09:43:10,02/12/2022 03:43:53,Automation for Jira
+SA-705,SA-115,Backoffice | Usuários | Editar detalhes de usuários,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:45,04/11/2022 11:50:44,Automation for Jira
+SA-704,SA-115,Plataforma | Recuperar senha,Jean Carlos;Luiz Gustavo,Task,Done,02/11/2022 04:12:02,04/11/2022 13:24:53,Automation for Jira
+SA-703,SA-115,Plataforma | Configurações | Visualizar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,17/10/2022 05:47:33,24/10/2022 04:30:15,Automation for Jira
+SA-702,SA-115,Backoffice | Cursos | Cadastrar módulo,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 10:07:30,02/12/2022 03:43:55,Automation for Jira
+SA-701,SA-115,Plataforma | Configurações | Cadastro,Jean Carlos;Luiz Gustavo,Task,Done,17/10/2022 05:47:33,24/10/2022 04:30:13,Automation for Jira
+SA-700,SA-115,Backoffice | Cursos | Visualizar cursos,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 09:43:08,02/12/2022 03:43:51,Automation for Jira
+SA-699,SA-115,Plataforma | Configurações | Login/Logout,Jean Carlos;Luiz Gustavo,Task,Done,17/10/2022 05:47:32,24/10/2022 04:28:10,Automation for Jira
+SA-698,SA-115,Backoffice | Cursos | Editar aula do curso,Jean Carlos;Luiz Gustavo,Task,Done,21/11/2022 10:07:35,02/12/2022 03:44:58,Automation for Jira
+SA-697,SA-115,Plataforma | Configurações | Editar dados cadastrais,Jean Carlos;Luiz Gustavo,Task,Done,17/10/2022 05:47:32,24/10/2022 04:29:06,Automation for Jira
+SA-696,SA-115,Backoffice | Usuários | Visualizar detalhes de usuários,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 10:59:47,04/11/2022 11:50:45,Automation for Jira
+SA-620,SA-115,Backoffice | Cursos | Detalhes de curso | Questões | Excluir questão,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:43:09,23/01/2023 04:32:09,Donavan Marques
+SA-619,SA-115,Backoffice | Cursos | Detalhes de curso | Questões | Editar questão,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:42:59,23/01/2023 04:32:13,Donavan Marques
+SA-618,SA-115,Backoffice | Cursos | Detalhes de curso | Questões | Cadastrar questão,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:42:50,23/01/2023 04:32:15,Donavan Marques
+SA-617,SA-115,Backoffice | Cursos | Detalhes de curso | Avaliação | Questões,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:42:25,23/01/2023 04:32:11,Donavan Marques
+SA-616,SA-115,Backoffice | Cursos | Detalhes de curso | Editar avaliação,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:42:05,23/01/2023 04:32:01,Donavan Marques
+SA-615,SA-115,Backoffice | Cursos | Detalhes de curso | Visualizar detalhes de avaliação,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:41:52,23/01/2023 04:32:04,Donavan Marques
+SA-614,SA-115,Backoffice | Cursos | Detalhes de curso | Cadastrar avaliação,Jean Carlos;Luiz Gustavo,Task,Done,11/01/2023 11:41:01,23/01/2023 04:32:06,Donavan Marques
+SA-530,SA-3,Laboratório | Usuário | Cliente | Editar cliente,Carlos Pasquali;Jorge Andrade,Task,Done,22/12/2022 10:33:56,28/03/2023 11:46:32,Donavan Marques
+SA-529,SA-3,Laboratório | Usuário | Cliente | Visualizar detalhes de cliente,Carlos Pasquali;Jorge Andrade,Task,Done,22/12/2022 10:33:36,28/03/2023 11:46:34,Donavan Marques
+SA-528,SA-3,Laboratório | Usuário | Cliente | Visualizar clientes,Carlos Pasquali;Jorge Andrade,Task,Done,22/12/2022 10:32:30,28/03/2023 11:46:35,Donavan Marques
+SA-525,SA-117,Client | Manutenções | Visualizar detalhes de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,20/12/2022 11:37:57,22/02/2023 06:40:31,Yan Fagundes
+SA-524,SA-2,Agenda | Agendamento | Excluir agendamento,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:15:05,03/03/2023 12:45:25,Yan Fagundes
+SA-523,SA-2,Agenda | Agendamento | Repetir,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:15:01,07/03/2023 09:16:18,Yan Fagundes
+SA-522,SA-2,Agenda | Agendamento | Reagendar,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:57,07/03/2023 09:16:17,Yan Fagundes
+SA-521,SA-2,Agenda | Agendamento | Encaixar paciente,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:53,03/03/2023 12:45:28,Yan Fagundes
+SA-520,SA-2,Agenda | Agendamento | Realizar agendamento,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:49,03/03/2023 12:45:10,Yan Fagundes
+SA-519,SA-2,Agenda | Bloquear horários (avulso),Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:46,03/03/2023 12:45:23,Yan Fagundes
+SA-518,SA-2,Agenda | Visualizar agenda,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:41,03/03/2023 12:45:58,Yan Fagundes
+SA-517,SA-2,Configurações | Agenda | Excluir exceção,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:37,03/03/2023 12:45:34,Yan Fagundes
+SA-516,SA-2,Configurações | Agenda | Editar exceção,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:33,03/03/2023 12:45:44,Yan Fagundes
+SA-515,SA-2,Configurações | Agenda | Cadastrar exceção,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:29,03/03/2023 12:45:39,Yan Fagundes
+SA-514,SA-2,Configurações | Agenda | Excluir bloqueio,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:25,07/03/2023 09:16:23,Yan Fagundes
+SA-513,SA-2,Configurações | Agenda | Editar bloqueio,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:14:21,07/03/2023 09:16:20,Yan Fagundes
+SA-508,SA-2,Configurações | Locais | Procedimentos,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:13:53,03/03/2023 12:45:42,Yan Fagundes
+SA-507,SA-2,Agenda | Mensagem de confirmação | Enviar procedimento e endereço,Jean Carlos;Luiz Gustavo,Task,Done,19/12/2022 06:06:51,23/01/2023 04:20:30,Yan Fagundes
+SA-505,SA-2,Mensagens | Configurações | Locais | Editar mensagem,Jean Carlos;Luiz Gustavo,Task,Done,16/12/2022 12:19:20,05/05/2023 10:45:54,Yan Fagundes
+SA-504,SA-2,Mensagens | Paciente | Link de mensagem | Confirmação de agendamento,Jean Carlos;Luiz Gustavo,Task,Done,16/12/2022 12:14:15,05/05/2023 10:45:44,Yan Fagundes
+SA-501,SA-3,Backoffice | Cliente | Excluir cliente,Carlos Pasquali;Jorge Andrade,Task,Done,15/12/2022 09:32:10,27/03/2023 05:36:40,Donavan Marques
+SA-500,SA-3,Backoffice | Cliente | Editar cliente,Jorge Andrade;Luiz Gustavo,Task,Done,15/12/2022 09:32:05,27/03/2023 05:36:38,Donavan Marques
+SA-499,SA-3,Backoffice | Usuário | Cliente | Visualizar detalhes de cliente,Jorge Andrade;Luiz Gustavo,Task,Done,15/12/2022 09:32:00,27/03/2023 05:36:45,Donavan Marques
+SA-498,SA-3,Backoffice | Cliente | Cadastrar cliente,Jorge Andrade;Luiz Gustavo,Task,Done,15/12/2022 09:31:53,27/03/2023 05:36:48,Donavan Marques
+SA-497,SA-3,Backoffice | Cliente | Visualizar clientes,Jorge Andrade;Luiz Gustavo,Task,Done,15/12/2022 09:31:42,27/03/2023 05:36:43,Donavan Marques
+SA-488,SA-2,Modelos | Secretárias devem ter modelos,,Task,Done,15/12/2022 03:57:49,22/12/2022 09:13:59,Yan Fagundes
+SA-486,SA-2,Prontuário | Textos e atestados | Único de usuário,Jean Carlos;Luiz Gustavo,Task,Done,15/12/2022 03:54:17,22/12/2022 09:14:01,Yan Fagundes
+SA-483,SA-2,Espera | Implementar notificação de anamneses,Jean Carlos,Task,Done,15/12/2022 03:46:33,22/12/2022 09:14:10,Yan Fagundes
+SA-437,SA-117,Easy 1.0 | Client | Plano de manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,10/12/2022 06:34:22,22/12/2022 10:05:37,Yan Fagundes
+SA-436,SA-117,Easy 1.0 | Client | Fornecedores,Carlos Pasquali;Jorge Andrade,Task,Done,10/12/2022 06:33:56,22/12/2022 10:05:40,Yan Fagundes
+SA-435,SA-117,Easy 1.0 | Client | Educacional,Carlos Pasquali;Jorge Andrade,Task,Done,10/12/2022 06:33:52,22/12/2022 10:05:35,Yan Fagundes
+SA-434,SA-117,Easy 1.0 | Máscara de R$ no relato,Carlos Pasquali;Jorge Andrade,Task,Done,10/12/2022 06:32:12,22/12/2022 10:05:38,Yan Fagundes
+SA-429,SA-420,Implantação de Analytics,Kauã Librelato da Costa,Task,Done,08/12/2022 12:17:21,10/04/2023 06:50:34,Yan Fagundes
+SA-424,SA-2,Prontuário | Salvamento automático de anamnese,Jean Carlos;Luiz Gustavo,Task,Done,07/12/2022 10:57:35,13/12/2022 03:56:23,Yan Fagundes
+SA-422,SA-2,Prontuário | Prescrição | MEMED | Implementar função duplicar dentro da API,Jean Carlos;Luiz Gustavo,Task,Done,07/12/2022 10:33:20,13/12/2022 03:59:37,Yan Fagundes
+SA-417,SA-420,App | Notificações levar até a página específica de destino,Kauã Librelato da Costa,Task,Done,10/11/2022 05:18:16,25/01/2023 06:07:10,Automation for Jira
+SA-416,SA-420,Compartilhamento de link | Redirecionamento para app e site,Kauã Librelato da Costa,Task,Done,05/12/2022 05:11:00,25/01/2023 06:07:09,Yan Fagundes
+SA-399,SA-117,Plataforma | Calendário | Filtro de edificações em calendário,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 05:13:29,10/02/2023 06:49:17,Automation for Jira
+SA-398,SA-117,Plataforma | Calendário | Visualizar calendário mensal de manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 05:14:27,20/01/2023 11:17:14,Automation for Jira
+SA-397,SA-117,Easy 1.0 | Plataforma | Edificações | Detalhes de edificação | Editar | Pesquisar palavras,Carlos Pasquali;Jorge Andrade,Task,Done,24/11/2022 03:42:09,22/12/2022 10:05:33,Yan Fagundes
+SA-396,SA-117,Easy 1.0 | Client | QRCode | Incluir nome da função no botão de contato do responsável,Carlos Pasquali;Jorge Andrade,Task,Done,24/11/2022 03:42:45,22/12/2022 10:05:34,Yan Fagundes
+SA-395,SA-117,Easy 1.0 | Client | Botão de voltar após envio o relato,Carlos Pasquali;Jorge Andrade,Task,Done,24/11/2022 03:41:02,22/12/2022 10:05:36,Yan Fagundes
+SA-394,SA-117,Plataforma | Calendário | Visualizar calendário semanal de manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 05:13:25,20/01/2023 11:17:16,Automation for Jira
+SA-393,SA-117,Plataforma | Calendário | Visualizar detalhes de manutenção em calendário,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 05:13:26,10/02/2023 03:29:54,Automation for Jira
+SA-363,SA-2,Configurações | Locais | Permissões | Dashboard,Jean Carlos;Luiz Gustavo,Task,Done,28/11/2022 03:51:02,13/12/2022 03:56:04,Yan Fagundes
+SA-361,SA-2,Dashboard | Ocupação da agenda | Exibir encaixes,Jean Carlos;Luiz Gustavo,Task,Done,30/11/2022 03:30:36,13/12/2022 03:58:51,Yan Fagundes
+SA-356,SA-117,Client | Visualizar documentos e anexos da edificação,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:13,27/02/2023 03:34:51,Automation for Jira
+SA-355,SA-117,Plataforma | Configuração de conta | Cadastro de banner para condôminos,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:14,27/02/2023 03:34:55,Automation for Jira
+SA-354,SA-117,Plataforma | Relatório | Visualizar relatórios,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:05,06/03/2023 13:28:57,Automation for Jira
+SA-353,SA-117,Plataforma | Configuração de conta | Remover/editar banner para condôminos,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:15,27/02/2023 03:34:53,Automation for Jira
+SA-352,SA-117,Plataforma | Relatório | Filtro de período de data em relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:06,06/03/2023 13:28:55,Automation for Jira
+SA-351,SA-117,Plataforma | Relatório | Filtro de elemento em relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:06,06/03/2023 13:28:53,Automation for Jira
+SA-347,SA-117,Plataforma | Relatório | Filtro de obra em relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:06,06/03/2023 13:28:52,Automation for Jira
+SA-345,SA-117,Plataforma | Relatório | Filtro de categoria em relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:06,06/03/2023 13:28:50,Automation for Jira
+SA-344,SA-117,Client | Visualizar banner,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:15,27/02/2023 03:34:42,Automation for Jira
+SA-343,SA-117,Client | Relatos | Visualizar manutenções pendentes,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:09,27/02/2023 03:34:47,Automation for Jira
+SA-342,SA-117,Plataforma | Relatório | Gerar PDF de relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:07,07/03/2023 05:55:22,Automation for Jira
+SA-341,SA-117,Plataforma | Notificação | WhatsApp | Notificação de novas manutenções a serem realizadas,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:17,09/01/2023 03:45:35,Automation for Jira
+SA-340,SA-117,Plataforma | Relatório | Visualizar detalhes de manutenção em relatório,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:17,06/03/2023 13:28:59,Automation for Jira
+SA-339,SA-117,Plataforma | Notificação | E-mail | Comprovante de envio de relato,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:10,27/02/2023 04:03:13,Automation for Jira
+SA-337,SA-117,Client | Relatos | Visualizar manutenções realizadas,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:10,27/02/2023 03:34:58,Automation for Jira
+SA-333,SA-117,Client | Relatos | Enviar relato de manutenção,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:10,27/02/2023 03:34:43,Automation for Jira
+SA-331,SA-117,Client | Manutenções | Visualizar manutenções por ano,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:11,22/02/2023 06:40:34,Automation for Jira
+SA-329,SA-117,Client | Filtro de ano em manutenções,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:11,27/02/2023 03:34:50,Automation for Jira
+SA-328,SA-117,Client | Relatos | Visualizar manutenções em atraso,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:10,27/02/2023 03:34:45,Automation for Jira
+SA-325,SA-117,Client | Relatos | Visualizar manutenções realizadas com atraso,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:11,27/02/2023 03:35:00,Automation for Jira
+SA-324,SA-117,Client | Visualizar dados do síndico,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:39:12,22/02/2023 06:40:32,Automation for Jira
+SA-323,SA-117,Plataforma | Imprimir PDF de QRCode de edificação,Carlos Pasquali;Jorge Andrade,Task,Done,14/10/2022 06:37:43,27/02/2023 04:03:15,Automation for Jira
+SA-320,SA-2,Paciente | Histórico | Log de histórico de agendamento,Jean Carlos;Luiz Gustavo,Task,Done,01/12/2022 11:40:51,22/12/2022 09:13:55,Yan Fagundes
+SA-295,SA-3,Laboratório | Usuário | Resultados | Cadastrar resultados de ensaios,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 04:37:08,03/02/2023 12:10:14,Automation for Jira
+SA-294,SA-3,Laboratório | Usuário | Resultados | Consultar ensaios e resultados,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 04:37:04,03/02/2023 12:10:15,Automation for Jira
+SA-293,SA-3,Laboratório | Usuário | Resultados | Editar resultados de ensaios,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 04:37:10,03/02/2023 12:10:12,Automation for Jira
+SA-292,SA-3,Laboratório | Usuário | Amostras | Duplicar amostra,Carlos Pasquali;Jorge Andrade,Task,Done,05/12/2022 04:57:19,20/01/2023 09:11:19,Automation for Jira
+SA-279,SA-1,App | Configuração de dispositivos de segurança | Visualizar detalhes de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,18/11/2022 05:21:31,31/01/2023 10:17:10,Automation for Jira
+SA-278,SA-1,App | Configuração de dispositivos de segurança | Cadastrar novos usuários em dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,22/11/2022 11:06:48,31/01/2023 10:17:08,Automation for Jira
+SA-277,SA-1,App | Configuração de dispositivos de segurança | Desvincular usuário em dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,22/11/2022 11:11:13,31/01/2023 10:17:05,Automation for Jira
+SA-276,SA-1,App | Configuração de dispositivos de segurança | Visualizar usuários em dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,22/11/2022 11:06:48,31/01/2023 10:17:09,Automation for Jira
+SA-275,SA-1,App | Configuração de dispositivos de segurança | Visualizar dispositivos de segurança de usuário,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,18/11/2022 05:21:34,31/01/2023 10:17:11,Automation for Jira
+SA-274,SA-1,App | Configuração de dispositivos de segurança | Editar usuário em dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,22/11/2022 11:06:48,31/01/2023 10:17:06,Automation for Jira
+SA-273,SA-1,App | Atividades de dispositivo de segurança | Edição de horários de funcionamento de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,06/12/2022 11:50:40,31/01/2023 10:17:00,Automation for Jira
+SA-272,SA-1,Backoffice | Dispositivos de segurança | Imprimir QRCode de vinculo de dispositivo de segurança,Jean Carlos;Luiz Gustavo,Task,Done,25/11/2022 19:00:42,17/02/2023 05:57:12,Automation for Jira
+SA-271,SA-1,App | Atividades de dispositivo de segurança | Disparo de abertura de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,06/12/2022 11:50:41,10/04/2023 04:35:01,Automation for Jira
+SA-270,SA-1,App | Configuração de dispositivos de segurança | Remover dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,29/11/2022 09:09:13,31/01/2023 10:17:03,Automation for Jira
+SA-269,SA-1,App | Configuração de dispositivos de segurança | Editar dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,18/11/2022 05:21:29,31/01/2023 10:17:14,Automation for Jira
+SA-267,SA-1,App | Configuração de dispositivos de segurança | Vincular novo dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,18/11/2022 05:21:30,31/01/2023 10:17:13,Automation for Jira
+SA-265,SA-1,App | Atividades de dispositivo de segurança | Visualizar histórico de atividades de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 07:19:16,31/01/2023 10:17:02,Automation for Jira
+SA-262,SA-1,App | Atividades de dispositivo de segurança | Notificação de dispositivos de segurança não conectado ou fora de rede,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 07:19:02,19/06/2023 06:34:44,Automation for Jira
+SA-257,SA-1,App | Configurações | Configurações de notificações,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 07:19:42,19/06/2023 06:34:48,Automation for Jira
+SA-251,SA-1,App | Atividades de dispositivo de segurança | Notificação de nova atividade de dispositivo de segurança,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 07:19:08,19/06/2023 06:34:46,Automation for Jira
+SA-202,SA-116,Pweb | Disponibilizar link do TMKT no site da Mademil,Jean Carlos;Luiz Gustavo,Task,Done,18/11/2022 04:46:35,26/01/2023 13:06:48,Automation for Jira
+SA-201,SA-116,Pweb | Permitir que qualquer empresa possa preencher o formulário do TMKT,Jean Carlos;Luiz Gustavo,Task,Done,18/11/2022 04:47:34,24/01/2023 10:05:56,Automation for Jira
+SA-200,SA-116,Backoffice | Visualizar solicitações do TMKT,Jean Carlos;Luiz Gustavo,Task,Done,05/12/2022 04:34:56,24/01/2023 10:05:51,Automation for Jira
+SA-199,SA-116,Backoffice | Visualizar clientes | Filtro de clientes ativos/inativos,Jean Carlos;Luiz Gustavo,Task,Done,05/12/2022 04:35:21,24/01/2023 10:06:02,Automation for Jira
+SA-198,SA-116,Backoffice | Interagir com solicitações do TMKT,Jean Carlos;Luiz Gustavo,Task,Done,05/12/2022 04:33:42,24/01/2023 10:05:45,Automation for Jira
+SA-197,SA-116,Pweb | Remover cadastro de senha do formulário do TMKT,Jean Carlos;Luiz Gustavo,Task,Done,18/11/2022 04:47:53,24/01/2023 10:06:07,Automation for Jira
+SA-196,SA-116,Backoffice | Visualizar pedidos/propostas de clientes,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 05:42:42,27/02/2023 03:34:33,Automation for Jira
+SA-195,SA-116,Backoffice | Atualizar integração de informações manualmente,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 05:42:42,06/02/2023 05:00:58,Automation for Jira
+SA-192,SA-116,Backoffice | Visualizar detalhes de pedido,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 05:42:44,27/02/2023 03:34:28,Automation for Jira
+SA-190,SA-116,Backoffice | Filtrar pedidos/propostas de clientes,Jean Carlos;Luiz Gustavo,Task,Done,31/10/2022 05:42:44,27/02/2023 03:34:31,Automation for Jira
+SA-176,SA-114,App | Serviços | Visualizar acompanhamento de serviços,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,01/12/2022 10:55:34,23/12/2022 08:36:13,Automation for Jira
+SA-175,SA-114,App | Peças | Visualizar venda de peças (webview),Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 03:57:52,23/12/2022 08:36:23,Automation for Jira
+SA-174,SA-114,App | Serviços | Visualizar histórico de serviços,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,01/12/2022 10:56:14,23/12/2022 08:36:26,Automation for Jira
+SA-173,SA-114,App | Cashback/Pontos | Visualizar pontos,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 11:49:10,23/12/2022 08:36:24,Automation for Jira
+SA-172,SA-114,App | Cashback/Pontos | Visualizar histórico de pontos,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,21/11/2022 11:49:12,27/03/2023 05:06:06,Automation for Jira
+SA-171,SA-114,App | Notificações | Visualizar notificações,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 06:28:12,10/02/2023 07:26:11,Automation for Jira
+SA-170,SA-114,Backoffice | Notificações | Cadastrar notificação,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:48,06/02/2023 04:59:34,Automation for Jira
+SA-169,SA-114,App | Ofertas | Visualizar detalhes de ofertas,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 06:27:44,10/02/2023 07:24:58,Automation for Jira
+SA-168,SA-114,Backoffice | Usuários | Visualizar usuários,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:19,23/12/2022 08:36:14,Automation for Jira
+SA-167,SA-114,Backoffice | Notificações | Editar notificação,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:51,06/02/2023 04:59:37,Automation for Jira
+SA-166,SA-114,Backoffice | Usuários | Cadastrar usuário,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:21,23/12/2022 08:36:16,Automation for Jira
+SA-165,SA-114,App | Notificações | Configurar notificações,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 06:28:14,10/02/2023 07:26:02,Automation for Jira
+SA-164,SA-114,Backoffice | Configurações | Login/Logout,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:16,23/12/2022 08:36:11,Automation for Jira
+SA-163,SA-114,Backoffice | Notificações | Visualizar notificações,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:46,06/02/2023 04:59:32,Automation for Jira
+SA-162,SA-114,App | Ofertas | Visualizar ofertas,Kauã Librelato da Costa;Luiz Gustavo,Task,Done,10/10/2022 06:27:39,10/02/2023 07:25:00,Automation for Jira
+SA-161,SA-114,Backoffice | Usuários | Editar usuário,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:32,23/12/2022 08:36:19,Automation for Jira
+SA-160,SA-114,Backoffice | Usuários | Excluir usuário,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:35,23/12/2022 08:36:20,Automation for Jira
+SA-159,SA-114,Backoffice | Notificações | Excluir notificação,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:54,06/02/2023 04:59:43,Automation for Jira
+SA-158,SA-114,Backoffice | Usuários | Visualizar detalhes de usuário,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:27,23/12/2022 08:36:17,Automation for Jira
+SA-157,SA-114,Backoffice | Notificações | Visualizar detalhes de notificação,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:56,06/02/2023 04:59:39,Automation for Jira
+SA-156,SA-114,Backoffice | Usuários | Aprovar/bloquear acesso de usuário,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:30,23/12/2022 08:36:21,Automation for Jira
+SA-155,SA-114,Backoffice | Ofertas | Excluir oferta,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:42,06/02/2023 04:59:55,Automation for Jira
+SA-154,SA-114,Backoffice | Ofertas | Editar oferta,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:44,06/02/2023 04:59:52,Automation for Jira
+SA-153,SA-114,Backoffice | Ofertas | Visualizar ofertas,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:37,06/02/2023 04:59:45,Automation for Jira
+SA-152,SA-114,Backoffice | Ofertas | Cadastrar oferta,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:28:40,06/02/2023 04:59:48,Automation for Jira
+SA-151,SA-115,Plataforma | Meus cursos | Visualizar meus cursos,Jean Carlos;Luiz Gustavo,Task,Done,25/11/2022 04:17:23,23/01/2023 04:31:54,Automation for Jira
+SA-150,SA-115,Plataforma | Meus cursos | Gerar certificado,Jean Carlos;Luiz Gustavo,Task,Done,25/11/2022 04:18:12,14/02/2023 12:41:27,Automation for Jira
+SA-149,SA-115,Plataforma | Meus cursos & Cursos | Visualizar detalhes de curso,Jean Carlos;Luiz Gustavo,Task,Done,25/11/2022 04:17:23,23/01/2023 04:31:28,Automation for Jira
+SA-148,SA-115,Plataforma | Meus cursos | Assistir aula,Jean Carlos;Luiz Gustavo,Task,Done,25/11/2022 04:18:11,27/02/2023 03:37:22,Automation for Jira
+SA-147,SA-115,Backoffice | Vendas | Visualiza vendas de cursos,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:30:34,23/01/2023 04:31:59,Automation for Jira
+SA-146,SA-115,Backoffice | Vendas | Filtros de vendas,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:30:36,23/01/2023 04:31:31,Automation for Jira
+SA-145,SA-115,Plataforma | Cursos disponíveis | Comprar curso,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:29:43,27/02/2023 03:37:15,Automation for Jira
+SA-144,SA-115,Plataforma | LandingPage | Home/Cursos,Jean Carlos;Luiz Gustavo,Task,Done,14/10/2022 06:37:11,23/01/2023 04:31:51,Automation for Jira
+SA-143,SA-115,Backoffice | Usuários | Liberar/bloquear acesso a curso,Jean Carlos;Luiz Gustavo,Task,Done,10/10/2022 06:29:58,23/01/2023 04:31:47,Automation for Jira
