@@ -1,164 +1,291 @@
-parent,assignee,designer,devs,issue_type,designendtaskdate,designstarttaskdate,endresolution,startresolution,sprint
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,13/09/2023 10:10:40,13/09/2023 10:10:33,18/09/2023 16:24:42,15/09/2023 08:34:57,Sprint 68
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,31/08/2023 13:53:25,31/08/2023 13:53:20,05/09/2023 10:10:21,31/08/2023 13:53:28,Sprint 67
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/08/2023 15:32:48,22/08/2023 15:32:43,22/09/2023 17:04:28,13/09/2023 17:07:28,Sprint 66;Sprint 67;Sprint 68
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/08/2023 15:25:50,22/08/2023 15:25:47,22/09/2023 17:04:30,05/09/2023 15:28:02,Sprint 66;Sprint 67;Sprint 68
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/08/2023 09:06:09,22/08/2023 09:06:04,22/09/2023 17:03:34,13/09/2023 17:17:43,Sprint 66;Sprint 67;Sprint 68
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,15/08/2023 14:18:32,,18/08/2023 09:45:06,15/08/2023 14:18:36,Sprint 66
-SA-2859,Donavan Marques,Jean Carlos,Luiz Gustavo,Task,,,14/08/2023 10:58:32,07/08/2023 10:13:55,Sprint 65
-SA-1,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,11/09/2023 09:52:34,16/08/2023 14:40:05,Sprint 64;Sprint 65;Sprint 66;Sprint 67
-SA-1,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,16/08/2023 10:20:01,31/07/2023 13:55:40,11/09/2023 09:52:35,16/08/2023 14:40:07,Sprint 64;Sprint 65;Sprint 66;Sprint 67
-SA-1,Yan Fagundes,Gabrieli Souza,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,16/08/2023 15:40:40,16/08/2023 10:21:24,11/09/2023 09:52:31,16/08/2023 16:45:18,Sprint 64;Sprint 65;Sprint 66;Sprint 67
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,31/07/2023 16:41:44,27/07/2023 15:49:48,Sprint 64
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,31/07/2023 16:41:41,27/07/2023 15:49:43,Sprint 64
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,07/08/2023 14:52:39,28/07/2023 15:37:47,22/08/2023 17:30:34,07/08/2023 15:15:55,Sprint 64;Sprint 65;Sprint 66
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,07/08/2023 14:52:44,26/07/2023 16:39:14,15/09/2023 15:49:29,05/09/2023 08:45:29,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/08/2023 09:22:31,07/08/2023 17:14:20,22/09/2023 17:08:46,05/09/2023 15:28:27,Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/08/2023 08:36:51,07/08/2023 17:14:17,22/09/2023 17:03:32,05/09/2023 15:28:55,Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,31/07/2023 16:41:38,25/07/2023 16:00:14,Sprint 64
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:23,22/07/2023 15:37:54,Sprint 64
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,06/07/2023 11:08:09,06/07/2023 11:07:57,07/07/2023 17:01:33,07/07/2023 10:59:34,Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,06/07/2023 09:58:23,06/07/2023 09:58:17,07/07/2023 10:59:30,06/07/2023 11:43:38,Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,05/07/2023 14:54:45,05/07/2023 14:54:38,07/07/2023 10:59:26,06/07/2023 11:45:11,Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,05/07/2023 14:54:44,05/07/2023 14:54:37,07/07/2023 10:59:29,06/07/2023 11:45:10,Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,05/07/2023 14:54:46,05/07/2023 14:54:40,07/07/2023 10:59:25,06/07/2023 12:05:16,Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali,Task,05/07/2023 14:54:45,05/07/2023 14:54:39,07/07/2023 10:59:24,06/07/2023 12:05:15,Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Luiz Gustavo,Bug,,,17/07/2023 10:03:56,06/07/2023 14:23:51,Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos,Bug,,,28/08/2023 08:55:52,17/08/2023 14:03:55,Sprint 64;Sprint 65;Sprint 66;Sprint 63
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,03/08/2023 10:37:53,03/08/2023 10:37:45,15/09/2023 16:07:43,25/08/2023 15:35:49,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,09/08/2023 10:14:16,08/08/2023 15:58:24,15/09/2023 16:07:36,09/08/2023 10:15:32,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,03/08/2023 09:49:29,26/07/2023 14:27:26,15/09/2023 16:07:45,25/08/2023 15:35:47,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,02/08/2023 14:43:19,12/07/2023 10:17:15,15/09/2023 16:07:46,29/08/2023 15:26:11,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 63
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,02/08/2023 14:42:27,12/07/2023 10:17:19,15/09/2023 16:07:47,25/08/2023 15:35:43,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 63
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:17:20,26/07/2023 14:27:12,15/09/2023 16:07:37,15/08/2023 15:15:45,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:15:13,26/07/2023 14:27:15,15/09/2023 16:07:39,14/08/2023 08:39:37,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:15:09,26/07/2023 14:27:16,15/09/2023 16:07:40,08/08/2023 13:28:13,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:14:52,26/07/2023 14:22:58,15/09/2023 16:07:34,14/08/2023 08:41:00,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,07/08/2023 15:06:34,26/07/2023 14:23:02,15/09/2023 16:07:42,14/08/2023 16:52:45,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:15:20,18/07/2023 11:30:22,22/09/2023 17:14:53,30/08/2023 15:01:54,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:15:25,18/07/2023 11:30:02,22/09/2023 17:14:47,30/08/2023 14:14:51,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,08/08/2023 11:16:42,26/07/2023 14:23:00,15/09/2023 16:07:49,09/08/2023 10:07:14,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68
-SA-4047,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Task,07/08/2023 15:06:14,12/07/2023 10:17:12,22/09/2023 17:14:59,08/08/2023 08:17:17,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,29/07/2023 15:34:26,20/07/2023 08:59:13,Sprint 64;Sprint 63
-SA-117,Yan Fagundes,Gabrieli Souza,,Task,,,18/08/2023 09:45:10,11/08/2023 09:36:56,Sprint 64;Sprint 65;Sprint 66
-SA-117,Yan Fagundes,Gabrieli Souza,,Task,,,18/08/2023 09:45:11,11/08/2023 09:36:54,Sprint 64;Sprint 65;Sprint 66
-SA-117,Yan Fagundes,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,18/08/2023 09:45:12,11/08/2023 09:36:51,Sprint 64;Sprint 65;Sprint 66
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,04/07/2023 08:40:14,04/07/2023 08:40:04,29/07/2023 15:34:13,20/07/2023 13:49:50,Sprint 64;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,29/06/2023 15:26:46,29/06/2023 15:26:35,29/07/2023 15:34:04,21/07/2023 13:24:08,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa,Task,29/06/2023 14:23:51,29/06/2023 14:23:42,30/06/2023 16:41:33,29/06/2023 15:04:56,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,29/06/2023 11:10:19,29/06/2023 11:10:17,30/06/2023 16:47:02,30/06/2023 14:19:15,Sprint 62
-SA-1,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa,Bug,,,17/07/2023 08:14:24,03/07/2023 13:49:12,Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,28/06/2023 09:25:30,28/06/2023 09:25:24,30/06/2023 16:42:18,28/06/2023 09:49:58,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,27/06/2023 13:30:17,27/06/2023 13:30:08,30/06/2023 16:47:23,27/06/2023 15:38:09,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,27/06/2023 13:30:18,27/06/2023 13:30:09,30/06/2023 16:47:21,27/06/2023 14:12:22,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,17/07/2023 10:03:23,06/07/2023 17:17:26,Sprint 63
-SA-2,Augusto Mandelli,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,17/07/2023 10:03:22,06/07/2023 17:13:12,Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,17/07/2023 10:03:20,06/07/2023 15:44:33,Sprint 63
-SA-2,Augusto Mandelli,Gabrieli Souza,Jean Carlos,Bug,,,29/07/2023 15:34:14,20/07/2023 10:53:06,Sprint 64;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,27/06/2023 16:23:58,23/06/2023 16:15:57,17/07/2023 10:03:54,28/06/2023 14:21:33,Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,27/06/2023 16:24:01,23/06/2023 16:15:52,17/07/2023 10:03:18,28/06/2023 14:21:38,Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,27/06/2023 16:24:00,23/06/2023 16:15:55,17/07/2023 10:03:17,28/06/2023 14:21:36,Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,29/06/2023 15:15:48,27/06/2023 17:11:09,29/07/2023 15:34:21,22/07/2023 11:10:38,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Luiz Gustavo,Task,29/06/2023 15:15:46,27/06/2023 17:11:07,29/07/2023 15:34:25,22/07/2023 13:36:26,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Luiz Gustavo,Task,29/06/2023 15:15:45,27/06/2023 16:23:58,29/07/2023 15:34:24,22/07/2023 14:08:16,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,29/06/2023 15:15:44,27/06/2023 16:23:56,29/07/2023 15:34:07,22/07/2023 11:41:12,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,29/06/2023 15:15:42,27/06/2023 16:23:55,29/07/2023 15:34:08,22/07/2023 11:17:52,Sprint 64;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,29/06/2023 15:15:41,27/06/2023 16:23:53,30/06/2023 16:42:23,30/06/2023 14:19:03,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,29/06/2023 15:15:40,27/06/2023 16:23:51,30/06/2023 16:46:47,30/06/2023 13:04:29,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,27/06/2023 08:51:43,27/06/2023 08:51:36,30/06/2023 16:42:05,28/06/2023 10:43:10,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,31/07/2023 16:41:36,25/07/2023 16:00:16,Sprint 64;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,31/07/2023 16:41:40,25/07/2023 16:00:17,Sprint 64;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,31/07/2023 16:41:35,25/07/2023 16:00:29,Sprint 64;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Jorge Andrade,Bug,,,13/07/2023 08:34:51,03/07/2023 16:11:51,Sprint 62;Sprint 63
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,23/06/2023 15:53:03,20/06/2023 14:18:50,Sprint 62
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,23/06/2023 15:49:06,20/06/2023 14:49:57,Sprint 62
-SA-3,Donavan Marques,Gabrieli Souza,Jorge Andrade,Bug,,,13/07/2023 08:34:52,06/07/2023 15:56:36,Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,30/06/2023 16:47:17,24/06/2023 14:50:05,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,,,29/07/2023 15:34:15,20/07/2023 13:22:03,Sprint 64;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:04:56,03/08/2023 09:10:00,Sprint 64;Sprint 65;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,22/08/2023 17:30:09,03/08/2023 09:09:58,Sprint 64;Sprint 65;Sprint 66;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,22/08/2023 17:30:10,18/07/2023 08:49:26,Sprint 64;Sprint 65;Sprint 66;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:33,28/08/2023 16:54:30,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 61;Sprint 62;Sprint 63
-SA-2,Augusto Mandelli,Gabrieli Souza,Luiz Gustavo,Task,,,12/06/2023 17:04:56,12/06/2023 17:01:03,Sprint 61
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:41:54,28/06/2023 10:39:12,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,04/09/2023 08:43:03,04/09/2023 08:42:56,11/09/2023 08:36:08,05/09/2023 15:25:48,Sprint 65;Sprint 66;Sprint 67;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:47:34,28/06/2023 10:06:23,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:41:50,26/06/2023 15:50:28,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:47:26,28/06/2023 10:06:15,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:41:41,26/06/2023 15:50:21,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:41:38,24/06/2023 15:25:08,Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/06/2023 16:41:37,12/06/2023 09:20:26,Sprint 61;Sprint 62
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,30/06/2023 16:49:48,23/06/2023 10:20:28,Sprint 61;Sprint 62
-SA-3887,Augusto Mandelli,Gabrieli Souza,Jorge Andrade,Task,,,27/07/2023 09:29:18,26/06/2023 11:40:15,Sprint 64;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,17/07/2023 10:18:06,07/07/2023 10:53:21,Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,30/06/2023 16:49:46,28/06/2023 13:45:35,Sprint 60;Sprint 61;Sprint 62
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,30/06/2023 16:49:54,22/06/2023 14:02:40,Sprint 60;Sprint 61;Sprint 62
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,26/06/2023 08:43:50,22/06/2023 14:02:37,Sprint 60;Sprint 61;Sprint 62
-SA-420,Augusto Mandelli,Gabrieli Souza,Kauã Librelato da Costa,Task,,,30/06/2023 16:49:44,26/06/2023 16:53:31,Sprint 60;Sprint 61;Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,03/07/2023 15:41:49,,17/07/2023 10:15:40,05/07/2023 11:18:36,Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:31,05/09/2023 16:41:12,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,,29/05/2023 17:14:06,25/05/2023 10:48:27,Sprint 60
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,30/06/2023 16:46:51,07/06/2023 16:19:36,Sprint 59;Sprint 60;Sprint 61;Sprint 62
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,31/07/2023 16:41:59,27/07/2023 13:41:18,Sprint 64;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,31/07/2023 15:13:33,27/07/2023 13:41:16,Sprint 64;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:43,01/07/2023 16:30:42,Sprint 64;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:42,01/07/2023 16:30:40,Sprint 64;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:47,01/07/2023 16:30:36,Sprint 64;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:45,01/07/2023 16:30:44,Sprint 64;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,29/07/2023 15:34:46,05/06/2023 13:50:25,Sprint 64;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,30/05/2023 16:05:10,12/05/2023 15:49:54,Sprint 59;Sprint 60
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,05/06/2023 13:49:50,01/06/2023 16:09:57,Sprint 59;Sprint 60;Sprint 61
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,30/06/2023 16:47:06,20/06/2023 08:48:25,Sprint 59;Sprint 60;Sprint 61;Sprint 62
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,05/06/2023 13:49:56,01/06/2023 15:09:13,Sprint 59;Sprint 60;Sprint 61
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Bug,,,05/06/2023 13:49:53,02/06/2023 08:54:03,Sprint 59;Sprint 60;Sprint 61
-SA-2,Yan Fagundes,Gabrieli Souza,,Task,,,07/06/2023 17:17:29,05/06/2023 10:41:50,Sprint 59;Sprint 60;Sprint 61
-SA-3702,Augusto Mandelli,Gabrieli Souza,Carlos Pasquali,Task,04/07/2023 14:27:12,04/07/2023 14:27:05,11/07/2023 09:25:25,11/07/2023 09:25:17,Sprint 61;Sprint 62;Sprint 63
-SA-3702,Augusto Mandelli,Gabrieli Souza,Carlos Pasquali,Task,04/07/2023 14:27:31,04/07/2023 14:27:01,06/07/2023 10:19:58,05/07/2023 11:00:59,Sprint 61;Sprint 62;Sprint 63
-SA-3702,Augusto Mandelli,Gabrieli Souza,Carlos Pasquali,Task,04/07/2023 14:27:26,04/07/2023 14:26:56,06/07/2023 10:19:59,06/07/2023 10:19:43,Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:03:47,25/07/2023 14:19:44,Sprint 64;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:03:37,27/07/2023 09:57:06,Sprint 64;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:03:35,24/07/2023 13:59:53,Sprint 64;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:05:08,18/07/2023 08:49:28,Sprint 64;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,14/08/2023 12:03:34,18/07/2023 08:49:24,Sprint 64;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:33,21/08/2023 17:00:42,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:28,01/09/2023 11:33:35,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:27,28/08/2023 16:31:13,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:36,16/08/2023 14:50:53,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-3,Donavan Marques,Gabrieli Souza,Carlos Pasquali;Jorge Andrade,Task,,,15/09/2023 15:49:30,29/08/2023 17:15:56,Sprint 64;Sprint 65;Sprint 66;Sprint 67;Sprint 68;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 63
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,,18/05/2023 14:56:55,09/05/2023 08:39:45,Sprint 57;Sprint 58;Sprint 59;Sprint 60
-SA-2,Yan Fagundes,Laura Venturini Minotto,,Task,14/04/2023 10:00:26,14/04/2023 10:00:13,31/05/2023 13:07:33,19/05/2023 15:18:00,Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,,Task,,,24/05/2023 15:23:49,18/05/2023 15:26:33,Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,,Task,,,18/05/2023 14:56:51,18/05/2023 11:12:34,Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,05/07/2023 11:10:37,29/06/2023 15:33:42,29/07/2023 15:34:05,22/07/2023 10:11:01,Sprint 64;Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 56;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,05/07/2023 11:10:39,29/06/2023 15:33:44,29/07/2023 15:34:20,21/07/2023 13:24:25,Sprint 64;Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 56;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,05/07/2023 11:10:41,29/06/2023 15:33:41,29/07/2023 15:34:03,10/07/2023 17:11:44,Sprint 64;Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 56;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,22/06/2023 16:21:06,22/06/2023 16:20:58,30/06/2023 16:42:13,24/06/2023 08:51:26,Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,23/03/2023 13:32:01,30/06/2023 16:42:15,24/06/2023 13:58:23,Sprint 57;Sprint 59;Sprint 60;Sprint 62;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,23/03/2023 13:32:05,23/03/2023 13:23:23,16/05/2023 13:08:38,11/05/2023 14:52:16,Sprint 57;Sprint 59;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,23/03/2023 09:33:46,16/05/2023 13:08:36,11/05/2023 14:52:10,Sprint 57;Sprint 59;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,23/03/2023 09:21:19,16/05/2023 13:08:34,11/05/2023 14:52:12,Sprint 57;Sprint 59;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,16/03/2023 10:49:38,15/03/2023 11:20:50,30/06/2023 16:47:10,22/06/2023 11:02:49,Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,17/03/2023 10:16:24,16/03/2023 13:58:41,30/06/2023 16:46:49,12/06/2023 11:01:13,Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,15/03/2023 10:10:36,14/03/2023 17:13:45,30/06/2023 16:47:25,21/06/2023 14:48:41,Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,14/03/2023 17:13:51,14/03/2023 13:38:20,30/06/2023 16:47:04,21/06/2023 14:28:31,Sprint 57;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,13/03/2023 16:17:02,02/03/2023 11:27:33,31/07/2023 15:13:37,27/07/2023 13:41:12,Sprint 64;Sprint 57;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,02/03/2023 11:27:30,30/06/2023 16:42:30,27/06/2023 16:01:13,Sprint 57;Sprint 59;Sprint 60;Sprint 62;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,03/03/2023 11:35:05,02/03/2023 11:27:28,30/06/2023 16:42:32,24/06/2023 11:25:43,Sprint 57;Sprint 59;Sprint 60;Sprint 62;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,03/03/2023 09:04:38,02/03/2023 11:27:25,18/05/2023 09:59:44,15/05/2023 13:46:42,Sprint 57;Sprint 59;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,02/03/2023 11:27:22,18/05/2023 09:59:43,15/05/2023 13:46:28,Sprint 57;Sprint 59;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,03/03/2023 08:49:33,02/03/2023 11:27:19,18/05/2023 09:59:40,15/05/2023 13:46:21,Sprint 57;Sprint 59;Sprint 54;Sprint 55;Sprint 56
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,29/07/2023 15:34:50,06/06/2023 16:24:19,Sprint 64;Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,04/04/2023 14:57:25,14/08/2023 10:58:40,06/06/2023 15:52:41,Sprint 64;Sprint 57;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,03/04/2023 11:47:29,14/08/2023 10:58:41,20/07/2023 11:33:57,Sprint 64;Sprint 57;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,17/03/2023 09:38:03,31/07/2023 17:18:59,19/07/2023 14:48:54,Sprint 64;Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,13/03/2023 14:01:28,14/08/2023 10:58:36,06/06/2023 15:44:19,Sprint 64;Sprint 57;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,13/03/2023 10:42:14,31/07/2023 17:18:38,06/06/2023 15:44:56,Sprint 64;Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 54;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,,13/06/2023 15:43:22,05/05/2023 14:46:01,Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 55;Sprint 56
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,,15/03/2023 11:23:00,14/08/2023 10:58:44,05/05/2023 14:45:40,Sprint 64;Sprint 57;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,18/07/2023 13:44:00,15/03/2023 16:46:27,31/07/2023 17:22:38,18/07/2023 13:45:17,Sprint 64;Sprint 57;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 55;Sprint 56;Sprint 63
-SA-2859,Donavan Marques,Gabrieli Souza,Jean Carlos;Luiz Gustavo,Task,18/07/2023 13:44:06,16/03/2023 09:21:44,14/08/2023 10:58:34,18/07/2023 13:45:22,Sprint 64;Sprint 57;Sprint 65;Sprint 58;Sprint 59;Sprint 60;Sprint 61;Sprint 62;Sprint 55;Sprint 56;Sprint 63
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,06/03/2023 14:36:32,04/05/2023 11:20:25,02/05/2023 15:18:07,Sprint 57;Sprint 58;Sprint 54;Sprint 55;Sprint 56
-SA-2,Yan Fagundes,Laura Venturini Minotto,Jean Carlos;Luiz Gustavo,Task,,06/03/2023 14:36:27,05/05/2023 13:07:24,05/05/2023 08:40:20,Sprint 57;Sprint 58;Sprint 54;Sprint 55;Sprint 56
-SA-1,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,09/06/2023 15:55:44,07/06/2023 10:43:09,Sprint 60;Sprint 61
-SA-1,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,07/06/2023 16:52:07,06/06/2023 13:26:33,Sprint 60;Sprint 61
-SA-1,Donavan Marques,Gabrieli Souza,Kauã Librelato da Costa;Luiz Gustavo,Task,,,09/06/2023 15:55:42,07/06/2023 13:42:54,Sprint 60;Sprint 61
+parent,assignee,devs,issue_type,total_sprints,tempo_resolucao
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,26954
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,26698
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,24778
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,28118
+SA-3947,Yan Fagundes,Luiz Gustavo,Task,1,155527
+SA-3642,Yan Fagundes,Luiz Gustavo,Task,1,155516
+SA-2,Yan Fagundes,Luiz Gustavo,Bug,1,12
+SA-2,Yan Fagundes,Luiz Gustavo,Task,1,115435
+SA-2,Yan Fagundes,Jean Carlos,Task,1,12156
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,1,91156
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,1,97676
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,1,3086
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,1,2748
+SA-2,Yan Fagundes,Jean Carlos,Task,1,291168
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,8
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,8
+SA-3,Donavan Marques,Carlos Pasquali,Bug,1,2856
+SA-2,Jean Carlos,Jean Carlos,Bug,1,17
+SA-116,Yan Fagundes,Luiz Gustavo,Task,1,26
+SA-117,Yan Fagundes,Jorge Andrade,Bug,1,80478
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,81115
+SA-2,Yan Fagundes,Jean Carlos,Task,1,71775
+SA-2,Yan Fagundes,Jean Carlos,Task,1,89285
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,81059
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,81050
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,7667
+SA-1,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,283240
+SA-1,Yan Fagundes,Kauã Librelato da Costa,Bug,1,275857
+SA-1,Yan Fagundes,Luiz Gustavo,Bug,1,278109
+SA-1,Yan Fagundes,Kauã Librelato da Costa,Bug,1,283236
+SA-1,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,277448
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,12
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,425
+SA-117,Yan Fagundes,Jorge Andrade,Task,1,23
+SA-117,Yan Fagundes,Jorge Andrade,Task,1,7
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,1107
+SA-3887,Augusto Mandelli,Jorge Andrade,Bug,1,7446
+SA-2859,Donavan Marques,Kauã Librelato da Costa,Bug,1,279852
+SA-3887,Augusto Mandelli,,Task,1,8
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,518746
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,454909
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,454911
+SA-1,Augusto Mandelli,Luiz Gustavo,Adjust,1,261499
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,448651
+SA-1,Augusto Mandelli,Kauã Librelato da Costa;Luiz Gustavo,Adjust,1,280643
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,518797
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,455746
+SA-1,Augusto Mandelli,Luiz Gustavo,Adjust,1,257613
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,525230
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,526035
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,527092
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,527182
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,524618
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,199739
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,7032
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,83097
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,82610
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,245902
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,10914
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,61682
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,2,254872
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,2,181543
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,2,355224
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,258276
+SA-117,Yan Fagundes,Carlos Pasquali,Bug,1,17880
+SA-117,Yan Fagundes,Carlos Pasquali,Bug,1,18224
+SA-2,Yan Fagundes,Jean Carlos,Task,1,493663
+SA-2,Yan Fagundes,Jean Carlos,Bug,2,878793
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,2,355581
+SA-3,Yan Fagundes,Jorge Andrade,Adjust,1,31
+SA-3,Donavan Marques,Jorge Andrade,Bug,1,14611
+SA-3,Donavan Marques,Jorge Andrade,Bug,1,9311
+SA-3,Donavan Marques,Carlos Pasquali,Bug,1,14638
+SA-3,Donavan Marques,Jorge Andrade,Bug,1,222
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,859532
+SA-2,Yan Fagundes,Thiago Meller Casagrande,Bug,1,11
+SA-2,Yan Fagundes,Thiago Meller Casagrande,Task,1,19
+SA-2,Yan Fagundes,Thiago Meller Casagrande,Task,1,19
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,942080
+SA-2,Yan Fagundes,,Bug,1,9
+SA-2,Yan Fagundes,Luiz Gustavo,Bug,1,6
+SA-3,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,8
+SA-3,Donavan Marques,Jorge Andrade,Adjust,2,1464839
+SA-3,Yan Fagundes,Carlos Pasquali,Task,1,2675
+SA-116,Yan Fagundes,Luiz Gustavo,Task,1,15
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,514795
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Bug,1,19417
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,351198
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,351848
+SA-1,Augusto Mandelli,Kauã Librelato da Costa,Adjust,1,438604
+SA-3,Donavan Marques,Carlos Pasquali,Adjust,2,1568356
+SA-3,Donavan Marques,Jorge Andrade,Adjust,2,1568351
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,2,1568353
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,2,1568357
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Task,1,111081
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Task,2,110497
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Task,2,110012
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Task,2,28617
+SA-2859,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,3,1842934
+SA-2859,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,3,1817607
+SA-2,Jean Carlos,Jean Carlos;Luiz Gustavo,Task,2,1462773
+SA-3,Donavan Marques,Jorge Andrade,Bug,1,10
+SA-2,Yan Fagundes,,Task,1,2916
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,2108
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,3060
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,3067
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,3061
+SA-2,Yan Fagundes,Jean Carlos,Task,2,1609858
+SA-3,Donavan Marques,Carlos Pasquali,Adjust,3,1925742
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Adjust,3,1925745
+SA-420,Augusto Mandelli,Jean Carlos,Bug,1,411412
+SA-2,Jean Carlos,Jean Carlos,Task,1,167703
+SA-3702,Augusto Mandelli,Augusto Mandelli,Task,1,10
+SA-116,Augusto Mandelli,Luiz Gustavo,Task,1,5666
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,187032
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,261973
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Bug,1,3423
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,341023
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,341025
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,242080
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,264079
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,1,346949
+SA-114,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,3,1234356
+SA-114,Yan Fagundes,Kauã Librelato da Costa,Bug,1,328948
+SA-114,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,2,1552466
+SA-2859,Donavan Marques,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Bug,1,867070
+SA-2859,Donavan Marques,Kauã Librelato da Costa,Bug,1,933788
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Bug,3,1299410
+SA-3947,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,1,495374
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,269
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,563
+SA-117,Yan Fagundes,Jorge Andrade,Bug,1,168540
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,169497
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,170139
+SA-3887,Augusto Mandelli,Jorge Andrade,Bug,1,5788
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Bug,1,551053
+SA-1,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Task,2,2229154
+SA-2,Yan Fagundes,Jean Carlos,Task,1,611620
+SA-3947,Yan Fagundes,Jean Carlos,Bug,1,495381
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,256988
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,252405
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,242786
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,252403
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,252400
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,252405
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,253527
+SA-2,Yan Fagundes,Jean Carlos,Task,1,544947
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,544926
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,2,1446322
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,17241
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,599021
+SA-2,Jean Carlos,Jean Carlos,Task,1,699905
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,3,2386980
+SA-2,Yan Fagundes,Luiz Gustavo,Task,1,6
+SA-116,Yan Fagundes,Luiz Gustavo,Bug,1,13
+SA-116,Yan Fagundes,Luiz Gustavo,Task,2,8134
+SA-3887,Augusto Mandelli,Jorge Andrade,Bug,1,2955
+SA-2,Yan Fagundes,,Bug,2,235169
+SA-2,Yan Fagundes,Jean Carlos,Task,2,1042594
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,2,235502
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,169494
+SA-2,Yan Fagundes,Jean Carlos,Bug,2,1126084
+SA-2,Yan Fagundes,,Task,1,8
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Bug,1,10
+SA-3012,Yan Fagundes,Jorge Andrade,Task,2,437191
+SA-3012,Yan Fagundes,Jorge Andrade,Bug,2,437193
+SA-3012,Yan Fagundes,Jorge Andrade,Bug,2,437188
+SA-3012,Yan Fagundes,Jorge Andrade,Bug,2,441500
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,2,1149559
+SA-3,Donavan Marques,Jorge Andrade,Bug,2,1234729
+SA-2,Yan Fagundes,Luiz Gustavo,Bug,2,1036887
+SA-3,Donavan Marques,Jorge Andrade,Bug,2,1236510
+SA-2,Yan Fagundes,Jean Carlos,Bug,2,930403
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,184
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,1124
+SA-3,Donavan Marques,Jorge Andrade,Bug,2,1312059
+SA-3,Donavan Marques,Jorge Andrade,Bug,2,1312059
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,2,1730158
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,2,1730159
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,2,1726044
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,2,1728481
+SA-2859,Donavan Marques,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,2,2069849
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,603526
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,613823
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Task,1,864851
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Task,1,439661
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,595206
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,595214
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,865048
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,595223
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,409435
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,609314
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,864923
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,608683
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,9
+SA-3642,Augusto Mandelli,Luiz Gustavo,Task,2,667793
+SA-116,Augusto Mandelli,Luiz Gustavo,Task,4,3213153
+SA-2,Yan Fagundes,Luiz Gustavo,Task,1,14
+SA-420,Augusto Mandelli,,Bug,2,326129
+SA-3947,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,5,1638203
+SA-2859,Luiz Gustavo,,Bug,2,1472567
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,1582
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,2117
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,243
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,2,701674
+SA-117,Yan Fagundes,,Task,1,173285
+SA-117,Yan Fagundes,,Task,1,172961
+SA-117,Yan Fagundes,,Task,1,281503
+SA-117,Yan Fagundes,,Task,1,280590
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,258701
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,19
+SA-2,Yan Fagundes,Jean Carlos,Bug,1,404853
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,256218
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,72898
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,70349
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,1,66601
+SA-2,Yan Fagundes,Luiz Gustavo,Bug,1,258013
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,546949
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,530121
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,523764
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Task,1,530262
+SA-2859,Donavan Marques,Jean Carlos;Luiz Gustavo,Bug,1,549040
+SA-3947,Yan Fagundes,Luiz Gustavo,Task,3,6297
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,875756
+SA-3012,Yan Fagundes,,Task,1,45
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,785285
+SA-2,Yan Fagundes,,Task,5,22
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,796559
+SA-3702,Yan Fagundes,Carlos Pasquali,Task,1,10
+SA-2,Yan Fagundes,,Bug,1,801353
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Bug,1,801353
+SA-3,Donavan Marques,Carlos Pasquali;Jorge Andrade,Bug,3,2945299
+SA-2,Jean Carlos,Jean Carlos;Luiz Gustavo,Bug,2,17
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,2,1487109
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,2,1116493
+SA-2859,Donavan Marques,Kauã Librelato da Costa;Luiz Gustavo,Bug,2,1479658
+SA-3,Donavan Marques,Carlos Pasquali,Bug,1,169765
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,1,1041446
+SA-116,Yan Fagundes,Luiz Gustavo,Bug,1,3796
+SA-116,Yan Fagundes,,Bug,1,678244
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,2,604521
+SA-2,Yan Fagundes,Kauã Librelato da Costa,Bug,1,3633
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,2,258221
+SA-2,Yan Fagundes,,Bug,1,201034
+SA-2,Yan Fagundes,,Bug,1,201380
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,418198
+SA-1,Yan Fagundes,Jean Carlos,Bug,2,601064
+SA-1,Yan Fagundes,Kauã Librelato da Costa,Bug,2,693530
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,78882
+SA-117,Yan Fagundes,Carlos Pasquali,Task,2,1041989
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,280999
+SA-116,Augusto Mandelli,Luiz Gustavo,Task,6,74107
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,2415
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,2401
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,2401
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,2401
+SA-420,Augusto Mandelli,Kauã Librelato da Costa,Bug,1,238475
+SA-2,Yan Fagundes,,Bug,1,569
+SA-1,Yan Fagundes,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Bug,2,1575859
+SA-1,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,3,1222650
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,3
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,2
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,245534
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,7610
+SA-3702,Augusto Mandelli,,Task,2,13158
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,1783
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,20142
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,83921
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,14293
+SA-3702,Augusto Mandelli,Carlos Pasquali,Task,2,276535
+SA-3887,Augusto Mandelli,Jorge Andrade,Task,3,2005598
+SA-1,Yan Fagundes,Kauã Librelato da Costa,Task,2,76252
+SA-1,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Bug,1,85238
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,1,72921
+SA-2,Yan Fagundes,Jean Carlos;Kauã Librelato da Costa;Luiz Gustavo,Task,1,97151
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,12753
+SA-117,Yan Fagundes,Carlos Pasquali;Jorge Andrade,Task,1,1981
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,1,286209
+SA-3012,Yan Fagundes,Jorge Andrade,Task,1,10344
+SA-2,Yan Fagundes,Jean Carlos,Task,1,364
+SA-2,Yan Fagundes,Kauã Librelato da Costa;Luiz Gustavo,Task,2,1551077
+SA-2,Yan Fagundes,Luiz Gustavo,Task,3,1191686
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,1,17842
+SA-2,Yan Fagundes,Kauã Librelato da Costa,Task,1,694523
+SA-2,Yan Fagundes,Jean Carlos;Luiz Gustavo,Task,1,91549
+SA-117,Yan Fagundes,Carlos Pasquali,Task,1,86400
+SA-2,Yan Fagundes,,Task,2,10037
+SA-2859,Donavan Marques,Kauã Librelato da Costa,Bug,9,616125
+SA-2,Yan Fagundes,,Task,7,13524
+SA-2,Yan Fagundes,Luiz Gustavo,Task,5,160604
