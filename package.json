@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "scipy": "^0.1.4"
+  },
+  "devDependencies": {
+    "pyodide": "^0.24.1"
+  }
+}
